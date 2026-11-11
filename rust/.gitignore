@@ -1,0 +1,6 @@
+target/
+*.Zl
+*.map
+*.db
+*.wav
+assets/

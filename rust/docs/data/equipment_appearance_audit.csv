@@ -1,0 +1,1227 @@
+id,name,type,shape,exterior_effect,required_class,required_gender,gender,class,csharp_library,rust_library,frame,status
+126,"Wood Sword",2,101,0,7,3,male,other,90,90,5000,source_frame_present
+126,"Wood Sword",2,101,0,7,3,male,assassin,90,90,5000,class_or_gender_ineligible
+126,"Wood Sword",2,101,0,7,3,female,other,104,104,5000,source_frame_present
+126,"Wood Sword",2,101,0,7,3,female,assassin,104,104,5000,class_or_gender_ineligible
+127,"Commoner Outfit (M)",3,2,0,7,1,male,other,31,31,10000,source_frame_present
+127,"Commoner Outfit (M)",3,2,0,7,1,male,assassin,53,53,6000,class_or_gender_ineligible
+127,"Commoner Outfit (M)",3,2,0,7,1,female,other,42,42,10000,class_or_gender_ineligible
+127,"Commoner Outfit (M)",3,2,0,7,1,female,assassin,59,59,6000,class_or_gender_ineligible
+128,"Commoner Outfit (F)",3,2,0,7,2,male,other,31,31,10000,class_or_gender_ineligible
+128,"Commoner Outfit (F)",3,2,0,7,2,male,assassin,53,53,6000,class_or_gender_ineligible
+128,"Commoner Outfit (F)",3,2,0,7,2,female,other,42,42,10000,source_frame_present
+128,"Commoner Outfit (F)",3,2,0,7,2,female,assassin,59,59,6000,class_or_gender_ineligible
+129,"Trainee's Glaive",2,1100,0,8,3,male,other,117,117,0,class_or_gender_ineligible
+129,"Trainee's Glaive",2,1100,0,8,3,male,assassin,117,117,0,source_frame_present
+129,"Trainee's Glaive",2,1100,0,8,3,female,other,129,129,0,class_or_gender_ineligible
+129,"Trainee's Glaive",2,1100,0,8,3,female,assassin,129,129,0,source_frame_present
+130,"Trainee's Armour (M)",3,1,0,8,1,male,other,31,31,5000,class_or_gender_ineligible
+130,"Trainee's Armour (M)",3,1,0,8,1,male,assassin,53,53,3000,source_frame_present
+130,"Trainee's Armour (M)",3,1,0,8,1,female,other,42,42,5000,class_or_gender_ineligible
+130,"Trainee's Armour (M)",3,1,0,8,1,female,assassin,59,59,3000,class_or_gender_ineligible
+131,"Trainee's Armour (F)",3,1,0,8,2,male,other,31,31,5000,class_or_gender_ineligible
+131,"Trainee's Armour (F)",3,1,0,8,2,male,assassin,53,53,3000,class_or_gender_ineligible
+131,"Trainee's Armour (F)",3,1,0,8,2,female,other,42,42,5000,class_or_gender_ineligible
+131,"Trainee's Armour (F)",3,1,0,8,2,female,assassin,59,59,3000,source_frame_present
+174,"Dagger",2,103,0,7,3,male,other,90,90,15000,source_frame_present
+174,"Dagger",2,103,0,7,3,male,assassin,90,90,15000,class_or_gender_ineligible
+174,"Dagger",2,103,0,7,3,female,other,104,104,15000,source_frame_present
+174,"Dagger",2,103,0,7,3,female,assassin,104,104,15000,class_or_gender_ineligible
+176,"Iron Sword",2,105,0,7,3,male,other,90,90,25000,source_frame_present
+176,"Iron Sword",2,105,0,7,3,male,assassin,90,90,25000,class_or_gender_ineligible
+176,"Iron Sword",2,105,0,7,3,female,other,104,104,25000,source_frame_present
+176,"Iron Sword",2,105,0,7,3,female,assassin,104,104,25000,class_or_gender_ineligible
+178,"Arisu Wood Sword",2,8,0,7,3,male,other,83,83,40000,source_frame_present
+178,"Arisu Wood Sword",2,8,0,7,3,male,assassin,83,83,40000,class_or_gender_ineligible
+178,"Arisu Wood Sword",2,8,0,7,3,female,other,97,97,40000,source_frame_present
+178,"Arisu Wood Sword",2,8,0,7,3,female,assassin,97,97,40000,class_or_gender_ineligible
+184,"Bronze Axe",2,102,0,7,3,male,other,90,90,10000,source_frame_present
+184,"Bronze Axe",2,102,0,7,3,male,assassin,90,90,10000,class_or_gender_ineligible
+184,"Bronze Axe",2,102,0,7,3,female,other,104,104,10000,source_frame_present
+184,"Bronze Axe",2,102,0,7,3,female,assassin,104,104,10000,class_or_gender_ineligible
+185,"Claw Of Horror",2,1202,0,8,3,male,other,111,111,10000,class_or_gender_ineligible
+185,"Claw Of Horror",2,1202,0,8,3,male,assassin,111,111,10000,source_frame_present
+185,"Claw Of Horror",2,1202,0,8,3,male,assassin_right,114,114,10000,source_frame_present
+185,"Claw Of Horror",2,1202,0,8,3,female,other,123,123,10000,class_or_gender_ineligible
+185,"Claw Of Horror",2,1202,0,8,3,female,assassin,123,123,10000,source_frame_present
+185,"Claw Of Horror",2,1202,0,8,3,female,assassin_right,126,126,10000,source_frame_present
+186,"Trident",2,100,0,7,3,male,other,90,90,0,source_frame_present
+186,"Trident",2,100,0,7,3,male,assassin,90,90,0,class_or_gender_ineligible
+186,"Trident",2,100,0,7,3,female,other,104,104,0,source_frame_present
+186,"Trident",2,100,0,7,3,female,assassin,104,104,0,class_or_gender_ineligible
+187,"Scimitar",2,104,0,7,3,male,other,90,90,20000,source_frame_present
+187,"Scimitar",2,104,0,7,3,male,assassin,90,90,20000,class_or_gender_ineligible
+187,"Scimitar",2,104,0,7,3,female,other,104,104,20000,source_frame_present
+187,"Scimitar",2,104,0,7,3,female,assassin,104,104,20000,class_or_gender_ineligible
+188,"Light Armour (M)",3,2,0,7,1,male,other,31,31,10000,source_frame_present
+188,"Light Armour (M)",3,2,0,7,1,male,assassin,53,53,6000,class_or_gender_ineligible
+188,"Light Armour (M)",3,2,0,7,1,female,other,42,42,10000,class_or_gender_ineligible
+188,"Light Armour (M)",3,2,0,7,1,female,assassin,59,59,6000,class_or_gender_ineligible
+189,"Light Armour (F)",3,2,0,7,2,male,other,31,31,10000,class_or_gender_ineligible
+189,"Light Armour (F)",3,2,0,7,2,male,assassin,53,53,6000,class_or_gender_ineligible
+189,"Light Armour (F)",3,2,0,7,2,female,other,42,42,10000,source_frame_present
+189,"Light Armour (F)",3,2,0,7,2,female,assassin,59,59,6000,class_or_gender_ineligible
+190,"Shroud Of Stealth (M)",3,1,0,8,1,male,other,31,31,5000,class_or_gender_ineligible
+190,"Shroud Of Stealth (M)",3,1,0,8,1,male,assassin,53,53,3000,source_frame_present
+190,"Shroud Of Stealth (M)",3,1,0,8,1,female,other,42,42,5000,class_or_gender_ineligible
+190,"Shroud Of Stealth (M)",3,1,0,8,1,female,assassin,59,59,3000,class_or_gender_ineligible
+191,"Shroud Of Stealth (F)",3,1,0,8,2,male,other,31,31,5000,class_or_gender_ineligible
+191,"Shroud Of Stealth (F)",3,1,0,8,2,male,assassin,53,53,3000,class_or_gender_ineligible
+191,"Shroud Of Stealth (F)",3,1,0,8,2,female,other,42,42,5000,class_or_gender_ineligible
+191,"Shroud Of Stealth (F)",3,1,0,8,2,female,assassin,59,59,3000,source_frame_present
+192,"Medium Armour (M)",3,3,0,7,1,male,other,31,31,15000,source_frame_present
+192,"Medium Armour (M)",3,3,0,7,1,male,assassin,53,53,9000,class_or_gender_ineligible
+192,"Medium Armour (M)",3,3,0,7,1,female,other,42,42,15000,class_or_gender_ineligible
+192,"Medium Armour (M)",3,3,0,7,1,female,assassin,59,59,9000,class_or_gender_ineligible
+193,"Medium Armour (F)",3,3,0,7,2,male,other,31,31,15000,class_or_gender_ineligible
+193,"Medium Armour (F)",3,3,0,7,2,male,assassin,53,53,9000,class_or_gender_ineligible
+193,"Medium Armour (F)",3,3,0,7,2,female,other,42,42,15000,source_frame_present
+193,"Medium Armour (F)",3,3,0,7,2,female,assassin,59,59,9000,class_or_gender_ineligible
+194,"Flame Robe (M)",3,4,0,7,1,male,other,31,31,20000,source_frame_present
+194,"Flame Robe (M)",3,4,0,7,1,male,assassin,53,53,12000,class_or_gender_ineligible
+194,"Flame Robe (M)",3,4,0,7,1,female,other,42,42,20000,class_or_gender_ineligible
+194,"Flame Robe (M)",3,4,0,7,1,female,assassin,59,59,12000,class_or_gender_ineligible
+195,"Flame Robe (F)",3,4,0,7,2,male,other,31,31,20000,class_or_gender_ineligible
+195,"Flame Robe (F)",3,4,0,7,2,male,assassin,53,53,12000,class_or_gender_ineligible
+195,"Flame Robe (F)",3,4,0,7,2,female,other,42,42,20000,source_frame_present
+195,"Flame Robe (F)",3,4,0,7,2,female,assassin,59,59,12000,class_or_gender_ineligible
+196,"Faith Robe (M)",3,5,0,7,1,male,other,31,31,25000,source_frame_present
+196,"Faith Robe (M)",3,5,0,7,1,male,assassin,53,53,15000,class_or_gender_ineligible
+196,"Faith Robe (M)",3,5,0,7,1,female,other,42,42,25000,class_or_gender_ineligible
+196,"Faith Robe (M)",3,5,0,7,1,female,assassin,59,59,15000,class_or_gender_ineligible
+197,"Faith Robe (F)",3,5,0,7,2,male,other,31,31,25000,class_or_gender_ineligible
+197,"Faith Robe (F)",3,5,0,7,2,male,assassin,53,53,15000,class_or_gender_ineligible
+197,"Faith Robe (F)",3,5,0,7,2,female,other,42,42,25000,source_frame_present
+197,"Faith Robe (F)",3,5,0,7,2,female,assassin,59,59,15000,class_or_gender_ineligible
+198,"Tunic Of Velocity (M)",3,2,0,8,1,male,other,31,31,10000,class_or_gender_ineligible
+198,"Tunic Of Velocity (M)",3,2,0,8,1,male,assassin,53,53,6000,source_frame_present
+198,"Tunic Of Velocity (M)",3,2,0,8,1,female,other,42,42,10000,class_or_gender_ineligible
+198,"Tunic Of Velocity (M)",3,2,0,8,1,female,assassin,59,59,6000,class_or_gender_ineligible
+199,"Tunic Of Velocity (F)",3,2,0,8,2,male,other,31,31,10000,class_or_gender_ineligible
+199,"Tunic Of Velocity (F)",3,2,0,8,2,male,assassin,53,53,6000,class_or_gender_ineligible
+199,"Tunic Of Velocity (F)",3,2,0,8,2,female,other,42,42,10000,class_or_gender_ineligible
+199,"Tunic Of Velocity (F)",3,2,0,8,2,female,assassin,59,59,6000,source_frame_present
+200,"Hexagon Blade",2,26,0,7,3,male,other,85,85,30000,source_frame_present
+200,"Hexagon Blade",2,26,0,7,3,male,assassin,85,85,30000,class_or_gender_ineligible
+200,"Hexagon Blade",2,26,0,7,3,female,other,99,99,30000,source_frame_present
+200,"Hexagon Blade",2,26,0,7,3,female,assassin,99,99,30000,class_or_gender_ineligible
+201,"War Spear",2,5,0,7,3,male,other,83,83,25000,source_frame_present
+201,"War Spear",2,5,0,7,3,male,assassin,83,83,25000,class_or_gender_ineligible
+201,"War Spear",2,5,0,7,3,female,other,97,97,25000,source_frame_present
+201,"War Spear",2,5,0,7,3,female,assassin,97,97,25000,class_or_gender_ineligible
+202,"War Blade",2,29,0,7,3,male,other,85,85,45000,source_frame_present
+202,"War Blade",2,29,0,7,3,male,assassin,85,85,45000,class_or_gender_ineligible
+202,"War Blade",2,29,0,7,3,female,other,99,99,45000,source_frame_present
+202,"War Blade",2,29,0,7,3,female,assassin,99,99,45000,class_or_gender_ineligible
+203,"Master's Glaive",2,1101,0,8,3,male,other,117,117,5000,class_or_gender_ineligible
+203,"Master's Glaive",2,1101,0,8,3,male,assassin,117,117,5000,source_frame_present
+203,"Master's Glaive",2,1101,0,8,3,female,other,129,129,5000,class_or_gender_ineligible
+203,"Master's Glaive",2,1101,0,8,3,female,assassin,129,129,5000,source_frame_present
+231,"Bronze Helmet",5,1,0,7,3,male,other,139,139,0,source_frame_present
+231,"Bronze Helmet",5,1,0,7,3,male,assassin,159,159,0,class_or_gender_ineligible
+231,"Bronze Helmet",5,1,0,7,3,female,other,149,149,0,source_frame_present
+231,"Bronze Helmet",5,1,0,7,3,female,assassin,164,164,0,class_or_gender_ineligible
+232,"Trainee's Mask",5,1,0,8,3,male,other,139,139,0,class_or_gender_ineligible
+232,"Trainee's Mask",5,1,0,8,3,male,assassin,159,159,0,source_frame_present
+232,"Trainee's Mask",5,1,0,8,3,female,other,149,149,0,class_or_gender_ineligible
+232,"Trainee's Mask",5,1,0,8,3,female,assassin,164,164,0,source_frame_present
+233,"Apprentice's Mask",5,1,0,8,3,male,other,139,139,0,class_or_gender_ineligible
+233,"Apprentice's Mask",5,1,0,8,3,male,assassin,159,159,0,source_frame_present
+233,"Apprentice's Mask",5,1,0,8,3,female,other,149,149,0,class_or_gender_ineligible
+233,"Apprentice's Mask",5,1,0,8,3,female,assassin,164,164,0,source_frame_present
+234,"Magic Bronze Helmet",5,1,0,7,3,male,other,139,139,0,source_frame_present
+234,"Magic Bronze Helmet",5,1,0,7,3,male,assassin,159,159,0,class_or_gender_ineligible
+234,"Magic Bronze Helmet",5,1,0,7,3,female,other,149,149,0,source_frame_present
+234,"Magic Bronze Helmet",5,1,0,7,3,female,assassin,164,164,0,class_or_gender_ineligible
+235,"Straw Sandles",9,0,0,15,3,male,other,,,,no_world_layer
+235,"Straw Sandles",9,0,0,15,3,male,assassin,,,,no_world_layer
+235,"Straw Sandles",9,0,0,15,3,female,other,,,,no_world_layer
+235,"Straw Sandles",9,0,0,15,3,female,assassin,,,,no_world_layer
+236,"Leather Shoes",9,0,0,15,3,male,other,,,,no_world_layer
+236,"Leather Shoes",9,0,0,15,3,male,assassin,,,,no_world_layer
+236,"Leather Shoes",9,0,0,15,3,female,other,,,,no_world_layer
+236,"Leather Shoes",9,0,0,15,3,female,assassin,,,,no_world_layer
+306,"Power Axe",2,11,0,7,3,male,other,84,84,5000,source_frame_present
+306,"Power Axe",2,11,0,7,3,male,assassin,84,84,5000,class_or_gender_ineligible
+306,"Power Axe",2,11,0,7,3,female,other,98,98,5000,source_frame_present
+306,"Power Axe",2,11,0,7,3,female,assassin,98,98,5000,class_or_gender_ineligible
+311,"Helmet Of Shaman",5,2,0,7,3,male,other,139,139,5000,source_frame_present
+311,"Helmet Of Shaman",5,2,0,7,3,male,assassin,159,159,3000,class_or_gender_ineligible
+311,"Helmet Of Shaman",5,2,0,7,3,female,other,149,149,5000,source_frame_present
+311,"Helmet Of Shaman",5,2,0,7,3,female,assassin,164,164,3000,class_or_gender_ineligible
+312,"Blade Of Spirit Caller",2,30,0,7,3,male,other,86,86,0,source_frame_present
+312,"Blade Of Spirit Caller",2,30,0,7,3,male,assassin,86,86,0,class_or_gender_ineligible
+312,"Blade Of Spirit Caller",2,30,0,7,3,female,other,100,100,0,source_frame_present
+312,"Blade Of Spirit Caller",2,30,0,7,3,female,assassin,100,100,0,class_or_gender_ineligible
+313,"Helmet Of Spirit Caller",5,5,0,7,3,male,other,139,139,20000,source_frame_present
+313,"Helmet Of Spirit Caller",5,5,0,7,3,male,assassin,159,159,12000,class_or_gender_ineligible
+313,"Helmet Of Spirit Caller",5,5,0,7,3,female,other,149,149,20000,source_frame_present
+313,"Helmet Of Spirit Caller",5,5,0,7,3,female,assassin,164,164,12000,class_or_gender_ineligible
+317,"White Skull Helmet",5,3,0,7,3,male,other,139,139,10000,source_frame_present
+317,"White Skull Helmet",5,3,0,7,3,male,assassin,159,159,6000,class_or_gender_ineligible
+317,"White Skull Helmet",5,3,0,7,3,female,other,149,149,10000,source_frame_present
+317,"White Skull Helmet",5,3,0,7,3,female,assassin,164,164,6000,class_or_gender_ineligible
+318,"Boots Of Crimson Steed",9,0,0,15,3,male,other,,,,no_world_layer
+318,"Boots Of Crimson Steed",9,0,0,15,3,male,assassin,,,,no_world_layer
+318,"Boots Of Crimson Steed",9,0,0,15,3,female,other,,,,no_world_layer
+318,"Boots Of Crimson Steed",9,0,0,15,3,female,assassin,,,,no_world_layer
+319,"Disguise Of The Master",5,2,0,8,3,male,other,139,139,5000,class_or_gender_ineligible
+319,"Disguise Of The Master",5,2,0,8,3,male,assassin,159,159,3000,source_frame_present
+319,"Disguise Of The Master",5,2,0,8,3,female,other,149,149,5000,class_or_gender_ineligible
+319,"Disguise Of The Master",5,2,0,8,3,female,assassin,164,164,3000,source_frame_present
+320,"Blood Prophet's Cowl",5,12,0,8,3,male,other,140,140,5000,class_or_gender_ineligible
+320,"Blood Prophet's Cowl",5,12,0,8,3,male,assassin,160,160,3000,source_frame_present
+320,"Blood Prophet's Cowl",5,12,0,8,3,female,other,150,150,5000,class_or_gender_ineligible
+320,"Blood Prophet's Cowl",5,12,0,8,3,female,assassin,165,165,3000,source_frame_present
+321,"Assassination Mask",5,3,0,8,3,male,other,139,139,10000,class_or_gender_ineligible
+321,"Assassination Mask",5,3,0,8,3,male,assassin,159,159,6000,source_frame_present
+321,"Assassination Mask",5,3,0,8,3,female,other,149,149,10000,class_or_gender_ineligible
+321,"Assassination Mask",5,3,0,8,3,female,assassin,164,164,6000,source_frame_present
+324,"Helmet Of The War God",5,11,0,7,3,male,other,140,140,0,source_frame_present
+324,"Helmet Of The War God",5,11,0,7,3,male,assassin,160,160,0,class_or_gender_ineligible
+324,"Helmet Of The War God",5,11,0,7,3,female,other,150,150,0,source_frame_present
+324,"Helmet Of The War God",5,11,0,7,3,female,assassin,165,165,0,class_or_gender_ineligible
+325,"Crown Of Feral Lord",5,12,0,7,3,male,other,140,140,5000,source_frame_present
+325,"Crown Of Feral Lord",5,12,0,7,3,male,assassin,160,160,3000,class_or_gender_ineligible
+325,"Crown Of Feral Lord",5,12,0,7,3,female,other,150,150,5000,source_frame_present
+325,"Crown Of Feral Lord",5,12,0,7,3,female,assassin,165,165,3000,class_or_gender_ineligible
+328,"Bone Claymore",2,26,0,7,3,male,other,85,85,30000,source_frame_present
+328,"Bone Claymore",2,26,0,7,3,male,assassin,85,85,30000,class_or_gender_ineligible
+328,"Bone Claymore",2,26,0,7,3,female,other,99,99,30000,source_frame_present
+328,"Bone Claymore",2,26,0,7,3,female,assassin,99,99,30000,class_or_gender_ineligible
+329,"Mage Staff",2,15,0,7,3,male,other,84,84,25000,source_frame_present
+329,"Mage Staff",2,15,0,7,3,male,assassin,84,84,25000,class_or_gender_ineligible
+329,"Mage Staff",2,15,0,7,3,female,other,98,98,25000,source_frame_present
+329,"Mage Staff",2,15,0,7,3,female,assassin,98,98,25000,class_or_gender_ineligible
+330,"Serpent Sword",2,17,0,7,3,male,other,84,84,35000,source_frame_present
+330,"Serpent Sword",2,17,0,7,3,male,assassin,84,84,35000,class_or_gender_ineligible
+330,"Serpent Sword",2,17,0,7,3,female,other,98,98,35000,source_frame_present
+330,"Serpent Sword",2,17,0,7,3,female,assassin,98,98,35000,class_or_gender_ineligible
+331,"Glaive Of Manes",2,1102,0,8,3,male,other,117,117,10000,class_or_gender_ineligible
+331,"Glaive Of Manes",2,1102,0,8,3,male,assassin,117,117,10000,source_frame_present
+331,"Glaive Of Manes",2,1102,0,8,3,female,other,129,129,10000,class_or_gender_ineligible
+331,"Glaive Of Manes",2,1102,0,8,3,female,assassin,129,129,10000,source_frame_present
+335,"Iron Plate Armour (M)",3,6,0,7,1,male,other,31,31,30000,source_frame_present
+335,"Iron Plate Armour (M)",3,6,0,7,1,male,assassin,53,53,18000,class_or_gender_ineligible
+335,"Iron Plate Armour (M)",3,6,0,7,1,female,other,42,42,30000,class_or_gender_ineligible
+335,"Iron Plate Armour (M)",3,6,0,7,1,female,assassin,59,59,18000,class_or_gender_ineligible
+336,"Iron Plate Armour (F)",3,6,0,7,2,male,other,31,31,30000,class_or_gender_ineligible
+336,"Iron Plate Armour (F)",3,6,0,7,2,male,assassin,53,53,18000,class_or_gender_ineligible
+336,"Iron Plate Armour (F)",3,6,0,7,2,female,other,42,42,30000,source_frame_present
+336,"Iron Plate Armour (F)",3,6,0,7,2,female,assassin,59,59,18000,class_or_gender_ineligible
+337,"Robe Of Dark Flame (M)",3,7,0,7,1,male,other,31,31,35000,source_frame_present
+337,"Robe Of Dark Flame (M)",3,7,0,7,1,male,assassin,53,53,21000,class_or_gender_ineligible
+337,"Robe Of Dark Flame (M)",3,7,0,7,1,female,other,42,42,35000,class_or_gender_ineligible
+337,"Robe Of Dark Flame (M)",3,7,0,7,1,female,assassin,59,59,21000,class_or_gender_ineligible
+338,"Robe Of Dark Flame (F)",3,7,0,7,2,male,other,31,31,35000,class_or_gender_ineligible
+338,"Robe Of Dark Flame (F)",3,7,0,7,2,male,assassin,53,53,21000,class_or_gender_ineligible
+338,"Robe Of Dark Flame (F)",3,7,0,7,2,female,other,42,42,35000,source_frame_present
+338,"Robe Of Dark Flame (F)",3,7,0,7,2,female,assassin,59,59,21000,class_or_gender_ineligible
+339,"Robe Of Balance (M)",3,8,0,7,1,male,other,31,31,40000,source_frame_present
+339,"Robe Of Balance (M)",3,8,0,7,1,male,assassin,53,53,24000,class_or_gender_ineligible
+339,"Robe Of Balance (M)",3,8,0,7,1,female,other,42,42,40000,class_or_gender_ineligible
+339,"Robe Of Balance (M)",3,8,0,7,1,female,assassin,59,59,24000,class_or_gender_ineligible
+340,"Robe Of Balance (F)",3,8,0,7,2,male,other,31,31,40000,class_or_gender_ineligible
+340,"Robe Of Balance (F)",3,8,0,7,2,male,assassin,53,53,24000,class_or_gender_ineligible
+340,"Robe Of Balance (F)",3,8,0,7,2,female,other,42,42,40000,source_frame_present
+340,"Robe Of Balance (F)",3,8,0,7,2,female,assassin,59,59,24000,class_or_gender_ineligible
+341,"Shadow Armour Of Deviation (M)",3,3,0,8,1,male,other,31,31,15000,class_or_gender_ineligible
+341,"Shadow Armour Of Deviation (M)",3,3,0,8,1,male,assassin,53,53,9000,source_frame_present
+341,"Shadow Armour Of Deviation (M)",3,3,0,8,1,female,other,42,42,15000,class_or_gender_ineligible
+341,"Shadow Armour Of Deviation (M)",3,3,0,8,1,female,assassin,59,59,9000,class_or_gender_ineligible
+342,"Shadow Armour Of Deviation (F)",3,3,0,8,2,male,other,31,31,15000,class_or_gender_ineligible
+342,"Shadow Armour Of Deviation (F)",3,3,0,8,2,male,assassin,53,53,9000,class_or_gender_ineligible
+342,"Shadow Armour Of Deviation (F)",3,3,0,8,2,female,other,42,42,15000,class_or_gender_ineligible
+342,"Shadow Armour Of Deviation (F)",3,3,0,8,2,female,assassin,59,59,9000,source_frame_present
+346,"Wyvern Armour (M)",3,9,0,7,1,male,other,31,31,45000,source_frame_present
+346,"Wyvern Armour (M)",3,9,0,7,1,male,assassin,53,53,27000,class_or_gender_ineligible
+346,"Wyvern Armour (M)",3,9,0,7,1,female,other,42,42,45000,class_or_gender_ineligible
+346,"Wyvern Armour (M)",3,9,0,7,1,female,assassin,59,59,27000,class_or_gender_ineligible
+347,"Wyvern Armour (F)",3,9,0,7,2,male,other,31,31,45000,class_or_gender_ineligible
+347,"Wyvern Armour (F)",3,9,0,7,2,male,assassin,53,53,27000,class_or_gender_ineligible
+347,"Wyvern Armour (F)",3,9,0,7,2,female,other,42,42,45000,source_frame_present
+347,"Wyvern Armour (F)",3,9,0,7,2,female,assassin,59,59,27000,class_or_gender_ineligible
+348,"Nephrite Armour (M)",3,4,0,8,1,male,other,31,31,20000,class_or_gender_ineligible
+348,"Nephrite Armour (M)",3,4,0,8,1,male,assassin,53,53,12000,source_frame_present
+348,"Nephrite Armour (M)",3,4,0,8,1,female,other,42,42,20000,class_or_gender_ineligible
+348,"Nephrite Armour (M)",3,4,0,8,1,female,assassin,59,59,12000,class_or_gender_ineligible
+349,"Nephrite Armour (F)",3,4,0,8,2,male,other,31,31,20000,class_or_gender_ineligible
+349,"Nephrite Armour (F)",3,4,0,8,2,male,assassin,53,53,12000,class_or_gender_ineligible
+349,"Nephrite Armour (F)",3,4,0,8,2,female,other,42,42,20000,class_or_gender_ineligible
+349,"Nephrite Armour (F)",3,4,0,8,2,female,assassin,59,59,12000,source_frame_present
+350,"Wyvern Armour Of Protection (M)",3,9,0,7,1,male,other,31,31,45000,source_frame_present
+350,"Wyvern Armour Of Protection (M)",3,9,0,7,1,male,assassin,53,53,27000,class_or_gender_ineligible
+350,"Wyvern Armour Of Protection (M)",3,9,0,7,1,female,other,42,42,45000,class_or_gender_ineligible
+350,"Wyvern Armour Of Protection (M)",3,9,0,7,1,female,assassin,59,59,27000,class_or_gender_ineligible
+351,"Wyvern Armour Of Protection (F)",3,9,0,7,2,male,other,31,31,45000,class_or_gender_ineligible
+351,"Wyvern Armour Of Protection (F)",3,9,0,7,2,male,assassin,53,53,27000,class_or_gender_ineligible
+351,"Wyvern Armour Of Protection (F)",3,9,0,7,2,female,other,42,42,45000,source_frame_present
+351,"Wyvern Armour Of Protection (F)",3,9,0,7,2,female,assassin,59,59,27000,class_or_gender_ineligible
+352,"Demon Hunter's Shroud (M)",3,5,0,8,1,male,other,31,31,25000,class_or_gender_ineligible
+352,"Demon Hunter's Shroud (M)",3,5,0,8,1,male,assassin,53,53,15000,source_frame_present
+352,"Demon Hunter's Shroud (M)",3,5,0,8,1,female,other,42,42,25000,class_or_gender_ineligible
+352,"Demon Hunter's Shroud (M)",3,5,0,8,1,female,assassin,59,59,15000,class_or_gender_ineligible
+353,"Demon Hunter's Shroud (F)",3,5,0,8,2,male,other,31,31,25000,class_or_gender_ineligible
+353,"Demon Hunter's Shroud (F)",3,5,0,8,2,male,assassin,53,53,15000,class_or_gender_ineligible
+353,"Demon Hunter's Shroud (F)",3,5,0,8,2,female,other,42,42,25000,class_or_gender_ineligible
+353,"Demon Hunter's Shroud (F)",3,5,0,8,2,female,assassin,59,59,15000,source_frame_present
+357,"Sword Of Purification",2,26,0,7,3,male,other,85,85,30000,source_frame_present
+357,"Sword Of Purification",2,26,0,7,3,male,assassin,85,85,30000,class_or_gender_ineligible
+357,"Sword Of Purification",2,26,0,7,3,female,other,99,99,30000,source_frame_present
+357,"Sword Of Purification",2,26,0,7,3,female,assassin,99,99,30000,class_or_gender_ineligible
+362,"Head-Guard Of Summoning",5,4,0,7,3,male,other,139,139,15000,source_frame_present
+362,"Head-Guard Of Summoning",5,4,0,7,3,male,assassin,159,159,9000,class_or_gender_ineligible
+362,"Head-Guard Of Summoning",5,4,0,7,3,female,other,149,149,15000,source_frame_present
+362,"Head-Guard Of Summoning",5,4,0,7,3,female,assassin,164,164,9000,class_or_gender_ineligible
+363,"Enchanted Blade",2,12,0,7,3,male,other,84,84,10000,source_frame_present
+363,"Enchanted Blade",2,12,0,7,3,male,assassin,84,84,10000,class_or_gender_ineligible
+363,"Enchanted Blade",2,12,0,7,3,female,other,98,98,10000,source_frame_present
+363,"Enchanted Blade",2,12,0,7,3,female,assassin,98,98,10000,class_or_gender_ineligible
+382,"Bamboo Hat",5,8,0,7,3,male,other,139,139,35000,source_frame_present
+382,"Bamboo Hat",5,8,0,7,3,male,assassin,159,159,21000,class_or_gender_ineligible
+382,"Bamboo Hat",5,8,0,7,3,female,other,149,149,35000,source_frame_present
+382,"Bamboo Hat",5,8,0,7,3,female,assassin,164,164,21000,class_or_gender_ineligible
+390,"Brightly Coloured Shoes",9,0,0,15,3,male,other,,,,no_world_layer
+390,"Brightly Coloured Shoes",9,0,0,15,3,male,assassin,,,,no_world_layer
+390,"Brightly Coloured Shoes",9,0,0,15,3,female,other,,,,no_world_layer
+390,"Brightly Coloured Shoes",9,0,0,15,3,female,assassin,,,,no_world_layer
+391,"Iron Wood Helmet",5,7,0,7,3,male,other,139,139,30000,source_frame_present
+391,"Iron Wood Helmet",5,7,0,7,3,male,assassin,159,159,18000,class_or_gender_ineligible
+391,"Iron Wood Helmet",5,7,0,7,3,female,other,149,149,30000,source_frame_present
+391,"Iron Wood Helmet",5,7,0,7,3,female,assassin,164,164,18000,class_or_gender_ineligible
+392,"White Lotus Disguise",5,2,0,8,3,male,other,139,139,5000,class_or_gender_ineligible
+392,"White Lotus Disguise",5,2,0,8,3,male,assassin,159,159,3000,source_frame_present
+392,"White Lotus Disguise",5,2,0,8,3,female,other,149,149,5000,class_or_gender_ineligible
+392,"White Lotus Disguise",5,2,0,8,3,female,assassin,164,164,3000,source_frame_present
+393,"Red Lotus Disguise",5,4,0,8,3,male,other,139,139,15000,class_or_gender_ineligible
+393,"Red Lotus Disguise",5,4,0,8,3,male,assassin,159,159,9000,source_frame_present
+393,"Red Lotus Disguise",5,4,0,8,3,female,other,149,149,15000,class_or_gender_ineligible
+393,"Red Lotus Disguise",5,4,0,8,3,female,assassin,164,164,9000,source_frame_present
+402,"Zuma Judgement Mace",2,14,0,7,3,male,other,84,84,20000,source_frame_present
+402,"Zuma Judgement Mace",2,14,0,7,3,male,assassin,84,84,20000,class_or_gender_ineligible
+402,"Zuma Judgement Mace",2,14,0,7,3,female,other,98,98,20000,source_frame_present
+402,"Zuma Judgement Mace",2,14,0,7,3,female,assassin,98,98,20000,class_or_gender_ineligible
+403,"Zuma Runed Staff",2,18,0,7,3,male,other,84,84,40000,source_frame_present
+403,"Zuma Runed Staff",2,18,0,7,3,male,assassin,84,84,40000,class_or_gender_ineligible
+403,"Zuma Runed Staff",2,18,0,7,3,female,other,98,98,40000,source_frame_present
+403,"Zuma Runed Staff",2,18,0,7,3,female,assassin,98,98,40000,class_or_gender_ineligible
+404,"Zuma Dragon Bone Staff",2,16,0,7,3,male,other,84,84,30000,source_frame_present
+404,"Zuma Dragon Bone Staff",2,16,0,7,3,male,assassin,84,84,30000,class_or_gender_ineligible
+404,"Zuma Dragon Bone Staff",2,16,0,7,3,female,other,98,98,30000,source_frame_present
+404,"Zuma Dragon Bone Staff",2,16,0,7,3,female,assassin,98,98,30000,class_or_gender_ineligible
+406,"Claw Of Black Tortoise",2,1205,0,8,3,male,other,111,111,25000,class_or_gender_ineligible
+406,"Claw Of Black Tortoise",2,1205,0,8,3,male,assassin,111,111,25000,source_frame_present
+406,"Claw Of Black Tortoise",2,1205,0,8,3,male,assassin_right,114,114,25000,source_frame_present
+406,"Claw Of Black Tortoise",2,1205,0,8,3,female,other,123,123,25000,class_or_gender_ineligible
+406,"Claw Of Black Tortoise",2,1205,0,8,3,female,assassin,123,123,25000,source_frame_present
+406,"Claw Of Black Tortoise",2,1205,0,8,3,female,assassin_right,126,126,25000,source_frame_present
+407,"Laurel Mask",5,8,0,8,3,male,other,139,139,35000,class_or_gender_ineligible
+407,"Laurel Mask",5,8,0,8,3,male,assassin,159,159,21000,source_frame_present
+407,"Laurel Mask",5,8,0,8,3,female,other,149,149,35000,class_or_gender_ineligible
+407,"Laurel Mask",5,8,0,8,3,female,assassin,164,164,21000,source_frame_present
+428,"Great Axe",2,4,0,7,3,male,other,83,83,20000,source_frame_present
+428,"Great Axe",2,4,0,7,3,male,assassin,83,83,20000,class_or_gender_ineligible
+428,"Great Axe",2,4,0,7,3,female,other,97,97,20000,source_frame_present
+428,"Great Axe",2,4,0,7,3,female,assassin,97,97,20000,class_or_gender_ineligible
+429,"Mage Sword",2,27,0,7,3,male,other,85,85,35000,source_frame_present
+429,"Mage Sword",2,27,0,7,3,male,assassin,85,85,35000,class_or_gender_ineligible
+429,"Mage Sword",2,27,0,7,3,female,other,99,99,35000,source_frame_present
+429,"Mage Sword",2,27,0,7,3,female,assassin,99,99,35000,class_or_gender_ineligible
+430,"Valor Blade",2,108,0,7,3,male,other,90,90,40000,source_frame_present
+430,"Valor Blade",2,108,0,7,3,male,assassin,90,90,40000,class_or_gender_ineligible
+430,"Valor Blade",2,108,0,7,3,female,other,104,104,40000,source_frame_present
+430,"Valor Blade",2,108,0,7,3,female,assassin,104,104,40000,class_or_gender_ineligible
+431,"White Lotus Glaive",2,1106,0,8,3,male,other,117,117,30000,class_or_gender_ineligible
+431,"White Lotus Glaive",2,1106,0,8,3,male,assassin,117,117,30000,source_frame_present
+431,"White Lotus Glaive",2,1106,0,8,3,female,other,129,129,30000,class_or_gender_ineligible
+431,"White Lotus Glaive",2,1106,0,8,3,female,assassin,129,129,30000,source_frame_present
+439,"Bronze Sword",2,26,0,7,3,male,other,85,85,30000,source_frame_present
+439,"Bronze Sword",2,26,0,7,3,male,assassin,85,85,30000,class_or_gender_ineligible
+439,"Bronze Sword",2,26,0,7,3,female,other,99,99,30000,source_frame_present
+439,"Bronze Sword",2,26,0,7,3,female,assassin,99,99,30000,class_or_gender_ineligible
+445,"Apprentice's Hand Blade",2,1200,0,8,3,male,other,111,111,0,class_or_gender_ineligible
+445,"Apprentice's Hand Blade",2,1200,0,8,3,male,assassin,111,111,0,source_frame_present
+445,"Apprentice's Hand Blade",2,1200,0,8,3,male,assassin_right,114,114,0,source_frame_present
+445,"Apprentice's Hand Blade",2,1200,0,8,3,female,other,123,123,0,class_or_gender_ineligible
+445,"Apprentice's Hand Blade",2,1200,0,8,3,female,assassin,123,123,0,source_frame_present
+445,"Apprentice's Hand Blade",2,1200,0,8,3,female,assassin_right,126,126,0,source_frame_present
+446,"Expert's Hand Blade",2,1200,0,8,3,male,other,111,111,0,class_or_gender_ineligible
+446,"Expert's Hand Blade",2,1200,0,8,3,male,assassin,111,111,0,source_frame_present
+446,"Expert's Hand Blade",2,1200,0,8,3,male,assassin_right,114,114,0,source_frame_present
+446,"Expert's Hand Blade",2,1200,0,8,3,female,other,123,123,0,class_or_gender_ineligible
+446,"Expert's Hand Blade",2,1200,0,8,3,female,assassin,123,123,0,source_frame_present
+446,"Expert's Hand Blade",2,1200,0,8,3,female,assassin_right,126,126,0,source_frame_present
+449,"Razor Sharp Hand Blade",2,1200,0,8,3,male,other,111,111,0,class_or_gender_ineligible
+449,"Razor Sharp Hand Blade",2,1200,0,8,3,male,assassin,111,111,0,source_frame_present
+449,"Razor Sharp Hand Blade",2,1200,0,8,3,male,assassin_right,114,114,0,source_frame_present
+449,"Razor Sharp Hand Blade",2,1200,0,8,3,female,other,123,123,0,class_or_gender_ineligible
+449,"Razor Sharp Hand Blade",2,1200,0,8,3,female,assassin,123,123,0,source_frame_present
+449,"Razor Sharp Hand Blade",2,1200,0,8,3,female,assassin_right,126,126,0,source_frame_present
+457,"Deathblow Talon",2,1201,0,8,3,male,other,111,111,5000,class_or_gender_ineligible
+457,"Deathblow Talon",2,1201,0,8,3,male,assassin,111,111,5000,source_frame_present
+457,"Deathblow Talon",2,1201,0,8,3,male,assassin_right,114,114,5000,source_frame_present
+457,"Deathblow Talon",2,1201,0,8,3,female,other,123,123,5000,class_or_gender_ineligible
+457,"Deathblow Talon",2,1201,0,8,3,female,assassin,123,123,5000,source_frame_present
+457,"Deathblow Talon",2,1201,0,8,3,female,assassin_right,126,126,5000,source_frame_present
+471,"Assassin's Ripper",2,1201,0,8,3,male,other,111,111,5000,class_or_gender_ineligible
+471,"Assassin's Ripper",2,1201,0,8,3,male,assassin,111,111,5000,source_frame_present
+471,"Assassin's Ripper",2,1201,0,8,3,male,assassin_right,114,114,5000,source_frame_present
+471,"Assassin's Ripper",2,1201,0,8,3,female,other,123,123,5000,class_or_gender_ineligible
+471,"Assassin's Ripper",2,1201,0,8,3,female,assassin,123,123,5000,source_frame_present
+471,"Assassin's Ripper",2,1201,0,8,3,female,assassin_right,126,126,5000,source_frame_present
+494,"Numa Power Axe",2,11,0,7,3,male,other,84,84,5000,source_frame_present
+494,"Numa Power Axe",2,11,0,7,3,male,assassin,84,84,5000,class_or_gender_ineligible
+494,"Numa Power Axe",2,11,0,7,3,female,other,98,98,5000,source_frame_present
+494,"Numa Power Axe",2,11,0,7,3,female,assassin,98,98,5000,class_or_gender_ineligible
+495,"Numa Mage Staff",2,15,0,7,3,male,other,84,84,25000,source_frame_present
+495,"Numa Mage Staff",2,15,0,7,3,male,assassin,84,84,25000,class_or_gender_ineligible
+495,"Numa Mage Staff",2,15,0,7,3,female,other,98,98,25000,source_frame_present
+495,"Numa Mage Staff",2,15,0,7,3,female,assassin,98,98,25000,class_or_gender_ineligible
+496,"Rogue's Render",2,1203,0,8,3,male,other,111,111,15000,class_or_gender_ineligible
+496,"Rogue's Render",2,1203,0,8,3,male,assassin,111,111,15000,source_frame_present
+496,"Rogue's Render",2,1203,0,8,3,male,assassin_right,114,114,15000,source_frame_present
+496,"Rogue's Render",2,1203,0,8,3,female,other,123,123,15000,class_or_gender_ineligible
+496,"Rogue's Render",2,1203,0,8,3,female,assassin,123,123,15000,source_frame_present
+496,"Rogue's Render",2,1203,0,8,3,female,assassin_right,126,126,15000,source_frame_present
+497,"Cursed Serpent Sword",2,17,0,7,3,male,other,84,84,35000,source_frame_present
+497,"Cursed Serpent Sword",2,17,0,7,3,male,assassin,84,84,35000,class_or_gender_ineligible
+497,"Cursed Serpent Sword",2,17,0,7,3,female,other,98,98,35000,source_frame_present
+497,"Cursed Serpent Sword",2,17,0,7,3,female,assassin,98,98,35000,class_or_gender_ineligible
+498,"Ambitious Sword Of Abyss",2,37,0,7,3,male,other,86,86,35000,source_frame_present
+498,"Ambitious Sword Of Abyss",2,37,0,7,3,male,assassin,86,86,35000,class_or_gender_ineligible
+498,"Ambitious Sword Of Abyss",2,37,0,7,3,female,other,100,100,35000,source_frame_present
+498,"Ambitious Sword Of Abyss",2,37,0,7,3,female,assassin,100,100,35000,class_or_gender_ineligible
+499,"Ambitious Warden's Fan Of Obedience",2,38,0,7,3,male,other,86,86,40000,source_frame_present
+499,"Ambitious Warden's Fan Of Obedience",2,38,0,7,3,male,assassin,86,86,40000,class_or_gender_ineligible
+499,"Ambitious Warden's Fan Of Obedience",2,38,0,7,3,female,other,100,100,40000,source_frame_present
+499,"Ambitious Warden's Fan Of Obedience",2,38,0,7,3,female,assassin,100,100,40000,class_or_gender_ineligible
+500,"Ambitious Glaive Of Doom",2,39,0,7,3,male,other,86,86,45000,source_frame_present
+500,"Ambitious Glaive Of Doom",2,39,0,7,3,male,assassin,86,86,45000,class_or_gender_ineligible
+500,"Ambitious Glaive Of Doom",2,39,0,7,3,female,other,100,100,45000,source_frame_present
+500,"Ambitious Glaive Of Doom",2,39,0,7,3,female,assassin,100,100,45000,class_or_gender_ineligible
+502,"Lance Of Obedience",2,1110,0,8,3,male,other,118,118,0,class_or_gender_ineligible
+502,"Lance Of Obedience",2,1110,0,8,3,male,assassin,118,118,0,source_frame_present
+502,"Lance Of Obedience",2,1110,0,8,3,female,other,130,130,0,class_or_gender_ineligible
+502,"Lance Of Obedience",2,1110,0,8,3,female,assassin,130,130,0,source_frame_present
+507,"Enchanted Blade Of Banya",2,12,0,7,3,male,other,84,84,10000,source_frame_present
+507,"Enchanted Blade Of Banya",2,12,0,7,3,male,assassin,84,84,10000,class_or_gender_ineligible
+507,"Enchanted Blade Of Banya",2,12,0,7,3,female,other,98,98,10000,source_frame_present
+507,"Enchanted Blade Of Banya",2,12,0,7,3,female,assassin,98,98,10000,class_or_gender_ineligible
+509,"Mage Sword Of Banya",2,27,0,7,3,male,other,85,85,35000,source_frame_present
+509,"Mage Sword Of Banya",2,27,0,7,3,male,assassin,85,85,35000,class_or_gender_ineligible
+509,"Mage Sword Of Banya",2,27,0,7,3,female,other,99,99,35000,source_frame_present
+509,"Mage Sword Of Banya",2,27,0,7,3,female,assassin,99,99,35000,class_or_gender_ineligible
+510,"Runed Staff Of Banya",2,18,0,7,3,male,other,84,84,40000,source_frame_present
+510,"Runed Staff Of Banya",2,18,0,7,3,male,assassin,84,84,40000,class_or_gender_ineligible
+510,"Runed Staff Of Banya",2,18,0,7,3,female,other,98,98,40000,source_frame_present
+510,"Runed Staff Of Banya",2,18,0,7,3,female,assassin,98,98,40000,class_or_gender_ineligible
+511,"Forged Scimitar Of Banya",2,13,0,7,3,male,other,84,84,15000,source_frame_present
+511,"Forged Scimitar Of Banya",2,13,0,7,3,male,assassin,84,84,15000,class_or_gender_ineligible
+511,"Forged Scimitar Of Banya",2,13,0,7,3,female,other,98,98,15000,source_frame_present
+511,"Forged Scimitar Of Banya",2,13,0,7,3,female,assassin,98,98,15000,class_or_gender_ineligible
+512,"Glaive Of Frozen Heart",2,1103,0,8,3,male,other,117,117,15000,class_or_gender_ineligible
+512,"Glaive Of Frozen Heart",2,1103,0,8,3,male,assassin,117,117,15000,source_frame_present
+512,"Glaive Of Frozen Heart",2,1103,0,8,3,female,other,129,129,15000,class_or_gender_ineligible
+512,"Glaive Of Frozen Heart",2,1103,0,8,3,female,assassin,129,129,15000,source_frame_present
+513,"Red Lotus Glaive",2,1104,0,8,3,male,other,117,117,20000,class_or_gender_ineligible
+513,"Red Lotus Glaive",2,1104,0,8,3,male,assassin,117,117,20000,source_frame_present
+513,"Red Lotus Glaive",2,1104,0,8,3,female,other,129,129,20000,class_or_gender_ineligible
+513,"Red Lotus Glaive",2,1104,0,8,3,female,assassin,129,129,20000,source_frame_present
+515,"Conqueror's Talon",2,1204,0,8,3,male,other,111,111,20000,class_or_gender_ineligible
+515,"Conqueror's Talon",2,1204,0,8,3,male,assassin,111,111,20000,source_frame_present
+515,"Conqueror's Talon",2,1204,0,8,3,male,assassin_right,114,114,20000,source_frame_present
+515,"Conqueror's Talon",2,1204,0,8,3,female,other,123,123,20000,class_or_gender_ineligible
+515,"Conqueror's Talon",2,1204,0,8,3,female,assassin,123,123,20000,source_frame_present
+515,"Conqueror's Talon",2,1204,0,8,3,female,assassin_right,126,126,20000,source_frame_present
+519,"Boots Of Despair",9,0,0,15,3,male,other,,,,no_world_layer
+519,"Boots Of Despair",9,0,0,15,3,male,assassin,,,,no_world_layer
+519,"Boots Of Despair",9,0,0,15,3,female,other,,,,no_world_layer
+519,"Boots Of Despair",9,0,0,15,3,female,assassin,,,,no_world_layer
+520,"Boots Of Swiftness",9,0,0,15,3,male,other,,,,no_world_layer
+520,"Boots Of Swiftness",9,0,0,15,3,male,assassin,,,,no_world_layer
+520,"Boots Of Swiftness",9,0,0,15,3,female,other,,,,no_world_layer
+520,"Boots Of Swiftness",9,0,0,15,3,female,assassin,,,,no_world_layer
+521,"Boots Of Levitation",9,0,0,15,3,male,other,,,,no_world_layer
+521,"Boots Of Levitation",9,0,0,15,3,male,assassin,,,,no_world_layer
+521,"Boots Of Levitation",9,0,0,15,3,female,other,,,,no_world_layer
+521,"Boots Of Levitation",9,0,0,15,3,female,assassin,,,,no_world_layer
+522,"Blue Sword Of Purification",2,26,0,7,3,male,other,85,85,30000,source_frame_present
+522,"Blue Sword Of Purification",2,26,0,7,3,male,assassin,85,85,30000,class_or_gender_ineligible
+522,"Blue Sword Of Purification",2,26,0,7,3,female,other,99,99,30000,source_frame_present
+522,"Blue Sword Of Purification",2,26,0,7,3,female,assassin,99,99,30000,class_or_gender_ineligible
+523,"Serpent Sword Of Banya",2,17,0,7,3,male,other,84,84,35000,source_frame_present
+523,"Serpent Sword Of Banya",2,17,0,7,3,male,assassin,84,84,35000,class_or_gender_ineligible
+523,"Serpent Sword Of Banya",2,17,0,7,3,female,other,98,98,35000,source_frame_present
+523,"Serpent Sword Of Banya",2,17,0,7,3,female,assassin,98,98,35000,class_or_gender_ineligible
+524,"Banya Mage Staff",2,15,0,7,3,male,other,84,84,25000,source_frame_present
+524,"Banya Mage Staff",2,15,0,7,3,male,assassin,84,84,25000,class_or_gender_ineligible
+524,"Banya Mage Staff",2,15,0,7,3,female,other,98,98,25000,source_frame_present
+524,"Banya Mage Staff",2,15,0,7,3,female,assassin,98,98,25000,class_or_gender_ineligible
+525,"Rugged Leather Boots",9,0,0,15,3,male,other,,,,no_world_layer
+525,"Rugged Leather Boots",9,0,0,15,3,male,assassin,,,,no_world_layer
+525,"Rugged Leather Boots",9,0,0,15,3,female,other,,,,no_world_layer
+525,"Rugged Leather Boots",9,0,0,15,3,female,assassin,,,,no_world_layer
+526,"Boots Of Black Tortoise",9,0,0,15,3,male,other,,,,no_world_layer
+526,"Boots Of Black Tortoise",9,0,0,15,3,male,assassin,,,,no_world_layer
+526,"Boots Of Black Tortoise",9,0,0,15,3,female,other,,,,no_world_layer
+526,"Boots Of Black Tortoise",9,0,0,15,3,female,assassin,,,,no_world_layer
+527,"Silk Boots",9,0,0,15,3,male,other,,,,no_world_layer
+527,"Silk Boots",9,0,0,15,3,male,assassin,,,,no_world_layer
+527,"Silk Boots",9,0,0,15,3,female,other,,,,no_world_layer
+527,"Silk Boots",9,0,0,15,3,female,assassin,,,,no_world_layer
+529,"Death Glaive",2,1105,0,8,3,male,other,117,117,25000,class_or_gender_ineligible
+529,"Death Glaive",2,1105,0,8,3,male,assassin,117,117,25000,source_frame_present
+529,"Death Glaive",2,1105,0,8,3,female,other,129,129,25000,class_or_gender_ineligible
+529,"Death Glaive",2,1105,0,8,3,female,assassin,129,129,25000,source_frame_present
+535,"Enraged Demon's Hood",5,11,0,8,3,male,other,140,140,0,class_or_gender_ineligible
+535,"Enraged Demon's Hood",5,11,0,8,3,male,assassin,160,160,0,source_frame_present
+535,"Enraged Demon's Hood",5,11,0,8,3,female,other,150,150,0,class_or_gender_ineligible
+535,"Enraged Demon's Hood",5,11,0,8,3,female,assassin,165,165,0,source_frame_present
+547,"Forged Scimitar",2,13,0,7,3,male,other,84,84,15000,source_frame_present
+547,"Forged Scimitar",2,13,0,7,3,male,assassin,84,84,15000,class_or_gender_ineligible
+547,"Forged Scimitar",2,13,0,7,3,female,other,98,98,15000,source_frame_present
+547,"Forged Scimitar",2,13,0,7,3,female,assassin,98,98,15000,class_or_gender_ineligible
+548,"Runed Staff",2,18,0,7,3,male,other,84,84,40000,source_frame_present
+548,"Runed Staff",2,18,0,7,3,male,assassin,84,84,40000,class_or_gender_ineligible
+548,"Runed Staff",2,18,0,7,3,female,other,98,98,40000,source_frame_present
+548,"Runed Staff",2,18,0,7,3,female,assassin,98,98,40000,class_or_gender_ineligible
+549,"Judgement Mace",2,14,0,7,3,male,other,84,84,20000,source_frame_present
+549,"Judgement Mace",2,14,0,7,3,male,assassin,84,84,20000,class_or_gender_ineligible
+549,"Judgement Mace",2,14,0,7,3,female,other,98,98,20000,source_frame_present
+549,"Judgement Mace",2,14,0,7,3,female,assassin,98,98,20000,class_or_gender_ineligible
+550,"Dragon Bone Staff",2,16,0,7,3,male,other,84,84,30000,source_frame_present
+550,"Dragon Bone Staff",2,16,0,7,3,male,assassin,84,84,30000,class_or_gender_ineligible
+550,"Dragon Bone Staff",2,16,0,7,3,female,other,98,98,30000,source_frame_present
+550,"Dragon Bone Staff",2,16,0,7,3,female,assassin,98,98,30000,class_or_gender_ineligible
+552,"Death Steel Claw",2,1206,0,8,3,male,other,111,111,30000,class_or_gender_ineligible
+552,"Death Steel Claw",2,1206,0,8,3,male,assassin,111,111,30000,source_frame_present
+552,"Death Steel Claw",2,1206,0,8,3,male,assassin_right,114,114,30000,source_frame_present
+552,"Death Steel Claw",2,1206,0,8,3,female,other,123,123,30000,class_or_gender_ineligible
+552,"Death Steel Claw",2,1206,0,8,3,female,assassin,123,123,30000,source_frame_present
+552,"Death Steel Claw",2,1206,0,8,3,female,assassin_right,126,126,30000,source_frame_present
+553,"Carmine Claw Determination",2,1207,0,8,3,male,other,111,111,35000,class_or_gender_ineligible
+553,"Carmine Claw Determination",2,1207,0,8,3,male,assassin,111,111,35000,source_frame_present
+553,"Carmine Claw Determination",2,1207,0,8,3,male,assassin_right,114,114,35000,source_frame_present
+553,"Carmine Claw Determination",2,1207,0,8,3,female,other,123,123,35000,class_or_gender_ineligible
+553,"Carmine Claw Determination",2,1207,0,8,3,female,assassin,123,123,35000,source_frame_present
+553,"Carmine Claw Determination",2,1207,0,8,3,female,assassin_right,126,126,35000,source_frame_present
+554,"Raiment Of Executioner(M)",3,3,0,8,1,male,other,31,31,15000,class_or_gender_ineligible
+554,"Raiment Of Executioner(M)",3,3,0,8,1,male,assassin,53,53,9000,source_frame_present
+554,"Raiment Of Executioner(M)",3,3,0,8,1,female,other,42,42,15000,class_or_gender_ineligible
+554,"Raiment Of Executioner(M)",3,3,0,8,1,female,assassin,59,59,9000,class_or_gender_ineligible
+555,"Raiment Of Executioner(F)",3,3,0,8,2,male,other,31,31,15000,class_or_gender_ineligible
+555,"Raiment Of Executioner(F)",3,3,0,8,2,male,assassin,53,53,9000,class_or_gender_ineligible
+555,"Raiment Of Executioner(F)",3,3,0,8,2,female,other,42,42,15000,class_or_gender_ineligible
+555,"Raiment Of Executioner(F)",3,3,0,8,2,female,assassin,59,59,9000,source_frame_present
+557,"Crown Of Dark Crusader",5,6,0,7,3,male,other,139,139,25000,source_frame_present
+557,"Crown Of Dark Crusader",5,6,0,7,3,male,assassin,159,159,15000,class_or_gender_ineligible
+557,"Crown Of Dark Crusader",5,6,0,7,3,female,other,149,149,25000,source_frame_present
+557,"Crown Of Dark Crusader",5,6,0,7,3,female,assassin,164,164,15000,class_or_gender_ineligible
+560,"Turban Of Discipline",5,10,0,7,3,male,other,139,139,45000,source_frame_present
+560,"Turban Of Discipline",5,10,0,7,3,male,assassin,159,159,27000,class_or_gender_ineligible
+560,"Turban Of Discipline",5,10,0,7,3,female,other,149,149,45000,source_frame_present
+560,"Turban Of Discipline",5,10,0,7,3,female,assassin,164,164,27000,class_or_gender_ineligible
+561,"Helmet Of The Conqueror",5,9,0,7,3,male,other,139,139,40000,source_frame_present
+561,"Helmet Of The Conqueror",5,9,0,7,3,male,assassin,159,159,24000,class_or_gender_ineligible
+561,"Helmet Of The Conqueror",5,9,0,7,3,female,other,149,149,40000,source_frame_present
+561,"Helmet Of The Conqueror",5,9,0,7,3,female,assassin,164,164,24000,class_or_gender_ineligible
+562,"Enchanted Iron Plate Armour (M)",3,6,0,7,1,male,other,31,31,30000,source_frame_present
+562,"Enchanted Iron Plate Armour (M)",3,6,0,7,1,male,assassin,53,53,18000,class_or_gender_ineligible
+562,"Enchanted Iron Plate Armour (M)",3,6,0,7,1,female,other,42,42,30000,class_or_gender_ineligible
+562,"Enchanted Iron Plate Armour (M)",3,6,0,7,1,female,assassin,59,59,18000,class_or_gender_ineligible
+563,"Enchanted Iron Plate Armour (F)",3,6,0,7,2,male,other,31,31,30000,class_or_gender_ineligible
+563,"Enchanted Iron Plate Armour (F)",3,6,0,7,2,male,assassin,53,53,18000,class_or_gender_ineligible
+563,"Enchanted Iron Plate Armour (F)",3,6,0,7,2,female,other,42,42,30000,source_frame_present
+563,"Enchanted Iron Plate Armour (F)",3,6,0,7,2,female,assassin,59,59,18000,class_or_gender_ineligible
+564,"Robe Of Conjurer (M)",3,7,0,7,1,male,other,31,31,35000,source_frame_present
+564,"Robe Of Conjurer (M)",3,7,0,7,1,male,assassin,53,53,21000,class_or_gender_ineligible
+564,"Robe Of Conjurer (M)",3,7,0,7,1,female,other,42,42,35000,class_or_gender_ineligible
+564,"Robe Of Conjurer (M)",3,7,0,7,1,female,assassin,59,59,21000,class_or_gender_ineligible
+565,"Robe Of Conjurer (F)",3,7,0,7,2,male,other,31,31,35000,class_or_gender_ineligible
+565,"Robe Of Conjurer (F)",3,7,0,7,2,male,assassin,53,53,21000,class_or_gender_ineligible
+565,"Robe Of Conjurer (F)",3,7,0,7,2,female,other,42,42,35000,source_frame_present
+565,"Robe Of Conjurer (F)",3,7,0,7,2,female,assassin,59,59,21000,class_or_gender_ineligible
+566,"Robe Of Preserver (M)",3,8,0,7,1,male,other,31,31,40000,source_frame_present
+566,"Robe Of Preserver (M)",3,8,0,7,1,male,assassin,53,53,24000,class_or_gender_ineligible
+566,"Robe Of Preserver (M)",3,8,0,7,1,female,other,42,42,40000,class_or_gender_ineligible
+566,"Robe Of Preserver (M)",3,8,0,7,1,female,assassin,59,59,24000,class_or_gender_ineligible
+567,"Robe Of Preserver (F)",3,8,0,7,2,male,other,31,31,40000,class_or_gender_ineligible
+567,"Robe Of Preserver (F)",3,8,0,7,2,male,assassin,53,53,24000,class_or_gender_ineligible
+567,"Robe Of Preserver (F)",3,8,0,7,2,female,other,42,42,40000,source_frame_present
+567,"Robe Of Preserver (F)",3,8,0,7,2,female,assassin,59,59,24000,class_or_gender_ineligible
+569,"Armour Of Condemned (M)",3,6,0,7,1,male,other,31,31,30000,source_frame_present
+569,"Armour Of Condemned (M)",3,6,0,7,1,male,assassin,53,53,18000,class_or_gender_ineligible
+569,"Armour Of Condemned (M)",3,6,0,7,1,female,other,42,42,30000,class_or_gender_ineligible
+569,"Armour Of Condemned (M)",3,6,0,7,1,female,assassin,59,59,18000,class_or_gender_ineligible
+570,"Armour Of Condemned (F)",3,6,0,7,2,male,other,31,31,30000,class_or_gender_ineligible
+570,"Armour Of Condemned (F)",3,6,0,7,2,male,assassin,53,53,18000,class_or_gender_ineligible
+570,"Armour Of Condemned (F)",3,6,0,7,2,female,other,42,42,30000,source_frame_present
+570,"Armour Of Condemned (F)",3,6,0,7,2,female,assassin,59,59,18000,class_or_gender_ineligible
+571,"Raiment Of Arch Mage (M)",3,7,0,7,1,male,other,31,31,35000,source_frame_present
+571,"Raiment Of Arch Mage (M)",3,7,0,7,1,male,assassin,53,53,21000,class_or_gender_ineligible
+571,"Raiment Of Arch Mage (M)",3,7,0,7,1,female,other,42,42,35000,class_or_gender_ineligible
+571,"Raiment Of Arch Mage (M)",3,7,0,7,1,female,assassin,59,59,21000,class_or_gender_ineligible
+572,"Raiment Of Arch Mage (F)",3,7,0,7,2,male,other,31,31,35000,class_or_gender_ineligible
+572,"Raiment Of Arch Mage (F)",3,7,0,7,2,male,assassin,53,53,21000,class_or_gender_ineligible
+572,"Raiment Of Arch Mage (F)",3,7,0,7,2,female,other,42,42,35000,source_frame_present
+572,"Raiment Of Arch Mage (F)",3,7,0,7,2,female,assassin,59,59,21000,class_or_gender_ineligible
+573,"Raiment Of High Priest (M)",3,8,0,7,1,male,other,31,31,40000,source_frame_present
+573,"Raiment Of High Priest (M)",3,8,0,7,1,male,assassin,53,53,24000,class_or_gender_ineligible
+573,"Raiment Of High Priest (M)",3,8,0,7,1,female,other,42,42,40000,class_or_gender_ineligible
+573,"Raiment Of High Priest (M)",3,8,0,7,1,female,assassin,59,59,24000,class_or_gender_ineligible
+574,"Raiment Of High Priest (F)",3,8,0,7,2,male,other,31,31,40000,class_or_gender_ineligible
+574,"Raiment Of High Priest (F)",3,8,0,7,2,male,assassin,53,53,24000,class_or_gender_ineligible
+574,"Raiment Of High Priest (F)",3,8,0,7,2,female,other,42,42,40000,source_frame_present
+574,"Raiment Of High Priest (F)",3,8,0,7,2,female,assassin,59,59,24000,class_or_gender_ineligible
+575,"Tunic Of Annihilation (M)",3,4,0,8,1,male,other,31,31,20000,class_or_gender_ineligible
+575,"Tunic Of Annihilation (M)",3,4,0,8,1,male,assassin,53,53,12000,source_frame_present
+575,"Tunic Of Annihilation (M)",3,4,0,8,1,female,other,42,42,20000,class_or_gender_ineligible
+575,"Tunic Of Annihilation (M)",3,4,0,8,1,female,assassin,59,59,12000,class_or_gender_ineligible
+576,"Tunic Of Annihilation (F)",3,4,0,8,2,male,other,31,31,20000,class_or_gender_ineligible
+576,"Tunic Of Annihilation (F)",3,4,0,8,2,male,assassin,53,53,12000,class_or_gender_ineligible
+576,"Tunic Of Annihilation (F)",3,4,0,8,2,female,other,42,42,20000,class_or_gender_ineligible
+576,"Tunic Of Annihilation (F)",3,4,0,8,2,female,assassin,59,59,12000,source_frame_present
+578,"Hood Of Nemesis",5,6,0,8,3,male,other,139,139,25000,class_or_gender_ineligible
+578,"Hood Of Nemesis",5,6,0,8,3,male,assassin,159,159,15000,source_frame_present
+578,"Hood Of Nemesis",5,6,0,8,3,female,other,149,149,25000,class_or_gender_ineligible
+578,"Hood Of Nemesis",5,6,0,8,3,female,assassin,164,164,15000,source_frame_present
+579,"Enraged Falcon's Mask",5,10,0,8,3,male,other,139,139,45000,class_or_gender_ineligible
+579,"Enraged Falcon's Mask",5,10,0,8,3,male,assassin,159,159,27000,source_frame_present
+579,"Enraged Falcon's Mask",5,10,0,8,3,female,other,149,149,45000,class_or_gender_ineligible
+579,"Enraged Falcon's Mask",5,10,0,8,3,female,assassin,164,164,27000,source_frame_present
+587,"Shadow Chaser",9,0,0,15,3,male,other,,,,no_world_layer
+587,"Shadow Chaser",9,0,0,15,3,male,assassin,,,,no_world_layer
+587,"Shadow Chaser",9,0,0,15,3,female,other,,,,no_world_layer
+587,"Shadow Chaser",9,0,0,15,3,female,assassin,,,,no_world_layer
+621,"Fury Blade",2,21,0,7,3,male,other,85,85,5000,source_frame_present
+621,"Fury Blade",2,21,0,7,3,male,assassin,85,85,5000,class_or_gender_ineligible
+621,"Fury Blade",2,21,0,7,3,female,other,99,99,5000,source_frame_present
+621,"Fury Blade",2,21,0,7,3,female,assassin,99,99,5000,class_or_gender_ineligible
+622,"Twisted Blade Of Souls",2,24,0,7,3,male,other,85,85,20000,source_frame_present
+622,"Twisted Blade Of Souls",2,24,0,7,3,male,assassin,85,85,20000,class_or_gender_ineligible
+622,"Twisted Blade Of Souls",2,24,0,7,3,female,other,99,99,20000,source_frame_present
+622,"Twisted Blade Of Souls",2,24,0,7,3,female,assassin,99,99,20000,class_or_gender_ineligible
+632,"Celestial Blade",2,0,0,7,3,male,other,83,83,0,source_frame_present
+632,"Celestial Blade",2,0,0,7,3,male,assassin,83,83,0,class_or_gender_ineligible
+632,"Celestial Blade",2,0,0,7,3,female,other,97,97,0,source_frame_present
+632,"Celestial Blade",2,0,0,7,3,female,assassin,97,97,0,class_or_gender_ineligible
+633,"Halberd Of Integrity",2,1109,0,8,3,male,other,117,117,45000,class_or_gender_ineligible
+633,"Halberd Of Integrity",2,1109,0,8,3,male,assassin,117,117,45000,source_frame_present
+633,"Halberd Of Integrity",2,1109,0,8,3,female,other,129,129,45000,class_or_gender_ineligible
+633,"Halberd Of Integrity",2,1109,0,8,3,female,assassin,129,129,45000,source_frame_present
+635,"Sword Of Abyss",2,37,0,7,3,male,other,86,86,35000,source_frame_present
+635,"Sword Of Abyss",2,37,0,7,3,male,assassin,86,86,35000,class_or_gender_ineligible
+635,"Sword Of Abyss",2,37,0,7,3,female,other,100,100,35000,source_frame_present
+635,"Sword Of Abyss",2,37,0,7,3,female,assassin,100,100,35000,class_or_gender_ineligible
+636,"Glaive Of Doom",2,39,0,7,3,male,other,86,86,45000,source_frame_present
+636,"Glaive Of Doom",2,39,0,7,3,male,assassin,86,86,45000,class_or_gender_ineligible
+636,"Glaive Of Doom",2,39,0,7,3,female,other,100,100,45000,source_frame_present
+636,"Glaive Of Doom",2,39,0,7,3,female,assassin,100,100,45000,class_or_gender_ineligible
+637,"Warden's Fan Of Obedience",2,38,0,7,3,male,other,86,86,40000,source_frame_present
+637,"Warden's Fan Of Obedience",2,38,0,7,3,male,assassin,86,86,40000,class_or_gender_ineligible
+637,"Warden's Fan Of Obedience",2,38,0,7,3,female,other,100,100,40000,source_frame_present
+637,"Warden's Fan Of Obedience",2,38,0,7,3,female,assassin,100,100,40000,class_or_gender_ineligible
+638,"Divine Command",2,1111,0,8,3,male,other,118,118,5000,class_or_gender_ineligible
+638,"Divine Command",2,1111,0,8,3,male,assassin,118,118,5000,source_frame_present
+638,"Divine Command",2,1111,0,8,3,female,other,130,130,5000,class_or_gender_ineligible
+638,"Divine Command",2,1111,0,8,3,female,assassin,130,130,5000,source_frame_present
+654,"Shamal's Obsidian Giant Blade",2,3,0,7,3,male,other,83,83,15000,source_frame_present
+654,"Shamal's Obsidian Giant Blade",2,3,0,7,3,male,assassin,83,83,15000,class_or_gender_ineligible
+654,"Shamal's Obsidian Giant Blade",2,3,0,7,3,female,other,97,97,15000,source_frame_present
+654,"Shamal's Obsidian Giant Blade",2,3,0,7,3,female,assassin,97,97,15000,class_or_gender_ineligible
+655,"Shamal's Divine Blade Of Judgment",2,19,0,7,3,male,other,84,84,45000,source_frame_present
+655,"Shamal's Divine Blade Of Judgment",2,19,0,7,3,male,assassin,84,84,45000,class_or_gender_ineligible
+655,"Shamal's Divine Blade Of Judgment",2,19,0,7,3,female,other,98,98,45000,source_frame_present
+655,"Shamal's Divine Blade Of Judgment",2,19,0,7,3,female,assassin,98,98,45000,class_or_gender_ineligible
+656,"Shamal's Staff Of Retribution",2,2,0,7,3,male,other,83,83,10000,source_frame_present
+656,"Shamal's Staff Of Retribution",2,2,0,7,3,male,assassin,83,83,10000,class_or_gender_ineligible
+656,"Shamal's Staff Of Retribution",2,2,0,7,3,female,other,97,97,10000,source_frame_present
+656,"Shamal's Staff Of Retribution",2,2,0,7,3,female,assassin,97,97,10000,class_or_gender_ineligible
+657,"Falcon Glaive",2,1108,0,8,3,male,other,117,117,40000,class_or_gender_ineligible
+657,"Falcon Glaive",2,1108,0,8,3,male,assassin,117,117,40000,source_frame_present
+657,"Falcon Glaive",2,1108,0,8,3,female,other,129,129,40000,class_or_gender_ineligible
+657,"Falcon Glaive",2,1108,0,8,3,female,assassin,129,129,40000,source_frame_present
+668,"Heavenly Blade Of Tranquility",2,40,0,7,3,male,other,87,87,0,source_frame_present
+668,"Heavenly Blade Of Tranquility",2,40,0,7,3,male,assassin,87,87,0,class_or_gender_ineligible
+668,"Heavenly Blade Of Tranquility",2,40,0,7,3,female,other,101,101,0,source_frame_present
+668,"Heavenly Blade Of Tranquility",2,40,0,7,3,female,assassin,101,101,0,class_or_gender_ineligible
+669,"Talon Staff Of A'Ryong",2,41,0,7,3,male,other,87,87,5000,source_frame_present
+669,"Talon Staff Of A'Ryong",2,41,0,7,3,male,assassin,87,87,5000,class_or_gender_ineligible
+669,"Talon Staff Of A'Ryong",2,41,0,7,3,female,other,101,101,5000,source_frame_present
+669,"Talon Staff Of A'Ryong",2,41,0,7,3,female,assassin,101,101,5000,class_or_gender_ineligible
+670,"Calamity",2,43,0,7,3,male,other,87,87,15000,source_frame_present
+670,"Calamity",2,43,0,7,3,male,assassin,87,87,15000,class_or_gender_ineligible
+670,"Calamity",2,43,0,7,3,female,other,101,101,15000,source_frame_present
+670,"Calamity",2,43,0,7,3,female,assassin,101,101,15000,class_or_gender_ineligible
+680,"Claw Of The Demon God",2,1208,0,8,3,male,other,111,111,40000,class_or_gender_ineligible
+680,"Claw Of The Demon God",2,1208,0,8,3,male,assassin,111,111,40000,source_frame_present
+680,"Claw Of The Demon God",2,1208,0,8,3,male,assassin_right,114,114,40000,source_frame_present
+680,"Claw Of The Demon God",2,1208,0,8,3,female,other,123,123,40000,class_or_gender_ineligible
+680,"Claw Of The Demon God",2,1208,0,8,3,female,assassin,123,123,40000,source_frame_present
+680,"Claw Of The Demon God",2,1208,0,8,3,female,assassin_right,126,126,40000,source_frame_present
+683,"Apocalypse",2,7,0,7,3,male,other,83,83,35000,source_frame_present
+683,"Apocalypse",2,7,0,7,3,male,assassin,83,83,35000,class_or_gender_ineligible
+683,"Apocalypse",2,7,0,7,3,female,other,97,97,35000,source_frame_present
+683,"Apocalypse",2,7,0,7,3,female,assassin,97,97,35000,class_or_gender_ineligible
+684,"Heavenly Staff Of Immortality",2,23,0,7,3,male,other,85,85,15000,source_frame_present
+684,"Heavenly Staff Of Immortality",2,23,0,7,3,male,assassin,85,85,15000,class_or_gender_ineligible
+684,"Heavenly Staff Of Immortality",2,23,0,7,3,female,other,99,99,15000,source_frame_present
+684,"Heavenly Staff Of Immortality",2,23,0,7,3,female,assassin,99,99,15000,class_or_gender_ineligible
+685,"Afterlife",2,42,0,7,3,male,other,87,87,10000,source_frame_present
+685,"Afterlife",2,42,0,7,3,male,assassin,87,87,10000,class_or_gender_ineligible
+685,"Afterlife",2,42,0,7,3,female,other,101,101,10000,source_frame_present
+685,"Afterlife",2,42,0,7,3,female,assassin,101,101,10000,class_or_gender_ineligible
+686,"Phoenix Glaive Of Havoc",2,1112,0,8,3,male,other,118,118,10000,class_or_gender_ineligible
+686,"Phoenix Glaive Of Havoc",2,1112,0,8,3,male,assassin,118,118,10000,source_frame_present
+686,"Phoenix Glaive Of Havoc",2,1112,0,8,3,female,other,130,130,10000,class_or_gender_ineligible
+686,"Phoenix Glaive Of Havoc",2,1112,0,8,3,female,assassin,130,130,10000,source_frame_present
+690,"Wind Walkers",9,0,0,15,3,male,other,,,,no_world_layer
+690,"Wind Walkers",9,0,0,15,3,male,assassin,,,,no_world_layer
+690,"Wind Walkers",9,0,0,15,3,female,other,,,,no_world_layer
+690,"Wind Walkers",9,0,0,15,3,female,assassin,,,,no_world_layer
+692,"Ghost Armour (M)",3,1,0,7,1,male,other,31,31,5000,source_frame_present
+692,"Ghost Armour (M)",3,1,0,7,1,male,assassin,53,53,3000,class_or_gender_ineligible
+692,"Ghost Armour (M)",3,1,0,7,1,female,other,42,42,5000,class_or_gender_ineligible
+692,"Ghost Armour (M)",3,1,0,7,1,female,assassin,59,59,3000,class_or_gender_ineligible
+693,"Ghost Armour (F)",3,1,0,7,2,male,other,31,31,5000,class_or_gender_ineligible
+693,"Ghost Armour (F)",3,1,0,7,2,male,assassin,53,53,3000,class_or_gender_ineligible
+693,"Ghost Armour (F)",3,1,0,7,2,female,other,42,42,5000,source_frame_present
+693,"Ghost Armour (F)",3,1,0,7,2,female,assassin,59,59,3000,class_or_gender_ineligible
+694,"Raiment Of Spectral Energy (M)",3,5,0,8,1,male,other,31,31,25000,class_or_gender_ineligible
+694,"Raiment Of Spectral Energy (M)",3,5,0,8,1,male,assassin,53,53,15000,source_frame_present
+694,"Raiment Of Spectral Energy (M)",3,5,0,8,1,female,other,42,42,25000,class_or_gender_ineligible
+694,"Raiment Of Spectral Energy (M)",3,5,0,8,1,female,assassin,59,59,15000,class_or_gender_ineligible
+695,"Raiment Of Spectral Energy (F)",3,5,0,8,2,male,other,31,31,25000,class_or_gender_ineligible
+695,"Raiment Of Spectral Energy (F)",3,5,0,8,2,male,assassin,53,53,15000,class_or_gender_ineligible
+695,"Raiment Of Spectral Energy (F)",3,5,0,8,2,female,other,42,42,25000,class_or_gender_ineligible
+695,"Raiment Of Spectral Energy (F)",3,5,0,8,2,female,assassin,59,59,15000,source_frame_present
+795,"Iron Horse Armour",18,1,0,15,3,male,other,73,73,2240,source_frame_present
+795,"Iron Horse Armour",18,1,0,15,3,male,assassin,73,73,2240,source_frame_present
+795,"Iron Horse Armour",18,1,0,15,3,female,other,73,73,2240,source_frame_present
+795,"Iron Horse Armour",18,1,0,15,3,female,assassin,73,73,2240,source_frame_present
+796,"Silver Horse Armour",18,2,0,15,3,male,other,74,74,2240,source_frame_present
+796,"Silver Horse Armour",18,2,0,15,3,male,assassin,74,74,2240,source_frame_present
+796,"Silver Horse Armour",18,2,0,15,3,female,other,74,74,2240,source_frame_present
+796,"Silver Horse Armour",18,2,0,15,3,female,assassin,74,74,2240,source_frame_present
+797,"Gold Horse Armour",18,3,0,15,3,male,other,75,75,2240,source_frame_present
+797,"Gold Horse Armour",18,3,0,15,3,male,assassin,75,75,2240,source_frame_present
+797,"Gold Horse Armour",18,3,0,15,3,female,other,75,75,2240,source_frame_present
+797,"Gold Horse Armour",18,3,0,15,3,female,assassin,75,75,2240,source_frame_present
+798,"Blue Horse Armour",18,4,0,15,3,male,other,76,76,2240,source_frame_present
+798,"Blue Horse Armour",18,4,0,15,3,male,assassin,76,76,2240,source_frame_present
+798,"Blue Horse Armour",18,4,0,15,3,female,other,76,76,2240,source_frame_present
+798,"Blue Horse Armour",18,4,0,15,3,female,assassin,76,76,2240,source_frame_present
+799,"Dark Horse Armour",18,5,0,15,3,male,other,77,77,2240,source_frame_present
+799,"Dark Horse Armour",18,5,0,15,3,male,assassin,77,77,2240,source_frame_present
+799,"Dark Horse Armour",18,5,0,15,3,female,other,77,77,2240,source_frame_present
+799,"Dark Horse Armour",18,5,0,15,3,female,assassin,77,77,2240,source_frame_present
+816,"Pick Axe",2,6,0,15,3,male,other,83,83,30000,source_frame_present
+816,"Pick Axe",2,6,0,15,3,male,assassin,83,83,30000,source_frame_present
+816,"Pick Axe",2,6,0,15,3,female,other,97,97,30000,source_frame_present
+816,"Pick Axe",2,6,0,15,3,female,assassin,97,97,30000,source_frame_present
+817,"Pick Axe Of Wind",2,6,0,15,3,male,other,83,83,30000,source_frame_present
+817,"Pick Axe Of Wind",2,6,0,15,3,male,assassin,83,83,30000,source_frame_present
+817,"Pick Axe Of Wind",2,6,0,15,3,female,other,97,97,30000,source_frame_present
+817,"Pick Axe Of Wind",2,6,0,15,3,female,assassin,97,97,30000,source_frame_present
+818,"Pick Axe Of Storm",2,6,0,15,3,male,other,83,83,30000,source_frame_present
+818,"Pick Axe Of Storm",2,6,0,15,3,male,assassin,83,83,30000,source_frame_present
+818,"Pick Axe Of Storm",2,6,0,15,3,female,other,97,97,30000,source_frame_present
+818,"Pick Axe Of Storm",2,6,0,15,3,female,assassin,97,97,30000,source_frame_present
+819,"Obsidian Giant Blade",2,3,0,7,3,male,other,83,83,15000,source_frame_present
+819,"Obsidian Giant Blade",2,3,0,7,3,male,assassin,83,83,15000,class_or_gender_ineligible
+819,"Obsidian Giant Blade",2,3,0,7,3,female,other,97,97,15000,source_frame_present
+819,"Obsidian Giant Blade",2,3,0,7,3,female,assassin,97,97,15000,class_or_gender_ineligible
+820,"Divine Blade Of Judgement",2,19,0,7,3,male,other,84,84,45000,source_frame_present
+820,"Divine Blade Of Judgement",2,19,0,7,3,male,assassin,84,84,45000,class_or_gender_ineligible
+820,"Divine Blade Of Judgement",2,19,0,7,3,female,other,98,98,45000,source_frame_present
+820,"Divine Blade Of Judgement",2,19,0,7,3,female,assassin,98,98,45000,class_or_gender_ineligible
+821,"Staff Of Retribution",2,2,0,7,3,male,other,83,83,10000,source_frame_present
+821,"Staff Of Retribution",2,2,0,7,3,male,assassin,83,83,10000,class_or_gender_ineligible
+821,"Staff Of Retribution",2,2,0,7,3,female,other,97,97,10000,source_frame_present
+821,"Staff Of Retribution",2,2,0,7,3,female,assassin,97,97,10000,class_or_gender_ineligible
+822,"Ruination",2,1209,0,8,3,male,other,111,111,45000,class_or_gender_ineligible
+822,"Ruination",2,1209,0,8,3,male,assassin,111,111,45000,source_frame_present
+822,"Ruination",2,1209,0,8,3,male,assassin_right,114,114,45000,source_frame_present
+822,"Ruination",2,1209,0,8,3,female,other,123,123,45000,class_or_gender_ineligible
+822,"Ruination",2,1209,0,8,3,female,assassin,123,123,45000,source_frame_present
+822,"Ruination",2,1209,0,8,3,female,assassin_right,126,126,45000,source_frame_present
+823,"Muk's Obsidian Giant Blade",2,3,0,7,3,male,other,83,83,15000,source_frame_present
+823,"Muk's Obsidian Giant Blade",2,3,0,7,3,male,assassin,83,83,15000,class_or_gender_ineligible
+823,"Muk's Obsidian Giant Blade",2,3,0,7,3,female,other,97,97,15000,source_frame_present
+823,"Muk's Obsidian Giant Blade",2,3,0,7,3,female,assassin,97,97,15000,class_or_gender_ineligible
+824,"Muk's Divine Blade Of Judgement",2,19,0,7,3,male,other,84,84,45000,source_frame_present
+824,"Muk's Divine Blade Of Judgement",2,19,0,7,3,male,assassin,84,84,45000,class_or_gender_ineligible
+824,"Muk's Divine Blade Of Judgement",2,19,0,7,3,female,other,98,98,45000,source_frame_present
+824,"Muk's Divine Blade Of Judgement",2,19,0,7,3,female,assassin,98,98,45000,class_or_gender_ineligible
+825,"Muk's Staff Of Retribution",2,2,0,7,3,male,other,83,83,10000,source_frame_present
+825,"Muk's Staff Of Retribution",2,2,0,7,3,male,assassin,83,83,10000,class_or_gender_ineligible
+825,"Muk's Staff Of Retribution",2,2,0,7,3,female,other,97,97,10000,source_frame_present
+825,"Muk's Staff Of Retribution",2,2,0,7,3,female,assassin,97,97,10000,class_or_gender_ineligible
+826,"Muk's Unparalleled Polearm",2,1107,0,8,3,male,other,117,117,35000,class_or_gender_ineligible
+826,"Muk's Unparalleled Polearm",2,1107,0,8,3,male,assassin,117,117,35000,source_frame_present
+826,"Muk's Unparalleled Polearm",2,1107,0,8,3,female,other,129,129,35000,class_or_gender_ineligible
+826,"Muk's Unparalleled Polearm",2,1107,0,8,3,female,assassin,129,129,35000,source_frame_present
+842,"Argent Sabatons Of Comet",9,0,0,15,3,male,other,,,,no_world_layer
+842,"Argent Sabatons Of Comet",9,0,0,15,3,male,assassin,,,,no_world_layer
+842,"Argent Sabatons Of Comet",9,0,0,15,3,female,other,,,,no_world_layer
+842,"Argent Sabatons Of Comet",9,0,0,15,3,female,assassin,,,,no_world_layer
+843,"Lupine Headgear",5,13,0,7,3,male,other,140,140,10000,source_frame_present
+843,"Lupine Headgear",5,13,0,7,3,male,assassin,160,160,6000,class_or_gender_ineligible
+843,"Lupine Headgear",5,13,0,7,3,female,other,150,150,10000,source_frame_present
+843,"Lupine Headgear",5,13,0,7,3,female,assassin,165,165,6000,class_or_gender_ineligible
+844,"Lupine Greaves",9,0,0,15,3,male,other,,,,no_world_layer
+844,"Lupine Greaves",9,0,0,15,3,male,assassin,,,,no_world_layer
+844,"Lupine Greaves",9,0,0,15,3,female,other,,,,no_world_layer
+844,"Lupine Greaves",9,0,0,15,3,female,assassin,,,,no_world_layer
+845,"Raven Hood Of Covertness",5,9,0,8,3,male,other,139,139,40000,class_or_gender_ineligible
+845,"Raven Hood Of Covertness",5,9,0,8,3,male,assassin,159,159,24000,source_frame_present
+845,"Raven Hood Of Covertness",5,9,0,8,3,female,other,149,149,40000,class_or_gender_ineligible
+845,"Raven Hood Of Covertness",5,9,0,8,3,female,assassin,164,164,24000,source_frame_present
+900,"Blade Of The Dragon Lord",2,50,0,15,3,male,other,88,88,0,source_frame_present
+900,"Blade Of The Dragon Lord",2,50,0,15,3,male,assassin,88,88,0,source_frame_present
+900,"Blade Of The Dragon Lord",2,50,0,15,3,female,other,102,102,0,source_frame_present
+900,"Blade Of The Dragon Lord",2,50,0,15,3,female,assassin,102,102,0,source_frame_present
+904,"Greaves Of The Dragon Lord",9,0,0,15,3,male,other,,,,no_world_layer
+904,"Greaves Of The Dragon Lord",9,0,0,15,3,male,assassin,,,,no_world_layer
+904,"Greaves Of The Dragon Lord",9,0,0,15,3,female,other,,,,no_world_layer
+904,"Greaves Of The Dragon Lord",9,0,0,15,3,female,assassin,,,,no_world_layer
+905,"Headcover Of The Dragon Lord",5,17,0,15,3,male,other,140,140,30000,source_frame_present
+905,"Headcover Of The Dragon Lord",5,17,0,15,3,male,assassin,160,160,18000,source_frame_missing
+905,"Headcover Of The Dragon Lord",5,17,0,15,3,female,other,150,150,30000,source_frame_present
+905,"Headcover Of The Dragon Lord",5,17,0,15,3,female,assassin,165,165,18000,source_frame_missing
+907,"Argent Battleplate Of Might (M)",3,10,0,1,1,male,other,31,31,50000,source_frame_present
+907,"Argent Battleplate Of Might (M)",3,10,0,1,1,male,assassin,53,53,30000,class_or_gender_ineligible
+907,"Argent Battleplate Of Might (M)",3,10,0,1,1,female,other,42,42,50000,class_or_gender_ineligible
+907,"Argent Battleplate Of Might (M)",3,10,0,1,1,female,assassin,59,59,30000,class_or_gender_ineligible
+908,"Argent Battleplate Of Might (F)",3,10,0,1,2,male,other,31,31,50000,class_or_gender_ineligible
+908,"Argent Battleplate Of Might (F)",3,10,0,1,2,male,assassin,53,53,30000,class_or_gender_ineligible
+908,"Argent Battleplate Of Might (F)",3,10,0,1,2,female,other,42,42,50000,source_frame_present
+908,"Argent Battleplate Of Might (F)",3,10,0,1,2,female,assassin,59,59,30000,class_or_gender_ineligible
+909,"Sacred Warplate Of Mastery (M)",3,10,0,7,1,male,other,31,31,50000,source_frame_present
+909,"Sacred Warplate Of Mastery (M)",3,10,0,7,1,male,assassin,53,53,30000,class_or_gender_ineligible
+909,"Sacred Warplate Of Mastery (M)",3,10,0,7,1,female,other,42,42,50000,class_or_gender_ineligible
+909,"Sacred Warplate Of Mastery (M)",3,10,0,7,1,female,assassin,59,59,30000,class_or_gender_ineligible
+910,"Sacred Warplate Of Mastery (F)",3,10,0,7,2,male,other,31,31,50000,class_or_gender_ineligible
+910,"Sacred Warplate Of Mastery (F)",3,10,0,7,2,male,assassin,53,53,30000,class_or_gender_ineligible
+910,"Sacred Warplate Of Mastery (F)",3,10,0,7,2,female,other,42,42,50000,source_frame_present
+910,"Sacred Warplate Of Mastery (F)",3,10,0,7,2,female,assassin,59,59,30000,class_or_gender_ineligible
+911,"Blazing Raiment Of Phoenix (M)",3,10,0,7,1,male,other,31,31,50000,source_frame_present
+911,"Blazing Raiment Of Phoenix (M)",3,10,0,7,1,male,assassin,53,53,30000,class_or_gender_ineligible
+911,"Blazing Raiment Of Phoenix (M)",3,10,0,7,1,female,other,42,42,50000,class_or_gender_ineligible
+911,"Blazing Raiment Of Phoenix (M)",3,10,0,7,1,female,assassin,59,59,30000,class_or_gender_ineligible
+912,"Blazing Raiment Of Phoenix (F)",3,10,0,7,2,male,other,31,31,50000,class_or_gender_ineligible
+912,"Blazing Raiment Of Phoenix (F)",3,10,0,7,2,male,assassin,53,53,30000,class_or_gender_ineligible
+912,"Blazing Raiment Of Phoenix (F)",3,10,0,7,2,female,other,42,42,50000,source_frame_present
+912,"Blazing Raiment Of Phoenix (F)",3,10,0,7,2,female,assassin,59,59,30000,class_or_gender_ineligible
+913,"Azure Raiment Of Illusion (M)",3,10,0,7,1,male,other,31,31,50000,source_frame_present
+913,"Azure Raiment Of Illusion (M)",3,10,0,7,1,male,assassin,53,53,30000,class_or_gender_ineligible
+913,"Azure Raiment Of Illusion (M)",3,10,0,7,1,female,other,42,42,50000,class_or_gender_ineligible
+913,"Azure Raiment Of Illusion (M)",3,10,0,7,1,female,assassin,59,59,30000,class_or_gender_ineligible
+914,"Azure Raiment Of Illusion (F)",3,10,0,7,2,male,other,31,31,50000,class_or_gender_ineligible
+914,"Azure Raiment Of Illusion (F)",3,10,0,7,2,male,assassin,53,53,30000,class_or_gender_ineligible
+914,"Azure Raiment Of Illusion (F)",3,10,0,7,2,female,other,42,42,50000,source_frame_present
+914,"Azure Raiment Of Illusion (F)",3,10,0,7,2,female,assassin,59,59,30000,class_or_gender_ineligible
+915,"Wyvern Scale Armour (M)",3,6,0,8,1,male,other,31,31,30000,class_or_gender_ineligible
+915,"Wyvern Scale Armour (M)",3,6,0,8,1,male,assassin,53,53,18000,source_frame_present
+915,"Wyvern Scale Armour (M)",3,6,0,8,1,female,other,42,42,30000,class_or_gender_ineligible
+915,"Wyvern Scale Armour (M)",3,6,0,8,1,female,assassin,59,59,18000,class_or_gender_ineligible
+916,"Wyvern Scale Armour (F)",3,6,0,8,2,male,other,31,31,30000,class_or_gender_ineligible
+916,"Wyvern Scale Armour (F)",3,6,0,8,2,male,assassin,53,53,18000,class_or_gender_ineligible
+916,"Wyvern Scale Armour (F)",3,6,0,8,2,female,other,42,42,30000,class_or_gender_ineligible
+916,"Wyvern Scale Armour (F)",3,6,0,8,2,female,assassin,59,59,18000,source_frame_present
+917,"Armour Of Demonic Wrath (M)",3,8,0,8,1,male,other,31,31,40000,class_or_gender_ineligible
+917,"Armour Of Demonic Wrath (M)",3,8,0,8,1,male,assassin,53,53,24000,source_frame_present
+917,"Armour Of Demonic Wrath (M)",3,8,0,8,1,female,other,42,42,40000,class_or_gender_ineligible
+917,"Armour Of Demonic Wrath (M)",3,8,0,8,1,female,assassin,59,59,24000,class_or_gender_ineligible
+918,"Armour Of Demonic Wrath (F)",3,8,0,8,2,male,other,31,31,40000,class_or_gender_ineligible
+918,"Armour Of Demonic Wrath (F)",3,8,0,8,2,male,assassin,53,53,24000,class_or_gender_ineligible
+918,"Armour Of Demonic Wrath (F)",3,8,0,8,2,female,other,42,42,40000,class_or_gender_ineligible
+918,"Armour Of Demonic Wrath (F)",3,8,0,8,2,female,assassin,59,59,24000,source_frame_present
+919,"Blazing Raiment Of Embers (M)",3,10,0,2,1,male,other,31,31,50000,source_frame_present
+919,"Blazing Raiment Of Embers (M)",3,10,0,2,1,male,assassin,53,53,30000,class_or_gender_ineligible
+919,"Blazing Raiment Of Embers (M)",3,10,0,2,1,female,other,42,42,50000,class_or_gender_ineligible
+919,"Blazing Raiment Of Embers (M)",3,10,0,2,1,female,assassin,59,59,30000,class_or_gender_ineligible
+920,"Blazing Raiment Of Embers (F)",3,10,0,2,2,male,other,31,31,50000,class_or_gender_ineligible
+920,"Blazing Raiment Of Embers (F)",3,10,0,2,2,male,assassin,53,53,30000,class_or_gender_ineligible
+920,"Blazing Raiment Of Embers (F)",3,10,0,2,2,female,other,42,42,50000,source_frame_present
+920,"Blazing Raiment Of Embers (F)",3,10,0,2,2,female,assassin,59,59,30000,class_or_gender_ineligible
+921,"Demonic Raiment Of Illusion (M)",3,10,0,4,1,male,other,31,31,50000,source_frame_present
+921,"Demonic Raiment Of Illusion (M)",3,10,0,4,1,male,assassin,53,53,30000,class_or_gender_ineligible
+921,"Demonic Raiment Of Illusion (M)",3,10,0,4,1,female,other,42,42,50000,class_or_gender_ineligible
+921,"Demonic Raiment Of Illusion (M)",3,10,0,4,1,female,assassin,59,59,30000,class_or_gender_ineligible
+922,"Demonic Raiment Of Illusion (F)",3,10,0,4,2,male,other,31,31,50000,class_or_gender_ineligible
+922,"Demonic Raiment Of Illusion (F)",3,10,0,4,2,male,assassin,53,53,30000,class_or_gender_ineligible
+922,"Demonic Raiment Of Illusion (F)",3,10,0,4,2,female,other,42,42,50000,source_frame_present
+922,"Demonic Raiment Of Illusion (F)",3,10,0,4,2,female,assassin,59,59,30000,class_or_gender_ineligible
+935,"Helmet Of Dragon Abyss",5,19,0,15,3,male,other,140,140,40000,source_frame_present
+935,"Helmet Of Dragon Abyss",5,19,0,15,3,male,assassin,160,160,24000,source_frame_missing
+935,"Helmet Of Dragon Abyss",5,19,0,15,3,female,other,150,150,40000,source_frame_present
+935,"Helmet Of Dragon Abyss",5,19,0,15,3,female,assassin,165,165,24000,source_frame_missing
+936,"Armour Of Abyss (M)",3,7,0,8,1,male,other,31,31,35000,class_or_gender_ineligible
+936,"Armour Of Abyss (M)",3,7,0,8,1,male,assassin,53,53,21000,source_frame_present
+936,"Armour Of Abyss (M)",3,7,0,8,1,female,other,42,42,35000,class_or_gender_ineligible
+936,"Armour Of Abyss (M)",3,7,0,8,1,female,assassin,59,59,21000,class_or_gender_ineligible
+937,"Armour Of Abyss (F)",3,7,0,8,2,male,other,31,31,35000,class_or_gender_ineligible
+937,"Armour Of Abyss (F)",3,7,0,8,2,male,assassin,53,53,21000,class_or_gender_ineligible
+937,"Armour Of Abyss (F)",3,7,0,8,2,female,other,42,42,35000,class_or_gender_ineligible
+937,"Armour Of Abyss (F)",3,7,0,8,2,female,assassin,59,59,21000,source_frame_present
+941,"Greaves Of Dragon Abyss",9,0,0,15,3,male,other,,,,no_world_layer
+941,"Greaves Of Dragon Abyss",9,0,0,15,3,male,assassin,,,,no_world_layer
+941,"Greaves Of Dragon Abyss",9,0,0,15,3,female,other,,,,no_world_layer
+941,"Greaves Of Dragon Abyss",9,0,0,15,3,female,assassin,,,,no_world_layer
+948,"Overlord's Battleplate (M)",3,12,0,1,1,male,other,32,32,5000,source_frame_present
+948,"Overlord's Battleplate (M)",3,12,0,1,1,male,assassin,54,54,3000,class_or_gender_ineligible
+948,"Overlord's Battleplate (M)",3,12,0,1,1,female,other,43,43,5000,class_or_gender_ineligible
+948,"Overlord's Battleplate (M)",3,12,0,1,1,female,assassin,60,60,3000,class_or_gender_ineligible
+949,"Overlord's Battleplate (F)",3,12,0,1,2,male,other,32,32,5000,class_or_gender_ineligible
+949,"Overlord's Battleplate (F)",3,12,0,1,2,male,assassin,54,54,3000,class_or_gender_ineligible
+949,"Overlord's Battleplate (F)",3,12,0,1,2,female,other,43,43,5000,source_frame_present
+949,"Overlord's Battleplate (F)",3,12,0,1,2,female,assassin,60,60,3000,class_or_gender_ineligible
+953,"Wraith Blade Of Sama",2,53,0,1,3,male,other,88,88,15000,source_frame_present
+953,"Wraith Blade Of Sama",2,53,0,1,3,male,assassin,88,88,15000,class_or_gender_ineligible
+953,"Wraith Blade Of Sama",2,53,0,1,3,female,other,102,102,15000,source_frame_present
+953,"Wraith Blade Of Sama",2,53,0,1,3,female,assassin,102,102,15000,class_or_gender_ineligible
+955,"Elementalist's Battleplate (M)",3,12,0,2,1,male,other,32,32,5000,source_frame_present
+955,"Elementalist's Battleplate (M)",3,12,0,2,1,male,assassin,54,54,3000,class_or_gender_ineligible
+955,"Elementalist's Battleplate (M)",3,12,0,2,1,female,other,43,43,5000,class_or_gender_ineligible
+955,"Elementalist's Battleplate (M)",3,12,0,2,1,female,assassin,60,60,3000,class_or_gender_ineligible
+956,"Elementalist's Battleplate (F)",3,12,0,2,2,male,other,32,32,5000,class_or_gender_ineligible
+956,"Elementalist's Battleplate (F)",3,12,0,2,2,male,assassin,54,54,3000,class_or_gender_ineligible
+956,"Elementalist's Battleplate (F)",3,12,0,2,2,female,other,43,43,5000,source_frame_present
+956,"Elementalist's Battleplate (F)",3,12,0,2,2,female,assassin,60,60,3000,class_or_gender_ineligible
+957,"Archon's Battleplate (M)",3,12,0,4,1,male,other,32,32,5000,source_frame_present
+957,"Archon's Battleplate (M)",3,12,0,4,1,male,assassin,54,54,3000,class_or_gender_ineligible
+957,"Archon's Battleplate (M)",3,12,0,4,1,female,other,43,43,5000,class_or_gender_ineligible
+957,"Archon's Battleplate (M)",3,12,0,4,1,female,assassin,60,60,3000,class_or_gender_ineligible
+958,"Archon's Battleplate (F)",3,12,0,4,2,male,other,32,32,5000,class_or_gender_ineligible
+958,"Archon's Battleplate (F)",3,12,0,4,2,male,assassin,54,54,3000,class_or_gender_ineligible
+958,"Archon's Battleplate (F)",3,12,0,4,2,female,other,43,43,5000,source_frame_present
+958,"Archon's Battleplate (F)",3,12,0,4,2,female,assassin,60,60,3000,class_or_gender_ineligible
+959,"Burning Blade Of Sama",2,53,0,2,3,male,other,88,88,15000,source_frame_present
+959,"Burning Blade Of Sama",2,53,0,2,3,male,assassin,88,88,15000,class_or_gender_ineligible
+959,"Burning Blade Of Sama",2,53,0,2,3,female,other,102,102,15000,source_frame_present
+959,"Burning Blade Of Sama",2,53,0,2,3,female,assassin,102,102,15000,class_or_gender_ineligible
+960,"Unholy Blade Of Sama",2,53,0,4,3,male,other,88,88,15000,source_frame_present
+960,"Unholy Blade Of Sama",2,53,0,4,3,male,assassin,88,88,15000,class_or_gender_ineligible
+960,"Unholy Blade Of Sama",2,53,0,4,3,female,other,102,102,15000,source_frame_present
+960,"Unholy Blade Of Sama",2,53,0,4,3,female,assassin,102,102,15000,class_or_gender_ineligible
+961,"Blades Of Sama",2,1112,0,8,3,male,other,118,118,10000,class_or_gender_ineligible
+961,"Blades Of Sama",2,1112,0,8,3,male,assassin,118,118,10000,source_frame_present
+961,"Blades Of Sama",2,1112,0,8,3,female,other,130,130,10000,class_or_gender_ineligible
+961,"Blades Of Sama",2,1112,0,8,3,female,assassin,130,130,10000,source_frame_present
+968,"Warrior's Edge",2,55,0,1,3,male,other,88,88,25000,source_frame_present
+968,"Warrior's Edge",2,55,0,1,3,male,assassin,88,88,25000,class_or_gender_ineligible
+968,"Warrior's Edge",2,55,0,1,3,female,other,102,102,25000,source_frame_present
+968,"Warrior's Edge",2,55,0,1,3,female,assassin,102,102,25000,class_or_gender_ineligible
+969,"Wizard's Edge",2,56,0,2,3,male,other,88,88,30000,source_frame_present
+969,"Wizard's Edge",2,56,0,2,3,male,assassin,88,88,30000,class_or_gender_ineligible
+969,"Wizard's Edge",2,56,0,2,3,female,other,102,102,30000,source_frame_present
+969,"Wizard's Edge",2,56,0,2,3,female,assassin,102,102,30000,class_or_gender_ineligible
+970,"Taoist's Edge",2,57,0,4,3,male,other,88,88,35000,source_frame_present
+970,"Taoist's Edge",2,57,0,4,3,male,assassin,88,88,35000,class_or_gender_ineligible
+970,"Taoist's Edge",2,57,0,4,3,female,other,102,102,35000,source_frame_present
+970,"Taoist's Edge",2,57,0,4,3,female,assassin,102,102,35000,class_or_gender_ineligible
+971,"Assassin's Edge",2,58,0,8,3,male,other,88,88,40000,class_or_gender_ineligible
+971,"Assassin's Edge",2,58,0,8,3,male,assassin,88,88,40000,source_frame_present
+971,"Assassin's Edge",2,58,0,8,3,female,other,102,102,40000,class_or_gender_ineligible
+971,"Assassin's Edge",2,58,0,8,3,female,assassin,102,102,40000,source_frame_present
+995,"Heavy Boots",9,0,0,15,3,male,other,,,,no_world_layer
+995,"Heavy Boots",9,0,0,15,3,male,assassin,,,,no_world_layer
+995,"Heavy Boots",9,0,0,15,3,female,other,,,,no_world_layer
+995,"Heavy Boots",9,0,0,15,3,female,assassin,,,,no_world_layer
+998,"FootBall Kit (M)",3,17,0,15,1,male,other,32,32,30000,source_frame_present
+998,"FootBall Kit (M)",3,17,0,15,1,male,assassin,54,54,18000,source_frame_present
+998,"FootBall Kit (M)",3,17,0,15,1,female,other,43,43,30000,class_or_gender_ineligible
+998,"FootBall Kit (M)",3,17,0,15,1,female,assassin,60,60,18000,class_or_gender_ineligible
+999,"FootBall Kit (F)",3,17,0,15,2,male,other,32,32,30000,class_or_gender_ineligible
+999,"FootBall Kit (F)",3,17,0,15,2,male,assassin,54,54,18000,class_or_gender_ineligible
+999,"FootBall Kit (F)",3,17,0,15,2,female,other,43,43,30000,source_frame_present
+999,"FootBall Kit (F)",3,17,0,15,2,female,assassin,60,60,18000,source_frame_present
+1000,"Tunic of the Blood God (M)",3,9,0,8,1,male,other,31,31,45000,class_or_gender_ineligible
+1000,"Tunic of the Blood God (M)",3,9,0,8,1,male,assassin,53,53,27000,source_frame_present
+1000,"Tunic of the Blood God (M)",3,9,0,8,1,female,other,42,42,45000,class_or_gender_ineligible
+1000,"Tunic of the Blood God (M)",3,9,0,8,1,female,assassin,59,59,27000,class_or_gender_ineligible
+1001,"Tunic of the Blood God (F)",3,9,0,8,2,male,other,31,31,45000,class_or_gender_ineligible
+1001,"Tunic of the Blood God (F)",3,9,0,8,2,male,assassin,53,53,27000,class_or_gender_ineligible
+1001,"Tunic of the Blood God (F)",3,9,0,8,2,female,other,42,42,45000,class_or_gender_ineligible
+1001,"Tunic of the Blood God (F)",3,9,0,8,2,female,assassin,59,59,27000,source_frame_present
+1002,"Armour of the Blessed King",3,25,0,1,1,male,other,33,33,15000,source_frame_present
+1002,"Armour of the Blessed King",3,25,0,1,1,male,assassin,55,55,9000,class_or_gender_ineligible
+1002,"Armour of the Blessed King",3,25,0,1,1,female,other,44,44,15000,class_or_gender_ineligible
+1002,"Armour of the Blessed King",3,25,0,1,1,female,assassin,61,61,9000,class_or_gender_ineligible
+1003,"Armour of the Blessed Queen",3,25,0,1,2,male,other,33,33,15000,class_or_gender_ineligible
+1003,"Armour of the Blessed Queen",3,25,0,1,2,male,assassin,55,55,9000,class_or_gender_ineligible
+1003,"Armour of the Blessed Queen",3,25,0,1,2,female,other,44,44,15000,source_frame_present
+1003,"Armour of the Blessed Queen",3,25,0,1,2,female,assassin,61,61,9000,class_or_gender_ineligible
+1004,"Vestment of Shattered Souls (M)",3,36,0,2,1,male,other,34,34,15000,source_frame_present
+1004,"Vestment of Shattered Souls (M)",3,36,0,2,1,male,assassin,56,56,9000,class_or_gender_ineligible
+1004,"Vestment of Shattered Souls (M)",3,36,0,2,1,female,other,45,45,15000,class_or_gender_ineligible
+1004,"Vestment of Shattered Souls (M)",3,36,0,2,1,female,assassin,62,62,9000,class_or_gender_ineligible
+1005,"Vestment of Shattered Souls (F)",3,36,0,2,2,male,other,34,34,15000,class_or_gender_ineligible
+1005,"Vestment of Shattered Souls (F)",3,36,0,2,2,male,assassin,56,56,9000,class_or_gender_ineligible
+1005,"Vestment of Shattered Souls (F)",3,36,0,2,2,female,other,45,45,15000,source_frame_present
+1005,"Vestment of Shattered Souls (F)",3,36,0,2,2,female,assassin,62,62,9000,class_or_gender_ineligible
+1006,"Robes of the Blessed One (M)",3,33,0,4,1,male,other,34,34,0,source_frame_present
+1006,"Robes of the Blessed One (M)",3,33,0,4,1,male,assassin,56,56,0,class_or_gender_ineligible
+1006,"Robes of the Blessed One (M)",3,33,0,4,1,female,other,45,45,0,class_or_gender_ineligible
+1006,"Robes of the Blessed One (M)",3,33,0,4,1,female,assassin,62,62,0,class_or_gender_ineligible
+1007,"Robes of the Blessed One (F)",3,33,0,4,2,male,other,34,34,0,class_or_gender_ineligible
+1007,"Robes of the Blessed One (F)",3,33,0,4,2,male,assassin,56,56,0,class_or_gender_ineligible
+1007,"Robes of the Blessed One (F)",3,33,0,4,2,female,other,45,45,0,source_frame_present
+1007,"Robes of the Blessed One (F)",3,33,0,4,2,female,assassin,62,62,0,class_or_gender_ineligible
+1008,"Valhalla, The Last Hope",2,68,0,1,3,male,other,89,89,40000,source_frame_present
+1008,"Valhalla, The Last Hope",2,68,0,1,3,male,assassin,89,89,40000,class_or_gender_ineligible
+1008,"Valhalla, The Last Hope",2,68,0,1,3,female,other,103,103,40000,source_frame_present
+1008,"Valhalla, The Last Hope",2,68,0,1,3,female,assassin,103,103,40000,class_or_gender_ineligible
+1009,"Spellkeeper, Knowledge of the Ancients",2,66,0,2,3,male,other,89,89,30000,source_frame_present
+1009,"Spellkeeper, Knowledge of the Ancients",2,66,0,2,3,male,assassin,89,89,30000,class_or_gender_ineligible
+1009,"Spellkeeper, Knowledge of the Ancients",2,66,0,2,3,female,other,103,103,30000,source_frame_present
+1009,"Spellkeeper, Knowledge of the Ancients",2,66,0,2,3,female,assassin,103,103,30000,class_or_gender_ineligible
+1010,"Moonlight, Light in the Darkness",2,65,0,4,3,male,other,89,89,25000,source_frame_present
+1010,"Moonlight, Light in the Darkness",2,65,0,4,3,male,assassin,89,89,25000,class_or_gender_ineligible
+1010,"Moonlight, Light in the Darkness",2,65,0,4,3,female,other,103,103,25000,source_frame_present
+1010,"Moonlight, Light in the Darkness",2,65,0,4,3,female,assassin,103,103,25000,class_or_gender_ineligible
+1011,"Echo, Blades of Torment",2,1140,0,8,3,male,other,120,120,0,class_or_gender_ineligible
+1011,"Echo, Blades of Torment",2,1140,0,8,3,male,assassin,120,120,0,source_frame_present
+1011,"Echo, Blades of Torment",2,1140,0,8,3,female,other,132,132,0,class_or_gender_ineligible
+1011,"Echo, Blades of Torment",2,1140,0,8,3,female,assassin,132,132,0,source_frame_present
+1021,"Alpha, Hammer of Cruelty",2,136,0,1,3,male,other,93,93,30000,source_frame_present
+1021,"Alpha, Hammer of Cruelty",2,136,0,1,3,male,assassin,93,93,30000,class_or_gender_ineligible
+1021,"Alpha, Hammer of Cruelty",2,136,0,1,3,female,other,107,107,30000,source_frame_present
+1021,"Alpha, Hammer of Cruelty",2,136,0,1,3,female,assassin,107,107,30000,class_or_gender_ineligible
+1022,"Sunshard, Elements Fury",2,153,0,2,3,male,other,95,95,15000,source_frame_present
+1022,"Sunshard, Elements Fury",2,153,0,2,3,male,assassin,95,95,15000,class_or_gender_ineligible
+1022,"Sunshard, Elements Fury",2,153,0,2,3,female,other,109,109,15000,source_frame_present
+1022,"Sunshard, Elements Fury",2,153,0,2,3,female,assassin,109,109,15000,class_or_gender_ineligible
+1023,"Dawnseeker,  Lights Vengeance",2,148,0,4,3,male,other,94,94,40000,source_frame_present
+1023,"Dawnseeker,  Lights Vengeance",2,148,0,4,3,male,assassin,94,94,40000,class_or_gender_ineligible
+1023,"Dawnseeker,  Lights Vengeance",2,148,0,4,3,female,other,108,108,40000,source_frame_present
+1023,"Dawnseeker,  Lights Vengeance",2,148,0,4,3,female,assassin,108,108,40000,class_or_gender_ineligible
+1024,"Reaper, The Tri-blade",2,1145,0,8,3,male,other,120,120,25000,class_or_gender_ineligible
+1024,"Reaper, The Tri-blade",2,1145,0,8,3,male,assassin,120,120,25000,source_frame_present
+1024,"Reaper, The Tri-blade",2,1145,0,8,3,female,other,132,132,25000,class_or_gender_ineligible
+1024,"Reaper, The Tri-blade",2,1145,0,8,3,female,assassin,132,132,25000,source_frame_present
+1025,"Nemesis, The Blade of Betrayal",2,150,0,1,3,male,other,95,95,0,source_frame_present
+1025,"Nemesis, The Blade of Betrayal",2,150,0,1,3,male,assassin,95,95,0,class_or_gender_ineligible
+1025,"Nemesis, The Blade of Betrayal",2,150,0,1,3,female,other,109,109,0,source_frame_present
+1025,"Nemesis, The Blade of Betrayal",2,150,0,1,3,female,assassin,109,109,0,class_or_gender_ineligible
+1026,"Deluge, Winter's Might",2,145,0,2,3,male,other,94,94,25000,source_frame_present
+1026,"Deluge, Winter's Might",2,145,0,2,3,male,assassin,94,94,25000,class_or_gender_ineligible
+1026,"Deluge, Winter's Might",2,145,0,2,3,female,other,108,108,25000,source_frame_present
+1026,"Deluge, Winter's Might",2,145,0,2,3,female,assassin,108,108,25000,class_or_gender_ineligible
+1027,"Celestia, Fan of the Heavens",2,157,0,4,3,male,other,95,95,35000,source_frame_present
+1027,"Celestia, Fan of the Heavens",2,157,0,4,3,male,assassin,95,95,35000,class_or_gender_ineligible
+1027,"Celestia, Fan of the Heavens",2,157,0,4,3,female,other,109,109,35000,source_frame_present
+1027,"Celestia, Fan of the Heavens",2,157,0,4,3,female,assassin,109,109,35000,class_or_gender_ineligible
+1028,"Chaos, The Spiral Death",2,1141,0,8,3,male,other,120,120,5000,class_or_gender_ineligible
+1028,"Chaos, The Spiral Death",2,1141,0,8,3,male,assassin,120,120,5000,source_frame_present
+1028,"Chaos, The Spiral Death",2,1141,0,8,3,female,other,132,132,5000,class_or_gender_ineligible
+1028,"Chaos, The Spiral Death",2,1141,0,8,3,female,assassin,132,132,5000,source_frame_present
+1037,"Armour of the Sun Keeper (M)",3,22,0,1,1,male,other,33,33,0,source_frame_present
+1037,"Armour of the Sun Keeper (M)",3,22,0,1,1,male,assassin,55,55,0,class_or_gender_ineligible
+1037,"Armour of the Sun Keeper (M)",3,22,0,1,1,female,other,44,44,0,class_or_gender_ineligible
+1037,"Armour of the Sun Keeper (M)",3,22,0,1,1,female,assassin,61,61,0,class_or_gender_ineligible
+1038,"Armour of the Sun Keeper (F)",3,22,0,1,2,male,other,33,33,0,class_or_gender_ineligible
+1038,"Armour of the Sun Keeper (F)",3,22,0,1,2,male,assassin,55,55,0,class_or_gender_ineligible
+1038,"Armour of the Sun Keeper (F)",3,22,0,1,2,female,other,44,44,0,source_frame_present
+1038,"Armour of the Sun Keeper (F)",3,22,0,1,2,female,assassin,61,61,0,class_or_gender_ineligible
+1039,"Armour of Arcane Fury (M)",3,37,0,2,1,male,other,34,34,20000,source_frame_present
+1039,"Armour of Arcane Fury (M)",3,37,0,2,1,male,assassin,56,56,12000,class_or_gender_ineligible
+1039,"Armour of Arcane Fury (M)",3,37,0,2,1,female,other,45,45,20000,class_or_gender_ineligible
+1039,"Armour of Arcane Fury (M)",3,37,0,2,1,female,assassin,62,62,12000,class_or_gender_ineligible
+1040,"Armour of Arcane Fury (F)",3,37,0,2,2,male,other,34,34,20000,class_or_gender_ineligible
+1040,"Armour of Arcane Fury (F)",3,37,0,2,2,male,assassin,56,56,12000,class_or_gender_ineligible
+1040,"Armour of Arcane Fury (F)",3,37,0,2,2,female,other,45,45,20000,source_frame_present
+1040,"Armour of Arcane Fury (F)",3,37,0,2,2,female,assassin,62,62,12000,class_or_gender_ineligible
+1041,"Armour of Eternal Rest (M)",3,44,0,4,1,male,other,35,35,0,source_frame_present
+1041,"Armour of Eternal Rest (M)",3,44,0,4,1,male,assassin,,,,class_or_gender_ineligible
+1041,"Armour of Eternal Rest (M)",3,44,0,4,1,female,other,46,46,0,class_or_gender_ineligible
+1041,"Armour of Eternal Rest (M)",3,44,0,4,1,female,assassin,,,,class_or_gender_ineligible
+1042,"Armour of Eternal Rest (F)",3,44,0,4,2,male,other,35,35,0,class_or_gender_ineligible
+1042,"Armour of Eternal Rest (F)",3,44,0,4,2,male,assassin,,,,class_or_gender_ineligible
+1042,"Armour of Eternal Rest (F)",3,44,0,4,2,female,other,46,46,0,source_frame_present
+1042,"Armour of Eternal Rest (F)",3,44,0,4,2,female,assassin,,,,class_or_gender_ineligible
+1043,"Tunic of Whispers (M)",3,22,0,8,1,male,other,33,33,0,class_or_gender_ineligible
+1043,"Tunic of Whispers (M)",3,22,0,8,1,male,assassin,55,55,0,source_frame_present
+1043,"Tunic of Whispers (M)",3,22,0,8,1,female,other,44,44,0,class_or_gender_ineligible
+1043,"Tunic of Whispers (M)",3,22,0,8,1,female,assassin,61,61,0,class_or_gender_ineligible
+1044,"Tunic of Whispers (F)",3,22,0,8,2,male,other,33,33,0,class_or_gender_ineligible
+1044,"Tunic of Whispers (F)",3,22,0,8,2,male,assassin,55,55,0,class_or_gender_ineligible
+1044,"Tunic of Whispers (F)",3,22,0,8,2,female,other,44,44,0,class_or_gender_ineligible
+1044,"Tunic of Whispers (F)",3,22,0,8,2,female,assassin,61,61,0,source_frame_present
+1045,"Kingsguard Helmet",5,0,0,1,3,male,other,,,,no_source_mapping
+1045,"Kingsguard Helmet",5,0,0,1,3,male,assassin,,,,class_or_gender_ineligible
+1045,"Kingsguard Helmet",5,0,0,1,3,female,other,,,,no_source_mapping
+1045,"Kingsguard Helmet",5,0,0,1,3,female,assassin,,,,class_or_gender_ineligible
+1046,"Shimmering Light Crown",5,0,0,2,3,male,other,,,,no_source_mapping
+1046,"Shimmering Light Crown",5,0,0,2,3,male,assassin,,,,class_or_gender_ineligible
+1046,"Shimmering Light Crown",5,0,0,2,3,female,other,,,,no_source_mapping
+1046,"Shimmering Light Crown",5,0,0,2,3,female,assassin,,,,class_or_gender_ineligible
+1047,"Half Moon Hood",5,0,0,4,3,male,other,,,,no_source_mapping
+1047,"Half Moon Hood",5,0,0,4,3,male,assassin,,,,class_or_gender_ineligible
+1047,"Half Moon Hood",5,0,0,4,3,female,other,,,,no_source_mapping
+1047,"Half Moon Hood",5,0,0,4,3,female,assassin,,,,class_or_gender_ineligible
+1048,"Nightstalkers Cowl",5,0,0,8,3,male,other,,,,class_or_gender_ineligible
+1048,"Nightstalkers Cowl",5,0,0,8,3,male,assassin,,,,no_source_mapping
+1048,"Nightstalkers Cowl",5,0,0,8,3,female,other,,,,class_or_gender_ineligible
+1048,"Nightstalkers Cowl",5,0,0,8,3,female,assassin,,,,no_source_mapping
+1053,"Striking Boots",9,0,0,9,3,male,other,,,,no_world_layer
+1053,"Striking Boots",9,0,0,9,3,male,assassin,,,,no_world_layer
+1053,"Striking Boots",9,0,0,9,3,female,other,,,,no_world_layer
+1053,"Striking Boots",9,0,0,9,3,female,assassin,,,,no_world_layer
+1054,"Swiftcaster Boots",9,0,0,2,3,male,other,,,,no_world_layer
+1054,"Swiftcaster Boots",9,0,0,2,3,male,assassin,,,,class_or_gender_ineligible
+1054,"Swiftcaster Boots",9,0,0,2,3,female,other,,,,no_world_layer
+1054,"Swiftcaster Boots",9,0,0,2,3,female,assassin,,,,class_or_gender_ineligible
+1055,"Lifeseeker Boots",9,0,0,4,3,male,other,,,,no_world_layer
+1055,"Lifeseeker Boots",9,0,0,4,3,male,assassin,,,,class_or_gender_ineligible
+1055,"Lifeseeker Boots",9,0,0,4,3,female,other,,,,no_world_layer
+1055,"Lifeseeker Boots",9,0,0,4,3,female,assassin,,,,class_or_gender_ineligible
+1069,"Odyn Son",2,136,0,1,3,male,other,93,93,30000,source_frame_present
+1069,"Odyn Son",2,136,0,1,3,male,assassin,93,93,30000,class_or_gender_ineligible
+1069,"Odyn Son",2,136,0,1,3,female,other,107,107,30000,source_frame_present
+1069,"Odyn Son",2,136,0,1,3,female,assassin,107,107,30000,class_or_gender_ineligible
+1070,"Odyn Mythical",2,136,0,2,3,male,other,93,93,30000,source_frame_present
+1070,"Odyn Mythical",2,136,0,2,3,male,assassin,93,93,30000,class_or_gender_ineligible
+1070,"Odyn Mythical",2,136,0,2,3,female,other,107,107,30000,source_frame_present
+1070,"Odyn Mythical",2,136,0,2,3,female,assassin,107,107,30000,class_or_gender_ineligible
+1072,"Odyn Elemental",2,136,0,4,3,male,other,93,93,30000,source_frame_present
+1072,"Odyn Elemental",2,136,0,4,3,male,assassin,93,93,30000,class_or_gender_ineligible
+1072,"Odyn Elemental",2,136,0,4,3,female,other,107,107,30000,source_frame_present
+1072,"Odyn Elemental",2,136,0,4,3,female,assassin,107,107,30000,class_or_gender_ineligible
+1079,"Odyn Sin",2,136,0,8,3,male,other,93,93,30000,class_or_gender_ineligible
+1079,"Odyn Sin",2,136,0,8,3,male,assassin,93,93,30000,source_frame_present
+1079,"Odyn Sin",2,136,0,8,3,female,other,107,107,30000,class_or_gender_ineligible
+1079,"Odyn Sin",2,136,0,8,3,female,assassin,107,107,30000,source_frame_present
+1088,"Worm Squashers",9,0,0,15,3,male,other,,,,no_world_layer
+1088,"Worm Squashers",9,0,0,15,3,male,assassin,,,,no_world_layer
+1088,"Worm Squashers",9,0,0,15,3,female,other,,,,no_world_layer
+1088,"Worm Squashers",9,0,0,15,3,female,assassin,,,,no_world_layer
+1101,"Tunic of Vengence (F)",3,22,0,8,2,male,other,33,33,0,class_or_gender_ineligible
+1101,"Tunic of Vengence (F)",3,22,0,8,2,male,assassin,55,55,0,class_or_gender_ineligible
+1101,"Tunic of Vengence (F)",3,22,0,8,2,female,other,44,44,0,class_or_gender_ineligible
+1101,"Tunic of Vengence (F)",3,22,0,8,2,female,assassin,61,61,0,source_frame_present
+1103,"Tunic of Vengence (M)",3,22,0,8,1,male,other,33,33,0,class_or_gender_ineligible
+1103,"Tunic of Vengence (M)",3,22,0,8,1,male,assassin,55,55,0,source_frame_present
+1103,"Tunic of Vengence (M)",3,22,0,8,1,female,other,44,44,0,class_or_gender_ineligible
+1103,"Tunic of Vengence (M)",3,22,0,8,1,female,assassin,61,61,0,class_or_gender_ineligible
+1104,"Armour of the Titan Slayer (M)",3,22,0,1,1,male,other,33,33,0,source_frame_present
+1104,"Armour of the Titan Slayer (M)",3,22,0,1,1,male,assassin,55,55,0,class_or_gender_ineligible
+1104,"Armour of the Titan Slayer (M)",3,22,0,1,1,female,other,44,44,0,class_or_gender_ineligible
+1104,"Armour of the Titan Slayer (M)",3,22,0,1,1,female,assassin,61,61,0,class_or_gender_ineligible
+1105,"Armour of the Titan Slayer (F)",3,22,0,1,2,male,other,33,33,0,class_or_gender_ineligible
+1105,"Armour of the Titan Slayer (F)",3,22,0,1,2,male,assassin,55,55,0,class_or_gender_ineligible
+1105,"Armour of the Titan Slayer (F)",3,22,0,1,2,female,other,44,44,0,source_frame_present
+1105,"Armour of the Titan Slayer (F)",3,22,0,1,2,female,assassin,61,61,0,class_or_gender_ineligible
+1106,"Rainments of the Blazing Comet (M)",3,37,0,2,1,male,other,34,34,20000,source_frame_present
+1106,"Rainments of the Blazing Comet (M)",3,37,0,2,1,male,assassin,56,56,12000,class_or_gender_ineligible
+1106,"Rainments of the Blazing Comet (M)",3,37,0,2,1,female,other,45,45,20000,class_or_gender_ineligible
+1106,"Rainments of the Blazing Comet (M)",3,37,0,2,1,female,assassin,62,62,12000,class_or_gender_ineligible
+1107,"Rainments of the Blazing Comet (F)",3,37,0,2,2,male,other,34,34,20000,class_or_gender_ineligible
+1107,"Rainments of the Blazing Comet (F)",3,37,0,2,2,male,assassin,56,56,12000,class_or_gender_ineligible
+1107,"Rainments of the Blazing Comet (F)",3,37,0,2,2,female,other,45,45,20000,source_frame_present
+1107,"Rainments of the Blazing Comet (F)",3,37,0,2,2,female,assassin,62,62,12000,class_or_gender_ineligible
+1108,"Robes of the Titan Slayer (M)",3,44,0,4,1,male,other,35,35,0,source_frame_present
+1108,"Robes of the Titan Slayer (M)",3,44,0,4,1,male,assassin,,,,class_or_gender_ineligible
+1108,"Robes of the Titan Slayer (M)",3,44,0,4,1,female,other,46,46,0,class_or_gender_ineligible
+1108,"Robes of the Titan Slayer (M)",3,44,0,4,1,female,assassin,,,,class_or_gender_ineligible
+1109,"Robes of the Titan Slayer (F)",3,44,0,4,2,male,other,35,35,0,class_or_gender_ineligible
+1109,"Robes of the Titan Slayer (F)",3,44,0,4,2,male,assassin,,,,class_or_gender_ineligible
+1109,"Robes of the Titan Slayer (F)",3,44,0,4,2,female,other,46,46,0,source_frame_present
+1109,"Robes of the Titan Slayer (F)",3,44,0,4,2,female,assassin,,,,class_or_gender_ineligible
+1112,"Wooden Shield",27,0,0,15,3,male,other,135,135,0,source_frame_present
+1112,"Wooden Shield",27,0,0,15,3,male,assassin,135,135,0,source_frame_present
+1112,"Wooden Shield",27,0,0,15,3,female,other,137,137,0,source_frame_present
+1112,"Wooden Shield",27,0,0,15,3,female,assassin,137,137,0,source_frame_present
+1113,"Bronze Shield",27,0,0,15,3,male,other,135,135,0,source_frame_present
+1113,"Bronze Shield",27,0,0,15,3,male,assassin,135,135,0,source_frame_present
+1113,"Bronze Shield",27,0,0,15,3,female,other,137,137,0,source_frame_present
+1113,"Bronze Shield",27,0,0,15,3,female,assassin,137,137,0,source_frame_present
+1114,"Iron Shield",27,0,0,15,3,male,other,135,135,0,source_frame_present
+1114,"Iron Shield",27,0,0,15,3,male,assassin,135,135,0,source_frame_present
+1114,"Iron Shield",27,0,0,15,3,female,other,137,137,0,source_frame_present
+1114,"Iron Shield",27,0,0,15,3,female,assassin,137,137,0,source_frame_present
+1115,"Ice Spike Shield",27,0,0,15,3,male,other,135,135,0,source_frame_present
+1115,"Ice Spike Shield",27,0,0,15,3,male,assassin,135,135,0,source_frame_present
+1115,"Ice Spike Shield",27,0,0,15,3,female,other,137,137,0,source_frame_present
+1115,"Ice Spike Shield",27,0,0,15,3,female,assassin,137,137,0,source_frame_present
+1116,"Defenders Embrace",27,0,0,15,3,male,other,135,135,0,source_frame_present
+1116,"Defenders Embrace",27,0,0,15,3,male,assassin,135,135,0,source_frame_present
+1116,"Defenders Embrace",27,0,0,15,3,female,other,137,137,0,source_frame_present
+1116,"Defenders Embrace",27,0,0,15,3,female,assassin,137,137,0,source_frame_present
+1117,"Reflection Mirror Shield",27,0,0,15,3,male,other,135,135,0,source_frame_present
+1117,"Reflection Mirror Shield",27,0,0,15,3,male,assassin,135,135,0,source_frame_present
+1117,"Reflection Mirror Shield",27,0,0,15,3,female,other,137,137,0,source_frame_present
+1117,"Reflection Mirror Shield",27,0,0,15,3,female,assassin,137,137,0,source_frame_present
+1118,"Maple Guard Adamantine Shield",27,0,0,15,3,male,other,135,135,0,source_frame_present
+1118,"Maple Guard Adamantine Shield",27,0,0,15,3,male,assassin,135,135,0,source_frame_present
+1118,"Maple Guard Adamantine Shield",27,0,0,15,3,female,other,137,137,0,source_frame_present
+1118,"Maple Guard Adamantine Shield",27,0,0,15,3,female,assassin,137,137,0,source_frame_present
+1119,"Barrage breaker Phoenix Shield",27,0,0,15,3,male,other,135,135,0,source_frame_present
+1119,"Barrage breaker Phoenix Shield",27,0,0,15,3,male,assassin,135,135,0,source_frame_present
+1119,"Barrage breaker Phoenix Shield",27,0,0,15,3,female,other,137,137,0,source_frame_present
+1119,"Barrage breaker Phoenix Shield",27,0,0,15,3,female,assassin,137,137,0,source_frame_present
+1120,"Santa Outfit (F)",3,17,0,15,2,male,other,32,32,30000,class_or_gender_ineligible
+1120,"Santa Outfit (F)",3,17,0,15,2,male,assassin,54,54,18000,class_or_gender_ineligible
+1120,"Santa Outfit (F)",3,17,0,15,2,female,other,43,43,30000,source_frame_present
+1120,"Santa Outfit (F)",3,17,0,15,2,female,assassin,60,60,18000,source_frame_present
+1121,"Santa Outfit (M)",3,17,0,15,1,male,other,32,32,30000,source_frame_present
+1121,"Santa Outfit (M)",3,17,0,15,1,male,assassin,54,54,18000,source_frame_present
+1121,"Santa Outfit (M)",3,17,0,15,1,female,other,43,43,30000,class_or_gender_ineligible
+1121,"Santa Outfit (M)",3,17,0,15,1,female,assassin,60,60,18000,class_or_gender_ineligible
+1122,"Valkyrie Blade of Reckoning",2,150,0,1,3,male,other,95,95,0,source_frame_present
+1122,"Valkyrie Blade of Reckoning",2,150,0,1,3,male,assassin,95,95,0,class_or_gender_ineligible
+1122,"Valkyrie Blade of Reckoning",2,150,0,1,3,female,other,109,109,0,source_frame_present
+1122,"Valkyrie Blade of Reckoning",2,150,0,1,3,female,assassin,109,109,0,class_or_gender_ineligible
+1123,"Lifebinder The Ancient Healer",2,157,0,4,3,male,other,95,95,35000,source_frame_present
+1123,"Lifebinder The Ancient Healer",2,157,0,4,3,male,assassin,95,95,35000,class_or_gender_ineligible
+1123,"Lifebinder The Ancient Healer",2,157,0,4,3,female,other,109,109,35000,source_frame_present
+1123,"Lifebinder The Ancient Healer",2,157,0,4,3,female,assassin,109,109,35000,class_or_gender_ineligible
+1124,"Crescent Moon Cry of the Fallen",2,1141,0,8,3,male,other,120,120,5000,class_or_gender_ineligible
+1124,"Crescent Moon Cry of the Fallen",2,1141,0,8,3,male,assassin,120,120,5000,source_frame_present
+1124,"Crescent Moon Cry of the Fallen",2,1141,0,8,3,female,other,132,132,5000,class_or_gender_ineligible
+1124,"Crescent Moon Cry of the Fallen",2,1141,0,8,3,female,assassin,132,132,5000,source_frame_present
+1125,"StormCaller The Sky Blade",2,145,0,2,3,male,other,94,94,25000,source_frame_present
+1125,"StormCaller The Sky Blade",2,145,0,2,3,male,assassin,94,94,25000,class_or_gender_ineligible
+1125,"StormCaller The Sky Blade",2,145,0,2,3,female,other,108,108,25000,source_frame_present
+1125,"StormCaller The Sky Blade",2,145,0,2,3,female,assassin,108,108,25000,class_or_gender_ineligible
+1158,"War Thurible",27,1000,50,15,3,male,other,,,,no_source_mapping
+1158,"War Thurible",27,1000,50,15,3,male,assassin,,,,no_source_mapping
+1158,"War Thurible",27,1000,50,15,3,female,other,,,,no_source_mapping
+1158,"War Thurible",27,1000,50,15,3,female,assassin,,,,no_source_mapping
+1159,"Penance Thurible",27,1000,51,15,3,male,other,,,,no_source_mapping
+1159,"Penance Thurible",27,1000,51,15,3,male,assassin,,,,no_source_mapping
+1159,"Penance Thurible",27,1000,51,15,3,female,other,,,,no_source_mapping
+1159,"Penance Thurible",27,1000,51,15,3,female,assassin,,,,no_source_mapping
+1160,"Censorship Thurible",27,1000,52,15,3,male,other,,,,no_source_mapping
+1160,"Censorship Thurible",27,1000,52,15,3,male,assassin,,,,no_source_mapping
+1160,"Censorship Thurible",27,1000,52,15,3,female,other,,,,no_source_mapping
+1160,"Censorship Thurible",27,1000,52,15,3,female,assassin,,,,no_source_mapping
+1161,"Petrichor Thurible",27,1000,53,15,3,male,other,,,,no_source_mapping
+1161,"Petrichor Thurible",27,1000,53,15,3,male,assassin,,,,no_source_mapping
+1161,"Petrichor Thurible",27,1000,53,15,3,female,other,,,,no_source_mapping
+1161,"Petrichor Thurible",27,1000,53,15,3,female,assassin,,,,no_source_mapping
+1162,"Chaotic Heaven Blade",2,44,110,7,3,male,other,87,87,20000,source_frame_present
+1162,"Chaotic Heaven Blade",2,44,110,7,3,male,assassin,87,87,20000,class_or_gender_ineligible
+1162,"Chaotic Heaven Blade",2,44,110,7,3,female,other,101,101,20000,source_frame_present
+1162,"Chaotic Heaven Blade",2,44,110,7,3,female,assassin,101,101,20000,class_or_gender_ineligible
+1163,"Janitors Scimitar",2,67,111,7,3,male,other,89,89,35000,source_frame_present
+1163,"Janitors Scimitar",2,67,111,7,3,male,assassin,89,89,35000,class_or_gender_ineligible
+1163,"Janitors Scimitar",2,67,111,7,3,female,other,103,103,35000,source_frame_present
+1163,"Janitors Scimitar",2,67,111,7,3,female,assassin,103,103,35000,class_or_gender_ineligible
+1164,"Janitors Dual Blade",2,1114,112,8,3,male,other,118,118,20000,class_or_gender_ineligible
+1164,"Janitors Dual Blade",2,1114,112,8,3,male,assassin,118,118,20000,source_frame_present
+1164,"Janitors Dual Blade",2,1114,112,8,3,female,other,130,130,20000,class_or_gender_ineligible
+1164,"Janitors Dual Blade",2,1114,112,8,3,female,assassin,130,130,20000,source_frame_present
+1165,"Chaotic Heaven Blade 2",2,1263,110,8,3,male,other,113,113,15000,class_or_gender_ineligible
+1165,"Chaotic Heaven Blade 2",2,1263,110,8,3,male,assassin,116,116,15000,source_frame_present
+1165,"Chaotic Heaven Blade 2",2,1263,110,8,3,female,other,125,125,15000,class_or_gender_ineligible
+1165,"Chaotic Heaven Blade 2",2,1263,110,8,3,female,assassin,128,128,15000,source_frame_present
+1166,"Royal Horse Armour",18,6,0,15,3,male,other,79,79,2240,source_library_missing
+1166,"Royal Horse Armour",18,6,0,15,3,male,assassin,79,79,2240,source_library_missing
+1166,"Royal Horse Armour",18,6,0,15,3,female,other,79,79,2240,source_library_missing
+1166,"Royal Horse Armour",18,6,0,15,3,female,assassin,79,79,2240,source_library_missing
+1167,"Blue Dragon Armour",18,7,0,15,3,male,other,81,81,2240,source_library_missing
+1167,"Blue Dragon Armour",18,7,0,15,3,male,assassin,81,81,2240,source_library_missing
+1167,"Blue Dragon Armour",18,7,0,15,3,female,other,81,81,2240,source_library_missing
+1167,"Blue Dragon Armour",18,7,0,15,3,female,assassin,81,81,2240,source_library_missing

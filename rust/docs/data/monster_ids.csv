@@ -1,0 +1,310 @@
+id,name,level,boss
+1,"Guard",250,false
+8,"Chicken",5,false
+9,"Pig",6,false
+10,"Deer",7,false
+11,"Cow",8,false
+12,"Sheep",9,false
+13,"Claw Cat",10,false
+14,"Wolf",15,false
+15,"Forest Yeti",13,false
+16,"Chestnut Tree",10,false
+17,"Carnivorous Plant",10,false
+18,"Oma Warrior",13,false
+19,"Tiger Snake",15,false
+20,"Spitting Spider",10,false
+21,"Scarecrow",10,false
+22,"Oma",13,false
+23,"Oma Hero",250,true
+24,"Cave Bat",18,false
+25,"Scorpion",18,false
+26,"Skeleton Axeman",18,false
+27,"Skeleton",18,false
+28,"Skeleton Axe Thrower",18,false
+29,"Skeleton Warrior",18,false
+30,"Skeleton Lord",250,true
+31,"Cave Maggot",20,false
+32,"GhostSorcerer",20,false
+33,"Ghost Mage",20,false
+34,"Voracious Ghost",20,false
+35,"Devouring Ghost",20,false
+36,"Corpse Raising Ghost",20,false
+37,"Ghoul Champion",250,true
+38,"Ant Soldier",25,false
+39,"Ant Healer",25,false
+40,"Ant Needler",25,false
+41,"Armoured Ant",25,false
+42,"Ant Commander",250,true
+43,"Beetle",13,false
+44,"Corpse Devourer",16,false
+45,"Visceral Worm",16,false
+46,"Mutant Flea",20,false
+47,"Poisonous Mutant Flea",20,false
+48,"Blaster Mutant Flea",20,false
+49,"Terror Spike",250,true
+50,"Wasp Hatchling",30,false
+51,"Centipede",30,false
+52,"Butterfly Worm",30,false
+53,"Mutant Maggot",30,false
+54,"Earwig",30,false
+55,"Iron Lance",250,true
+56,"Lord Ji'Nae",250,true
+57,"Rotting Ghoul",25,false
+58,"Decaying Ghoul",25,false
+59,"Blood Thristy Ghoul",250,true
+60,"Blood Thristy Zombie",250,true
+61,"Spined Dark Lizard",25,false
+62,"Uma Infidel",25,false
+63,"Uma Flame Thrower",25,false
+64,"Uma Anguisher",250,true
+65,"Uma King",250,true
+66,"Spider Bat",35,false
+67,"Arachnid Gazer",35,false
+68,"Larva",250,false
+69,"Red Moon Guardian",40,false
+70,"Red Moon Protector",40,false
+71,"Venomous Arachnid",35,false
+72,"Dark Arachnid",35,false
+73,"Arachnid Broodmother",250,true
+74,"Red Moon Royal Guard",250,true
+75,"Red Moon The Fallen",250,true
+76,"Zuma Sharpshooter",45,false
+77,"Zuma Fanatic",45,false
+78,"Zuma Guardian",45,false
+79,"Vicious Rat",45,false
+80,"Zuma Keeper",250,true
+81,"Zuma King",250,true
+82,"Evil Fanatic",46,false
+83,"Monkey",46,false
+84,"Evil Monkey",46,false
+85,"Evil Elephant",47,false
+86,"Cannibal Fanatic",46,false
+87,"Crazed Warrior",250,true
+88,"Spiked Beetle",250,true
+89,"Numa Grunt",35,false
+90,"Numa Mage",35,false
+91,"Numa Elite",35,false
+92,"Sand Shark",35,false
+93,"Stone Golem",35,false
+94,"Windfury Sorceress",35,false
+95,"Cursed Cactus",35,false
+96,"Netherworld Gate",250,true
+97,"Raging Lizard",68,false
+98,"Numa Elder Shaman",250,true
+99,"Saw Tooth Lizard",68,false
+100,"Venom Spitter",68,false
+101,"Sonic Lizard",68,false
+102,"Giant Lizard",68,false
+103,"Crazed Lizard",68,false
+104,"Tainted Terror",250,true
+105,"Death Lord Jichon",250,false
+106,"Mutant Lizard",68,false
+107,"Minotaur",45,false
+108,"Frost Minotaur",45,false
+109,"Banya Right Guard",45,false
+110,"Shock Minotaur",45,false
+111,"Banya Left Guard",45,false
+112,"Fury Minotaur",45,false
+113,"Flame Minotaur",45,false
+114,"Banya Guardian",250,true
+115,"Emperor Sa'Woo",250,true
+116,"Bone Archer",35,false
+117,"Bone Bladesman",35,false
+118,"Bone Captain",35,false
+119,"Bone Soldier",35,false
+120,"Skeleton Enforcer",250,true
+121,"Arch Lich Taedu",250,true
+122,"Wedge Moth Larva",30,false
+123,"Lesser Wedge Moth",30,false
+124,"Wedge Moth",30,false
+125,"Red Boar",30,false
+126,"Claw Serpent",30,false
+127,"Black Boar",30,false
+128,"Tusk Lord",250,true
+129,"Razor Tusk",250,true
+130,"Pink Goddess Of Black Palace",50,false
+131,"Green Goddess Of Black Palace",50,false
+132,"Mutant Captain",50,false
+133,"Stone Griffin",52,false
+134,"Flame Griffin",52,false
+135,"Black Palace Warlord",250,true
+136,"Pink Goddess Of Underground",55,false
+137,"Vicious Mutant Captain",55,false
+138,"Green Goddess Of Underground",55,false
+139,"Jinchon Warlord",250,true
+140,"SummonPuppet",250,false
+141,"Apparition Archer",75,false
+142,"Apparition Bladesman",75,false
+143,"Apparition Soldier",75,false
+144,"Skeleton",17,false
+145,"Jin Skeleton",33,false
+146,"Shinsu",30,false
+147,"Infernal Soldier",50,false
+150,"MirrorImage",250,false
+151,"Corpse Stalker",75,false
+152,"Light Armed Soldier",75,false
+153,"Corrosive Poison Spitter",75,false
+154,"Phantom Soldier",75,false
+155,"Mutated Octopus",75,false
+156,"Aqua Lizard",75,false
+157,"Stomper",75,false
+158,"Crimson Necromancer",75,false
+159,"Chaos Knight",250,true
+160,"Pachon The Chaos bringer",250,true
+161,"Numa Cavalry",72,false
+162,"Numa High Mage",72,false
+163,"Numa Stone Thrower",72,false
+164,"Numa Royal Guard",72,false
+165,"Numa Armored Soldier",72,false
+166,"Numa Assault Captain",72,true
+167,"Icy Ranger",80,false
+168,"Icy Goddess",80,false
+169,"Icy Spirit Warrior",80,false
+170,"Icy Spirit General",100,false
+171,"Ghost Knight",75,false
+172,"Icy Spirit Spearman",80,false
+173,"Werewolf",75,false
+174,"Whitefang",75,false
+175,"Icy Spirit Solider",80,false
+176,"Wild Boar",75,false
+177,"Jinam Stone Gate",250,true
+178,"Frost Lord Hwa",250,true
+179,"Bloody Armed Beetle",80,false
+180,"Golden Armored Beetle",80,false
+181,"Earwig King",80,false
+182,"Mature Earwig",80,false
+183,"Millipede",80,false
+184,"Enraged Lord Ji'Nae",250,true
+185,"Banyo Soldier",80,false
+186,"Banyo Warrior",80,false
+187,"Banyo Captain",80,false
+188,"Banyo Lord Guzak",250,true
+189,"Pig",0,false
+190,"Tusk Lord",0,false
+191,"Skeleton Lord",0,false
+192,"Griffin",0,false
+193,"Dragon",0,false
+194,"Donkey",0,false
+195,"Sheep",0,false
+196,"Pachon ",0,false
+197,"Panda",0,false
+198,"Rabbit",0,false
+199,"Jinchon Devil",250,true
+200,"Black Palace Demon",250,true
+201,"Brass Feral Warrior",80,false
+202,"Obsidian Feral Warrior",80,false
+203,"Sun Feral Warrior",80,false
+204,"Moon Feral Warrior",80,false
+205,"Ox Feral General",80,false
+206,"Flame Demon",80,false
+207,"Winged Horror",250,true
+208,"Enraged Emperor Sa'Woo",250,true
+209,"Ferocious Flame Demon",80,false
+210,"Oma Warlord",80,false
+211,"Goru Spearman",80,false
+212,"Goru Archer",80,false
+213,"Goru General",80,false
+215,"Enraged Arch Lich Taedu",250,true
+216,"Escort Commander",80,false
+217,"Fiery Dancer",80,false
+218,"Emerald Dancer",100,false
+219,"Queen Of Dawn",250,true
+220,"Sabuk Lord",250,true
+221,"Oyoung Beast",80,false
+222,"Yumgon Witch",80,false
+223,"Ma Warden",80,false
+224,"Ma Warlord",80,false
+225,"Jinhwan Spirit",80,false
+226,"Jinhwan Guardian",80,false
+227,"Oyoung General",80,false
+228,"Yumgon General",80,false
+229,"Chiwoo General Of East",250,true
+230,"Chiwoo General Of West",250,true
+231,"Dragon Queen Jin'Ru",250,true
+232,"Dragon Lord Jin'Ryung",250,true
+233,"Ferocious Ice Tiger",250,true
+244,"Escort Commander",80,false
+245,"Sama Cursed Bladesman",85,false
+246,"Sama Cursed Flame Mage",85,false
+248,"Sama Cursed Slave",85,false
+249,"Sama Fire Guardian",88,false
+250,"Sama Ice Guardian",88,false
+251,"Sama Lightning Guardian",88,false
+252,"Sama Wind Guardian",88,false
+253,"Black Sama",250,true
+254,"Blue Sama",250,true
+255,"Phoenix Sama",250,true
+256,"White Tiger Sama",250,true
+258,"Enshrinement Box",85,false
+259,"Sama Prophet",250,true
+260,"Sama Sorcerer",250,true
+261,"Blood Stone",250,false
+262,"Life Stone",250,false
+263,"Dark Stone",250,false
+264,"Young Tiger",58,false
+265,"Tiger",63,false
+266,"Blood Tiger",90,false
+267,"Blizzard Tiger",90,false
+268,"Dark Tiger",90,false
+269,"Elder Dark Tiger",250,true
+270,"Elder White Tiger",250,true
+271,"Tiger General",250,false
+272,"Tiger War Lord",250,true
+273,"Wild Elephant",60,false
+274,"Wild Monkey",63,false
+275,"Wild Fanatic",61,false
+276,"Frost Yeti",90,false
+277,"Evil Snake",85,false
+278,"Salamander",85,false
+279,"Sand Golem",85,false
+284,"Oma Mage",100,false
+291,"Crystal Golem",85,false
+292,"Dust Devil",100,false
+293,"Twin Tail Scorpion",85,false
+294,"Bloody Mole",85,false
+295,"Imp",100,false
+296,"Ettin",92,false
+297,"Centurion",100,false
+298,"Rot Wraith",93,false
+299,"Cotoblepas",89,false
+300,"Azog",250,true
+301,"Urukhia",250,true
+302,"Gang Spider",85,false
+303,"Venom Spider",85,false
+304,"Chubarak",250,true
+305,"Doom Claw",500,true
+307,"Zauhk Spawn",250,false
+308,"Shell Spliter",250,false
+309,"Ember Mage",250,false
+310,"Bobbit Worm",250,false
+311,"Cobalt Golum",250,false
+312,"Shimmer Wings",250,false
+313,"Vex Wings",250,false
+314,"Rot Wraith",93,false
+331,"Rot Wraith",93,false
+332,"Ember SpearMan",250,false
+333,"Kongeegen",250,false
+334,"Adamantoise",250,true
+335,"Zauhk",250,true
+336,"MonasteryRaisingGhost",79,false
+337,"MonasteryGhoul",79,false
+338,"MonasterySorcer",79,false
+339,"MonasteryVoracious",89,false
+341,"MonasteryDevour",79,false
+342,"Sumerian",250,true
+343,"Sacrifice",250,true
+344,"Enheduanna",250,false
+345,"Quadishtu",250,false
+347,"Sumerian King",250,true
+348,"Puabi",250,false
+349,"Bobbit Bobbit",250,false
+350,"Sabuk Flag",250,true
+351,"Tornado",250,false
+352,"Undead Soul",0,false
+353,"Cursed Doll",250,false
+354,"Terracotta1",90,false
+355,"Terracotta2",90,false
+356,"Terracotta3",90,false
+357,"Terracotta4",90,false
+358,"TerracottaSub",90,false
+359,"TerracottaBoss",90,true

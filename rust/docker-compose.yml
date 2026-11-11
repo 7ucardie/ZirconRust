@@ -1,0 +1,20 @@
+services:
+  server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: zircon-server
+    ports:
+      - "7000:7000"
+    volumes:
+      # Set ZIRCON_ASSETS_DIR to the folder holding Client/ and Database/.
+      - ${ZIRCON_ASSETS_DIR:-~/zircon-assets}:/assets:ro
+      # Accounts and characters persist here.
+      - zircon-data:/data
+    environment:
+      RUST_LOG: info
+      ZIRCON_DATA: /data
+    restart: unless-stopped
+
+volumes:
+  zircon-data:

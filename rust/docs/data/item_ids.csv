@@ -1,0 +1,1079 @@
+id,name,type,image
+1,"Gold",34,0
+2,"Swordsmanship",14,304
+3,"Potion Mastery",14,304
+4,"Slaying",14,304
+5,"Thrusting",14,304
+6,"Half Moon",14,304
+7,"Shoulder Dash",14,304
+8,"Flaming Sword",14,304
+9,"Dragon Rise",14,304
+10,"Blade Storm",14,304
+11,"Destructive Surge",14,304
+12,"Interchange",14,304
+13,"Defiance",14,304
+14,"Beckon",14,304
+15,"Might",14,304
+16,"Swift Blade",14,304
+17,"Assault",14,304
+18,"Endurance",14,304
+19,"Reflect Damage",14,304
+20,"Fetter",14,304
+21,"Advanced Destructive Surge",14,304
+22,"Advanced Defiance",14,304
+23,"Advanced Reflect Damage",14,304
+24,"Fire Ball",14,304
+25,"Lightning Ball",14,304
+26,"Ice Bolt",14,304
+27,"Gust Blast",14,304
+28,"Repulsion",14,304
+29,"Electric Shock",14,304
+30,"Teleportation",14,304
+31,"Adamantine Fire Ball",14,304
+32,"Thunder Bolt",14,304
+33,"Ice Blades",14,304
+34,"Cyclone",14,304
+35,"Scorched Earth",14,304
+36,"Lightning Beam",14,304
+37,"Frozen Earth",14,304
+38,"Blow Earth",14,304
+39,"Fire Wall",14,304
+40,"Expel Undead",14,304
+41,"Geo Manipulation",14,304
+42,"Magic Shield",14,304
+43,"Fire Storm",14,304
+44,"Lightning Wave",14,304
+45,"Ice Storm",14,304
+46,"Dragon Tornado",14,304
+47,"Greater Frozen Earth",14,304
+48,"Chain Lightning",14,304
+49,"Meteor Shower",14,304
+50,"Renounce",14,304
+51,"Tempest",14,304
+52,"Judgement Of Heaven",14,304
+53,"Thunder Storm",14,304
+54,"Elemental Hurricane",14,304
+55,"Superior Magic Shield",14,304
+56,"Burning",14,304
+57,"Shock",14,304
+58,"Lightning Strike",14,304
+59,"Mirror Image",14,304
+60,"Heal",14,304
+61,"Spirit Sword",14,304
+62,"Poison Dust",14,304
+63,"Explosive Talisman",14,304
+64,"Evil Slayer",14,304
+65,"Invisibility",14,304
+66,"Magic Resistance",14,304
+67,"Mass Invisibility",14,304
+68,"Greater Evil Slayer",14,304
+69,"Resilience",14,304
+70,"Trap Octagon",14,304
+71,"Taoist Combat Kick",14,304
+72,"Elemental Superiority",14,304
+73,"Mass Heal",14,304
+74,"Blood Lust",14,304
+75,"Resurrection",14,304
+76,"Purification",14,304
+77,"Transparency",14,304
+78,"Celestial Light",14,304
+79,"Empowered Healing",14,304
+80,"Life Steal",14,304
+81,"Improved Explosive Talisman",14,304
+82,"Empowered Poison Dust",14,304
+83,"Cursed Doll",14,304
+84,"Thunder Kick",14,304
+85,"Soul Resonance",14,304
+86,"Parasite",14,304
+87,"Spiritualism",14,304
+88,"Willow Dance",14,304
+89,"Vine Tree Dance",14,304
+90,"Discipline",14,304
+91,"Poisonous Cloud",14,304
+92,"Full Bloom",14,304
+93,"Cloak",14,304
+94,"White Lotus",14,304
+95,"Calamity Of Full Moon",14,304
+96,"Wraith Grip",14,304
+97,"Red Lotus",14,304
+98,"Hell Fire",14,304
+99,"Pledge Of Blood",14,304
+100,"Rake",14,304
+101,"Sweetbrier",14,304
+102,"Summon Puppet",14,304
+103,"Karma",14,304
+104,"Touch Of The Departed",14,304
+105,"Waning Moon",14,304
+106,"Ghost Walk",14,304
+107,"Elemental Puppet",14,304
+108,"Rejuvenation",14,304
+109,"Resolution",14,304
+110,"Change Of Seasons",14,304
+111,"Release",14,304
+112,"Flame Splash",14,304
+113,"Bloody Flower",14,304
+114,"The New Beginning",14,304
+115,"Dance Of Swallow",14,304
+116,"Dark Conversion",14,304
+117,"Dragon Repulse",14,304
+118,"Advent Of Demon",14,304
+119,"Advent Of Devil",14,304
+120,"Abyss",14,304
+121,"Flash Of Light",14,304
+122,"Stealth",14,304
+123,"Evasion",14,304
+124,"Raging Wind",14,304
+126,"Wood Sword",2,1042
+127,"Commoner Outfit (M)",3,941
+128,"Commoner Outfit (F)",3,951
+129,"Trainee's Glaive",2,2200
+130,"Trainee's Armour (M)",3,2000
+131,"Trainee's Armour (F)",3,2010
+132,"Candle",4,290
+133,"Healing Potion",1,5
+134,"Healing Potion (II)",1,6
+135,"Healing Potion (III)",1,7
+136,"Healing Potion (IV)",1,8
+137,"Healing Potion (V)",1,9
+138,"Life Pill",1,25
+139,"Life Pill (II)",1,26
+140,"Life Pill (III)",1,27
+141,"Life Pill (IV)",1,28
+142,"Life Pill (V)",1,29
+143,"Mana Potion",1,15
+144,"Mana Potion (II)",1,16
+145,"Mana Potion (III)",1,17
+146,"Mana Potion (IV)",1,18
+147,"!Mana Potion (V)",1,19
+148,"Mana Pill",1,35
+149,"Mana Pill (II)",1,36
+150,"Mana Pill (III)",1,37
+151,"Mana Pill (IV)",1,38
+152,"!Mana Pill (V)",1,39
+153,"Rejuvenation Potion",1,20
+154,"Rejuvenation Potion (II)",1,21
+155,"Scroll Of Random Teleport",1,205
+156,"Scroll Of Town Portal",1,207
+157,"Bright Candle",4,290
+158,"Torch",4,291
+159,"Bright Torch",4,291
+160,"Plain Ring",8,530
+161,"Iron Bracer",7,646
+162,"Necklace Of Tranquility",6,873
+163,"Silver Bracelet",7,722
+164,"Gold Necklace",6,870
+165,"Horned Ring",8,470
+166,"Glass Ring",8,490
+167,"Leather Glove",7,640
+168,"Golden Bracelet",7,644
+169,"Magic Bracelet",7,647
+170,"Arisu Bracelet",7,700
+171,"Bracelet Of Exertion",7,660
+172,"Black Crystal Ring",8,531
+173,"Pearl Ring",8,491
+174,"Dagger",2,1045
+176,"Iron Sword",2,1043
+178,"Arisu Wood Sword",2,1042
+179,"Chicken Meat",12,301
+180,"Pork",12,300
+181,"Beef",12,300
+182,"Deer Meat",12,300
+183,"Wolf Meat",12,300
+184,"Bronze Axe",2,1060
+185,"Claw Of Horror",2,2302
+186,"Trident",2,1080
+187,"Scimitar",2,1100
+188,"Light Armour (M)",3,942
+189,"Light Armour (F)",3,952
+190,"Shroud Of Stealth (M)",3,2000
+191,"Shroud Of Stealth (F)",3,2010
+192,"Medium Armour (M)",3,980
+193,"Medium Armour (F)",3,990
+194,"Flame Robe (M)",3,1020
+195,"Flame Robe (F)",3,1030
+196,"Faith Robe (M)",3,1000
+197,"Faith Robe (F)",3,1010
+198,"Tunic Of Velocity (M)",3,2001
+199,"Tunic Of Velocity (F)",3,2011
+200,"Hexagon Blade",2,1063
+201,"War Spear",2,1081
+202,"War Blade",2,1101
+203,"Master's Glaive",2,2201
+204,"Naga Necklace",6,811
+205,"Necklace Of Lantern",6,872
+206,"Necklace Of Meditation",6,830
+207,"White Tiger Tooth Necklace",6,871
+208,"Coral Ring",8,533
+209,"White Serpent Ring",8,511
+210,"Gauntlet Of Deathbringer",7,661
+211,"Bracelet Of Sorcery",7,701
+212,"Black Crystal Necklace",6,810
+213,"Arisu Necklace",6,850
+214,"Empowered Explosive Talisman",14,304
+215,"Empowered Evil Slayer",14,304
+216,"Summon Jin Skeleton",14,304
+217,"Summon Demonic Creature",14,304
+218,"Demon Explosion",14,304
+219,"Strength Of Faith",14,304
+220,"Talisman",11,5280
+221,"Talisman Of Darkness",11,5286
+222,"Talisman Of Fire",11,5281
+223,"Talisman Of Holiness",11,5285
+224,"Talisman Of Ice",11,5282
+225,"Talisman Of Illusions",11,5287
+226,"Talisman Of Lightning",11,5283
+227,"Talisman Of Wind Storm",11,5284
+228,"Talisman Of Soul",11,1150
+229,"Green Poison",10,134
+230,"Red Poison",10,133
+231,"Bronze Helmet",5,370
+232,"Trainee's Mask",5,2100
+233,"Apprentice's Mask",5,2100
+234,"Magic Bronze Helmet",5,370
+235,"Straw Sandles",9,1360
+236,"Leather Shoes",9,1361
+237,"Brown Chestnut",0,1410
+238,"Bronze Chestnut",0,1413
+239,"Silver Chestnut",0,1412
+240,"Gold Chestnut",0,1411
+241,"Carnivorous Plant Leaf",0,113
+242,"Carnivorous Plant Fruit",0,114
+243,"Snake Gall",0,1341
+244,"Spitting Spider Tooth",0,111
+245,"Tooth",0,1431
+246,"!Cat's Claw",0,1431
+247,"!Tuft of Fur",0,1422
+248,"!Trinket",0,1457
+249,"!Rejuvenation Potion (III)",0,3092
+250,"!Rejuvenation Potion (IV)",0,3093
+251,"!Rejuvenation Potion (V)",0,3094
+252,"Mutton",12,300
+253,"!Shell Fragment",0,108
+254,"!Worm Guts",0,1454
+255,"!Bat Fang (OLD)",0,1453
+256,"Skeleton Bone",0,103
+257,"Scorpion Tail",0,112
+258,"Zombie Bone",0,1149
+259,"Maggot Pill",0,110
+260,"Ant Egg",0,102
+261,"Flea Husk",0,1444
+262,"Elixir Of Destruction",1,84
+263,"Elixir Of Destruction (II)",1,84
+264,"Elixir Of Destruction (III)",1,84
+265,"Elixir Of Destruction (IV)",1,84
+266,"Elixir Of Destruction (V)",1,84
+267,"Elixir Of Haste",1,80
+268,"Elixir Of Haste (II)",1,80
+269,"Elixir Of Haste (III)",1,80
+270,"Elixir Of Haste (IV)",1,80
+271,"Elixir Of Haste (V)",1,80
+272,"Elixir Of Life",1,85
+273,"Elixir Of Life (II)",1,85
+274,"Elixir Of Life (III)",1,85
+275,"Elixir Of Life (IV)",1,85
+276,"Elixir Of Life (V)",1,85
+277,"Elixir Of Mana",1,83
+278,"Elixir Of Mana (II)",1,83
+279,"Elixir Of Mana (III)",1,83
+280,"Elixir Of Mana (IV)",1,83
+281,"Elixir Of Mana (V)",1,83
+282,"Elixir Of Nature",1,82
+283,"Elixir Of Nature (II)",1,82
+284,"Elixir Of Nature (III)",1,82
+285,"Elixir Of Nature (IV)",1,82
+286,"Elixir Of Nature (V)",1,82
+293,"Rugged Leather Gauntlet",7,642
+294,"!Balanced Bracelet (OLD)",7,0
+295,"Platinum Necklace",6,851
+296,"Oil Of Benediction",1,63
+297,"Oil Of Conservation",1,53
+298,"Oil Of The War God",1,61
+299,"Loop Of Teleportation",8,573
+300,"Loop Of Paralysis",8,571
+301,"Choker Of Learning",6,891
+302,"Loop Of Ressurection",8,575
+303,"Loop Of Protection",8,576
+304,"Loop Of Invisibility",8,574
+305,"Pendant Of Tracking",6,890
+306,"Power Axe",2,1065
+307,"Gold Ring",8,473
+308,"Band Of Sorcery",8,512
+309,"Blue Jade Necklace",6,812
+310,"Pendant Of Image",6,853
+311,"Helmet Of Shaman",5,372
+312,"Blade Of Spirit Caller",2,1120
+313,"Helmet Of Spirit Caller",5,391
+314,"Necklace Of Spirit Caller",6,911
+315,"Bracelet Of Spirit Caller",7,761
+316,"Ring Of Spirit Caller",8,591
+317,"White Skull Helmet",5,373
+318,"Boots Of Crimson Steed",9,1376
+319,"Disguise Of The Master",5,2101
+320,"Blood Prophet's Cowl",5,2120
+321,"Assassination Mask",5,2102
+322,"Husk",0,107
+323,"Ginseng Of Eternity",1,70
+324,"Helmet Of The War God",5,414
+325,"Crown Of Feral Lord",5,415
+326,"Glowing Diamond Band",8,477
+327,"Crystal",0,221
+328,"Bone Claymore",2,1044
+329,"Mage Staff",2,1082
+330,"Serpent Sword",2,1102
+331,"Glaive Of Manes",2,2202
+332,"Banya Gem Stone",0,1349
+333,"Ring Of Exorcism",8,474
+334,"Claw Necklace",6,813
+335,"Iron Plate Armour (M)",3,981
+336,"Iron Plate Armour (F)",3,991
+337,"Robe Of Dark Flame (M)",3,1021
+338,"Robe Of Dark Flame (F)",3,1031
+339,"Robe Of Balance (M)",3,1001
+340,"Robe Of Balance (F)",3,1011
+341,"Shadow Armour Of Deviation (M)",3,2002
+342,"Shadow Armour Of Deviation (F)",3,2012
+343,"Tri Stone Necklace",6,895
+344,"Butcher's Necklace",6,835
+345,"Puple Crystal Pendant",6,854
+346,"Wyvern Armour (M)",3,960
+347,"Wyvern Armour (F)",3,970
+348,"Nephrite Armour (M)",3,2003
+349,"Nephrite Armour (F)",3,2013
+350,"Wyvern Armour Of Protection (M)",3,961
+351,"Wyvern Armour Of Protection (F)",3,971
+352,"Demon Hunter's Shroud (M)",3,2004
+353,"Demon Hunter's Shroud (F)",3,2014
+354,"Gale Ring",8,550
+355,"Gale Necklace",6,877
+356,"Horn",0,1338
+357,"Sword Of Purification",2,1210
+358,"Horn Of Uma King",0,100
+359,"Signet Of Summoning",8,590
+360,"Amulet Of Summoning",6,910
+361,"Bracelet Of Summoning",7,760
+362,"Head-Guard Of Summoning",5,390
+363,"Enchanted Blade",2,1067
+364,"Signet Of Vigor",8,593
+365,"Arm Wrap Of Vigor",7,763
+366,"Pendant Of Vigor",6,913
+367,"Pendant Of Luminary",6,858
+368,"Pendant Of Courage",6,818
+369,"Spider Web Thread",0,105
+370,"Green Bead Necklace",6,814
+371,"Anti Evil Necklace",6,855
+372,"Ring Of Life Stealing",8,592
+373,"Wrist Guard Of Life Stealing",7,762
+374,"Pendant Of Life Stealing",6,912
+375,"Bracer Of Artisan",7,663
+376,"Dark Iron Gauntlet",7,667
+377,"Tainted Bracelet",7,684
+378,"Claw",0,1340
+380,"Bronze Gauntlet",7,641
+381,"Gold Plated Bracelet",7,645
+382,"Bamboo Hat",5,411
+383,"Fierce Dragon Ring",8,534
+384,"Ring Of Dawn",8,493
+385,"Battle Necklace",6,837
+386,"Phantom Choker",6,817
+387,"Amulet Of Empowerment",6,916
+388,"Gloves Of Black Guard",7,669
+389,"Gauntlet Of Hero",7,666
+390,"Brightly Coloured Shoes",9,1374
+391,"Iron Wood Helmet",5,410
+392,"White Lotus Disguise",5,2101
+393,"Red Lotus Disguise",5,2103
+394,"Fragment Of Zuma King",0,101
+395,"Amulet Of Vanquishment",6,815
+396,"Ring Of Endless Circle",8,476
+397,"Ancient Myrmidon Band",8,497
+398,"Loop Of Endless Combat",8,496
+399,"Loop Of Seven Gems",8,478
+400,"Meteorite Pendant",6,898
+401,"Blessed Ring Of Exorcism",8,474
+402,"Zuma Judgement Mace",2,1302
+403,"Zuma Runed Staff",2,1260
+404,"Zuma Dragon Bone Staff",2,1193
+405,"Statue Fragment",0,1430
+406,"Claw Of Black Tortoise",2,2305
+407,"Laurel Mask",5,2107
+408,"Burning Dark Stone",16,340
+409,"Burning Dark Stone (II)",16,340
+410,"Burning Dark Stone (III)",16,340
+411,"Burning Dark Stone (IV)",16,340
+412,"Burning Dark Stone (V)",16,340
+413,"Frozen Dark Stone",16,341
+414,"Frozen Dark Stone (II)",16,341
+415,"Frozen Dark Stone (III)",16,341
+416,"Frozen Dark Stone (IV)",16,341
+417,"Frozen Dark Stone (V)",16,341
+418,"Shocking Dark Stone",16,342
+419,"Shocking Dark Stone (II)",16,342
+420,"Shocking Dark Stone (III)",16,342
+421,"Shocking Dark Stone (IV)",16,342
+422,"Shocking Dark Stone (V)",16,342
+423,"Gusting Dark Stone",16,343
+424,"Gusting Dark Stone (II)",16,343
+425,"Gusting Dark Stone (III)",16,343
+426,"Gusting Dark Stone (IV)",16,343
+427,"Gusting Dark Stone (V)",16,343
+428,"Great Axe",2,1066
+429,"Mage Sword",2,1083
+430,"Valor Blade",2,1062
+431,"White Lotus Glaive",2,2206
+432,"Amulet Of Ancient Kingdom",6,914
+433,"Nature Band Of Ancient Kingdom",8,594
+434,"Spirit Band Of Ancient Kingdom",8,594
+435,"Armoured Bracer Of Ancient Kingdom",7,764
+436,"Holy Bracer Of Ancient Kingdom",7,764
+437,"Sanyum Bead",0,1346
+438,"Chicken Blood",1,31
+439,"Bronze Sword",2,1043
+440,"Copper Ring",8,530
+441,"Blue Crystal Ring",8,472
+442,"Hexagonal Ring",8,510
+443,"Steel Bracelet",7,646
+444,"Gold-Plated Bracelet",7,648
+445,"Apprentice's Hand Blade",2,2300
+446,"Expert's Hand Blade",2,2300
+447,"Big Skeleton Bone",0,103
+449,"Razor Sharp Hand Blade",2,2300
+450,"Yellow Crystal Necklace",6,830
+451,"Bracer Of Magic",7,680
+452,"Serpent Ring",8,511
+453,"Amber Necklace",6,852
+454,"Seal Of Titans",8,572
+457,"Deathblow Talon",2,2301
+463,"Elixir Of Spirit",1,81
+464,"Elixir Of Spirit (II)",1,81
+465,"Elixir Of Spirit (III)",1,81
+466,"Elixir Of Spirit (IV)",1,81
+467,"Elixir Of Spirit (V)",1,81
+468,"Ring Of Discipline",8,492
+469,"Bamboo Necklace",6,832
+470,"Bracelet Of Three Eyes",7,681
+471,"Assassin's Ripper",2,2301
+472,"Choker Of Ashes",6,833
+473,"Necklace Of Nature",6,896
+474,"Band Of Magic",8,513
+475,"Pendant Of Wrath",6,856
+477,"Amulet Of Wisdom",6,838
+478,"Pendent Of Holy Spirit",6,834
+480,"Ring Of Destruction",7,683
+481,"Amulet Of Chaos",6,816
+482,"Pendant Of Destruction",6,836
+483,"Freedom Pass",0,180
+486,"Necklace Of Evasion",6,874
+487,"Dark Blade",7,721
+488,"Bracelet Of Evasion",7,723
+489,"Spiked Ring",8,535
+490,"Opal Ring",8,514
+491,"Hieroglyphic Ring",8,494
+492,"Red Maple Ring",8,499
+493,"Jewel",0,1424
+494,"Numa Power Axe",2,1250
+495,"Numa Mage Staff",2,1280
+496,"Rogue's Render",2,2303
+497,"Cursed Serpent Sword",2,1231
+498,"Ambitious Sword Of Abyss",2,1077
+499,"Ambitious Warden's Fan Of Obedience",2,1107
+500,"Ambitious Glaive Of Doom",2,1088
+501,"Crystallized Dark Ore",0,223
+502,"Lance Of Obedience",2,2220
+504,"Hero's Bracelet",7,662
+505,"Holy Bracer",7,682
+506,"Wyvern Bracelet",7,702
+507,"Enchanted Blade Of Banya",2,1170
+508,"Dark Banya Gem Stone",0,1350
+509,"Mage Sword Of Banya",2,1083
+510,"Runed Staff Of Banya",2,1263
+511,"Forged Scimitar Of Banya",2,1182
+512,"Glaive Of Frozen Heart",2,2203
+513,"Red Lotus Glaive",2,2204
+515,"Conqueror's Talon",2,2304
+516,"Amulet Of The Cult Leader",6,899
+517,"Amulet Of Five Elements",6,915
+518,"Amulet Of The Enlightened",6,897
+519,"Boots Of Despair",9,1371
+520,"Boots Of Swiftness",9,1375
+521,"Boots Of Levitation",9,1377
+522,"Blue Sword Of Purification",2,1212
+523,"Serpent Sword Of Banya",2,1233
+524,"Banya Mage Staff",2,1281
+525,"Rugged Leather Boots",9,1363
+526,"Boots Of Black Tortoise",9,1364
+527,"Silk Boots",9,1362
+528,"Tears Of Banya",0,1348
+529,"Death Glaive",2,2205
+530,"Ring Of Unification",8,498
+531,"Ruby Ring",8,513
+532,"Platinum Ring",8,493
+533,"Gold Dragon Ring",8,534
+534,"Potion Of Forgetfulness",1,64
+535,"Enraged Demon's Hood",5,2121
+536,"Loop Of Secrets",8,479
+537,"Copper Ore",13,216
+538,"Iron Ore",13,211
+539,"Silver Ore",13,215
+540,"Gold Ore",13,210
+541,"Black Iron Ore",13,214
+542,"Amethyst",13,217
+543,"Garnet",13,218
+544,"Diamond",13,219
+545,"Corundum",13,220
+547,"Forged Scimitar",2,1068
+548,"Runed Staff",2,1103
+549,"Judgement Mace",2,1069
+550,"Dragon Bone Staff",2,1084
+551,"Runed Emblem",0,1441
+552,"Death Steel Claw",2,2306
+553,"Carmine Claw Determination",2,2307
+554,"Raiment Of Executioner(M)",3,2002
+555,"Raiment Of Executioner(F)",3,2012
+556,"Augmented Bronze Gauntlet",7,643
+557,"Crown Of Dark Crusader",5,374
+558,"Blue Jade Signet",8,857
+559,"Loop Of Reincarnation",8,475
+560,"Turban Of Discipline",5,413
+561,"Helmet Of The Conqueror",5,412
+562,"Enchanted Iron Plate Armour (M)",3,982
+563,"Enchanted Iron Plate Armour (F)",3,992
+564,"Robe Of Conjurer (M)",3,1022
+565,"Robe Of Conjurer (F)",3,1032
+566,"Robe Of Preserver (M)",3,1002
+567,"Robe Of Preserver (F)",3,1012
+568,"Ring Of Sovereignty",8,515
+569,"Armour Of Condemned (M)",3,983
+570,"Armour Of Condemned (F)",3,993
+571,"Raiment Of Arch Mage (M)",3,1023
+572,"Raiment Of Arch Mage (F)",3,1033
+573,"Raiment Of High Priest (M)",3,1003
+574,"Raiment Of High Priest (F)",3,1013
+575,"Tunic Of Annihilation (M)",3,2003
+576,"Tunic Of Annihilation (F)",3,2013
+578,"Hood Of Nemesis",5,2105
+579,"Enraged Falcon's Mask",5,2109
+581,"Skeleton Ring",8,532
+582,"Iron Ring",8,471
+583,"Potion Of Repentance",1,64
+584,"Redemption Key Stone",1,1442
+585,"Summon Skeleton",14,304
+586,"Summon Shinsu",14,304
+587,"Shadow Chaser",9,1373
+588,"Ice Rain",14,0
+589,"Empowered Purification",14,304
+590,"Empowered Resurrection",14,304
+621,"Fury Blade",2,1049
+622,"Twisted Blade Of Souls",2,1061
+623,"Yun Wine",0,1468
+624,"Band Of Netherworld",8,495
+625,"Diamond Encrusted Band",8,516
+626,"Perfection Ring",8,536
+627,"Universe Ring",8,537
+628,"Iron Plate Necklace",6,878
+629,"Amulet Of Absorption",6,892
+630,"Pendant Of Wind Elemental",6,893
+631,"Soul Trapped Necklace",6,894
+632,"Celestial Blade",2,1046
+633,"Halberd Of Integrity",2,2209
+634,"Potion Of Oblivion",1,64
+635,"Sword Of Abyss",2,1074
+636,"Glaive Of Doom",2,1086
+637,"Warden's Fan Of Obedience",2,1105
+638,"Divine Command",2,2221
+639,"Relic",0,1449
+640,"Rusty Signet Of Myrmidon",0,538
+641,"Rusty Signet Of Evoker",0,518
+642,"Rusty Signet Of Vicar",0,553
+643,"Rusty Charm Of The Destroyer",0,819
+644,"Rusty Amulet Of Dark Sorcery",0,859
+645,"Rusty Pendant Of Purification",0,839
+646,"Rusty Bracer Of Revelation",0,685
+647,"Rusty Ring Of Enlightenment",0,703
+648,"Rusty Bracelet Of Ascension",0,725
+649,"Courage Of Kelsar",6,917
+650,"Temperance Of Hunta",7,765
+651,"Determination Of Tanguere",7,766
+652,"Wisdom Of Dumachi",8,595
+653,"Justice Of Natura",8,596
+654,"Shamal's Obsidian Giant Blade",2,1203
+655,"Shamal's Divine Blade Of Judgment",2,1223
+656,"Shamal's Staff Of Retribution",2,1273
+657,"Falcon Glaive",2,2208
+658,"Signet Of Myrmidon",8,538
+659,"Signet Of Evoker",8,518
+660,"Signet Of Vicar",8,553
+661,"Charm Of The Destroyer",6,819
+662,"Amulet Of Dark Sorcery",6,859
+663,"Pendant Of Purification",6,839
+664,"Bracer Of Revelation",7,685
+665,"Ring Of Enlightenment",7,703
+666,"Bracelet Of Ascension",7,725
+667,"Relic Fragment",0,101
+668,"Heavenly Blade Of Tranquility",2,1064
+669,"Talon Staff Of A'Ryong",2,1087
+670,"Calamity",2,1078
+671,"Amulet Of Sirius",6,797
+672,"Bracelet Of Canopus",7,767
+673,"Ring Of Alpha Centauri",8,597
+674,"Celestial Necklace Of Eternity",6,798
+675,"Dazzling Bracelet Of Earth",7,768
+676,"Brilliant Band Of Harmony",8,598
+677,"The Master's Pendant",6,799
+678,"The Master's Bracelet",7,769
+679,"The Master's Ring",8,599
+680,"Claw Of The Demon God",2,2308
+682,"Hero's Band Of Supremacy",8,517
+683,"Apocalypse",2,1041
+684,"Heavenly Staff Of Immortality",2,1047
+685,"Afterlife",2,1106
+686,"Phoenix Glaive Of Havoc",2,2222
+687,"Chrome Armguard Of Earth",7,671
+688,"Jade Armguard Of Purity",7,673
+689,"Glowing Armguard Of Crescent",7,675
+690,"Wind Walkers",9,1393
+691,"Medallion Of Black Magic",6,928
+692,"Ghost Armour (M)",3,984
+693,"Ghost Armour (F)",3,994
+694,"Raiment Of Spectral Energy (M)",3,2004
+695,"Raiment Of Spectral Energy (F)",3,2014
+696,"Band Of Azure Sky",8,540
+697,"Aged Gold Band Of Mystic",8,500
+698,"Channeler's Signet Of Wizardry",8,520
+699,"Cobalt Armguard Of Earth",7,670
+700,"Azure Armguard Of Purity",7,672
+701,"Blazing Armguard Of Crescent",7,674
+709,"Mark Of Destruction [T]",4,1693
+710,"Mark Of Nature [T]",4,1694
+711,"Mark Of Spirit [T]",4,1695
+712,"Mark Of Fire [T]",4,1696
+713,"Mark Of Ice [T]",4,1697
+714,"Mark Of Lightning [T]",4,1698
+715,"Mark Of Wind [T]",4,1699
+716,"Mark Of Holy [T]",4,1700
+717,"Mark Of Dark [T]",4,1701
+718,"Mark Of Phantom [T]",4,1702
+719,"Mark Of Destruction [P]",4,1720
+720,"Mark Of Nature [P]",4,1721
+721,"Mark Of Spirit [P]",4,1722
+722,"Mark Of Fire [P]",4,1723
+723,"Mark Of Ice [P]",4,1724
+724,"Mark Of Lightning [P]",4,1725
+725,"Mark Of Wind [P]",4,1726
+726,"Mark Of Holy [P]",4,1727
+727,"Mark Of Dark [P]",4,1728
+728,"Mark Of Phantom [P]",4,1729
+729,"Mir Package [T]",1,1732
+730,"Tonic Of Experience [T]",1,1686
+731,"Tonic Of Treasure [T]",1,1687
+732,"Tonic Of Wealth [T]",1,1688
+733,"Tonic Of Spelunking [T]",1,1689
+734,"Tonic Of Destruction [T]",1,1770
+735,"Tonic Of Nature [T]",1,1771
+736,"Tonic Of Spirit [T]",1,1772
+737,"Tonic Of Life [T]",1,1773
+738,"Tonic Of Mana [T]",1,1774
+739,"Tonic Of Velocity [T]",1,1785
+740,"Tonic Of Dexterity [T]",1,1775
+741,"Tonic Of Knowledge [T]",1,69
+742,"Tonic Of Luck [T]",1,1779
+743,"Mir Package [P]",1,1732
+744,"Tonic Of Experience [P]",1,1686
+745,"Tonic Of Treasure [P]",1,1687
+746,"Tonic Of Wealth [P]",1,1688
+747,"Tonic Of Spelunking [P]",1,1689
+748,"Tonic Of Destruction [P]",1,1770
+749,"Tonic Of Nature [P]",1,1771
+750,"Tonic Of Spirit [P]",1,1772
+751,"Tonic Of Life [P]",1,1773
+752,"Tonic Of Mana [P]",1,1774
+753,"Tonic Of Velocity [P]",1,1785
+754,"Tonic Of Dexterity [P]",1,1775
+755,"Tonic Of Knowledge [P]",1,69
+756,"Megaphone [P]",1,1712
+757,"Hair Change",24,1715
+758,"Gender Change",24,1555
+759,"Armour Dye",24,1711
+760,"Additional Vault",1,1768
+761,"Crafting Vault",0,1769
+762,"Name Change",24,180
+763,"Scroll Of Boss Tracking",1,1781
+764,"Scroll Of Player Tracking",1,1782
+765,"Scroll Of Teleportation",0,174
+766,"Scroll Of Greater Teleportation",0,175
+767,"Elixir Of Regret Lv 3",1,3060
+768,"Elixir Of Regret Lv 5",1,3061
+769,"Elixir Of Regret Lv 7",1,3062
+770,"Elixir Of Regret Lv 10",1,3069
+771,"Potion Of Awareness",0,3064
+772,"Green Apple",20,86
+773,"Chestnut Rice Ball",20,1321
+774,"Meat Dumpling",20,2790
+775,"Fresh Meat",20,1588
+776,"Basic Worn Bag",21,2770
+777,"Fantastic Wool Bag",21,2771
+778,"Luxury Silk Box",21,2772
+779,"Angel Wings",23,2752
+780,"Angel Head Band",22,2750
+781,"Rabbit Head Band",22,2751
+782,"Refiner's Ore (Weapon)",17,1703
+783,"Refiner's Ore (Reset)",17,1704
+784,"Refiner's Ore (Safe Master)",17,1705
+785,"Refiner's Ore (Armour)",17,1706
+786,"Refiner's Ore (Master)",17,1707
+787,"Superior Repair Oil",1,66
+788,"Accessory Repair Oil",1,67
+789,"Armour Repair Oil",1,68
+790,"Pill Of Reincarnation",1,96
+791,"Elixir Of Purification",1,32
+792,"Potion Of Repentence (II)",1,64
+793,"Thorned Rose",19,88
+794,"Guardian Angel's Flower",19,89
+795,"Iron Horse Armour",18,1802
+796,"Silver Horse Armour",18,1801
+797,"Gold Horse Armour",18,1800
+798,"Blue Horse Armour",18,1804
+799,"Dark Horse Armour",18,1803
+801,"Experience",0,5071
+802,"Wool",0,105
+803,"Venom",0,60
+804,"Arachnid Teeth",0,111
+805,"Spider Curare",0,2755
+806,"Edible Chestnut",0,1411
+807,"Skeletal Spine",0,2644
+808,"Henry's Journal",0,1572
+809,"David's Key",0,2950
+810,"Haylee's Key",0,2950
+811,"Kacy's Key",0,2950
+812,"Zombie Flesh",0,1556
+813,"Gresham's Journal",0,1572
+814,"Isaac's Journal",0,1572
+815,"Companion Ticket",0,5013
+816,"Pick Axe",2,1040
+817,"Pick Axe Of Wind",2,1048
+818,"Pick Axe Of Storm",2,1048
+819,"Obsidian Giant Blade",2,1070
+820,"Divine Blade Of Judgement",2,1104
+821,"Staff Of Retribution",2,1272
+822,"Ruination",2,2309
+823,"Muk's Obsidian Giant Blade",2,1201
+824,"Muk's Divine Blade Of Judgement",2,1222
+825,"Muk's Staff Of Retribution",2,1085
+826,"Muk's Unparalleled Polearm",2,2207
+827,"Pure Quartz",0,1141
+828,"Refinement Stone",0,224
+829,"Fragment",0,271
+830,"Fragment (II)",0,272
+831,"Fragment (III)",0,273
+832,"Fragment (IV)",0,274
+833,"The Sun Raiser",8,557
+834,"Medallion Of The Eight Kings",6,919
+835,"Ascension Bracelet",7,688
+836,"Band Of Unstable Energy",8,556
+837,"Pendant Of The Full Moon",6,918
+838,"Dragon Bracelet Of Supremacy",7,686
+839,"Gift Of Aquatic Guardian",8,555
+840,"Medallion Of Underworld",6,920
+841,"Keeper's Bracelet Of Insight",7,687
+842,"Argent Sabatons Of Comet",9,1385
+843,"Lupine Headgear",5,355
+844,"Lupine Greaves",9,1384
+845,"Raven Hood Of Covertness",5,2108
+847,"Advanced Bloody Flower",14,304
+857,"Bloodthirsty Signet Of Carnage",8,539
+858,"Celestial Loop Of The Stars",8,558
+859,"Oracle's Loop Of Serenity",8,519
+860,"Bloodthirsty Bracelet Of Carnage",7,706
+861,"Celestial Bracelet Of The Stars",7,705
+862,"Oracle's Bracer Of Serenity",7,704
+863,"Bloodthirsty Pendant Of Carnage",6,923
+864,"Celestial Amulet Of The Stars",6,922
+865,"Oracle's Locket Of Serenity",6,921
+866,"Symbol Of Holy Grounds",6,879
+867,"Holy Bracer Of Grace",7,741
+868,"Rusty Seal Of Overlord",8,559
+869,"Cracked Seal Of Overlord",8,559
+870,"Worn Seal Of Overlord",8,559
+871,"Rusty Bracelet Of Overlord",7,689
+872,"Cracked Bracelet Of Overlord",7,689
+873,"Worn Bracelet Of Overlord",7,689
+874,"Scratched Bracelet Of Overlord",7,689
+875,"Rusty Medallion Of Overlord",6,924
+876,"Cracked Medallion Of Overlord",6,924
+877,"Worn Medallion Of Overlord",6,924
+878,"Rusty Signet Of Moon",8,561
+879,"Cracked Signet Of Moon",8,561
+880,"Worn Signet Of Moon",8,561
+881,"Rusty Bracer Of Moon",7,691
+882,"Cracked Bracer Of Moon",7,691
+883,"Worn Bracer Of Moon",7,691
+884,"Scratched Bracer Of Moon",7,691
+885,"Rusty Pendant Of Moon",6,926
+886,"Cracked Pendant Of Moon",6,926
+887,"Worn Pendant Of Moon",6,926
+888,"Rusty Band Of Dignity",8,560
+889,"Cracked Band Of Dignity",8,560
+890,"Worn Band Of Dignity",8,560
+891,"Rusty Bracelet Of Dignity",7,690
+892,"Cracked Bracelet Of Dignity",7,690
+893,"Worn Bracelet Of Dignity",7,690
+894,"Scratched Bracelet Of Dignity",7,690
+895,"Rusty Amulet Of Dignity",6,925
+896,"Cracked Amulet Of Dignity",6,925
+897,"Worn Amulet Of Dignity",6,925
+898,"East Chiwoo Iron",0,1768
+899,"West Chiwoo Iron",0,1769
+900,"Blade Of The Dragon Lord",2,1094
+901,"Loop Of The Dragon Lord",8,562
+902,"Armband Of The Dragon Lord",7,692
+903,"Amulet Of The Dragon Lord",6,927
+904,"Greaves Of The Dragon Lord",9,1392
+905,"Headcover Of The Dragon Lord",5,416
+906,"Frost Bite",14,304
+907,"Argent Battleplate Of Might (M)",3,962
+908,"Argent Battleplate Of Might (F)",3,972
+909,"Sacred Warplate Of Mastery (M)",3,963
+910,"Sacred Warplate Of Mastery (F)",3,973
+911,"Blazing Raiment Of Phoenix (M)",3,964
+912,"Blazing Raiment Of Phoenix (F)",3,974
+913,"Azure Raiment Of Illusion (M)",3,965
+914,"Azure Raiment Of Illusion (F)",3,975
+915,"Wyvern Scale Armour (M)",3,2005
+916,"Wyvern Scale Armour (F)",3,2015
+917,"Armour Of Demonic Wrath (M)",3,2007
+918,"Armour Of Demonic Wrath (F)",3,2017
+919,"Blazing Raiment Of Embers (M)",3,962
+920,"Blazing Raiment Of Embers (F)",3,972
+921,"Demonic Raiment Of Illusion (M)",3,962
+922,"Demonic Raiment Of Illusion (F)",3,972
+923,"Seal Of Overlord",8,559
+924,"Bracelet Of Overlord",7,689
+925,"Medallion Of Overlord",6,924
+926,"Arcanist's Band Of Dignity",8,560
+927,"Arcanist's Bracelet Of Dignity",7,690
+928,"Arcanist's Amulet Of Dignity",6,925
+929,"Hierophant's Signet Of Moon",8,561
+930,"Hierophant's Bracer Of Moon",7,691
+931,"Hierophant's Pendant Of Moon",6,926
+932,"Fortune Checker",24,1594
+933,"[Part]",25,0
+934,"Tonic of Comfort [T]",1,1787
+935,"Helmet Of Dragon Abyss",5,417
+936,"Armour Of Abyss (M)",3,2006
+937,"Armour Of Abyss (F)",3,2016
+938,"Pendant Of Dragon Abyss",6,933
+939,"Armguard Of Dragon Abyss",7,693
+940,"Band Of Dragon Abyss",8,563
+941,"Greaves Of Dragon Abyss",9,1394
+942,"Jade Choker Of Purity",6,929
+943,"Amulet Of Redemption",6,930
+944,"Jade Bracelet Of Purity",7,694
+945,"Bracelet Of Redemption",7,695
+946,"Jade Band Of Purity",8,564
+947,"Signet Of Redemption",8,565
+948,"Overlord's Battleplate (M)",3,944
+949,"Overlord's Battleplate (F)",3,954
+950,"Dragon Necklace Of Revival",6,931
+951,"Dragon Bracelet Of Revival",7,696
+952,"Dragon Ring Of Revival",8,566
+953,"Wraith Blade Of Sama",2,1123
+954,"Ancestral Tablet Of Sama Mage",0,54
+955,"Elementalist's Battleplate (M)",3,944
+956,"Elementalist's Battleplate (F)",3,954
+957,"Archon's Battleplate (M)",3,944
+958,"Archon's Battleplate (F)",3,954
+959,"Burning Blade Of Sama",2,1123
+960,"Unholy Blade Of Sama",2,1123
+961,"Blades Of Sama",2,2222
+962,"Old Carrot",0,5014
+963,"Mass Beckon",14,304
+964,"Asteroid",14,304
+965,"Infection",14,304
+966,"Massacre",14,304
+967,"Weapon Template",0,1110
+968,"Warrior's Edge",2,1111
+969,"Wizard's Edge",2,1112
+970,"Taoist's Edge",2,1113
+971,"Assassin's Edge",2,1114
+972,"Yellow Cube",0,3130
+973,"Blue Cube",0,3131
+974,"Red Cube",0,3132
+975,"Purple Cube",0,3133
+976,"Green Cube",0,3134
+977,"Grey Cube",0,3135
+978,"Yellow Orb",0,3140
+979,"Blue Orb",0,3141
+980,"Red Orb",0,3142
+981,"Purple Orb",0,3143
+982,"Green Orb",0,3144
+983,"Grey Orb",0,3145
+984,"Yellow Trinket",0,3150
+985,"Blue Trinket",0,3151
+986,"Red Trinket",0,3152
+987,"Purple Trinket",0,3153
+988,"Green Trinket",0,3154
+989,"Grey Trinket",0,3155
+990,"Carrot",1,5014
+991,"Potion of Greed",1,1418
+992,"Novice Emblem",26,322
+993,"Expert Emblem",26,324
+994,"Elite Emblem",26,325
+995,"Heavy Boots",9,3308
+996,"Old Whistle",1,3021
+997,"White Whistle",1,3022
+998,"FootBall Kit (M)",3,2870
+999,"FootBall Kit (F)",3,2880
+1000,"Tunic of the Blood God (M)",3,2008
+1001,"Tunic of the Blood God (F)",3,2018
+1002,"Armour of the Blessed King",3,3321
+1003,"Armour of the Blessed Queen",3,3331
+1004,"Vestment of Shattered Souls (M)",3,3326
+1005,"Vestment of Shattered Souls (F)",3,3336
+1006,"Robes of the Blessed One (M)",3,3323
+1007,"Robes of the Blessed One (F)",3,3333
+1008,"Valhalla, The Last Hope",2,2560
+1009,"Spellkeeper, Knowledge of the Ancients",2,2520
+1010,"Moonlight, Light in the Darkness",2,2510
+1011,"Echo, Blades of Torment",2,3450
+1012,"Garnet Ring",8,5500
+1013,"Lapis Lazuli Ring",8,5501
+1014,"Malachite Ring",8,5502
+1015,"Garnet Bracelet",7,5510
+1016,"Lapis Lazuli Bracelet",7,5511
+1017,"Malachite Bracelet",7,5512
+1018,"Garnet Necklace",6,5520
+1019,"Lapis Lazuli Necklace",6,5521
+1020,"Malachite Necklace",6,5522
+1021,"Alpha, Hammer of Cruelty",2,3422
+1022,"Sunshard, Elements Fury",2,3436
+1023,"Dawnseeker,  Lights Vengeance",2,3445
+1024,"Reaper, The Tri-blade",2,3455
+1025,"Nemesis, The Blade of Betrayal",2,3426
+1026,"Deluge, Winter's Might",2,3435
+1027,"Celestia, Fan of the Heavens",2,3447
+1028,"Chaos, The Spiral Death",2,3451
+1037,"Armour of the Sun Keeper (M)",3,3320
+1038,"Armour of the Sun Keeper (F)",3,3330
+1039,"Armour of Arcane Fury (M)",3,3327
+1040,"Armour of Arcane Fury (F)",3,3337
+1041,"Armour of Eternal Rest (M)",3,6000
+1042,"Armour of Eternal Rest (F)",3,6010
+1043,"Tunic of Whispers (M)",3,3380
+1044,"Tunic of Whispers (F)",3,3390
+1045,"Kingsguard Helmet",5,3470
+1046,"Shimmering Light Crown",5,3480
+1047,"Half Moon Hood",5,3472
+1048,"Nightstalkers Cowl",5,3540
+1049,"Masters Emblem",26,326
+1050,"Champions Emblem",26,327
+1051,"Kings Emblem",26,328
+1052,"Zirconian Emblem",26,329
+1053,"Striking Boots",9,3304
+1054,"Swiftcaster Boots",9,3306
+1055,"Lifeseeker Boots",9,3307
+1057,"Obsidian Ring",8,3284
+1058,"Sapphire Ring",8,3286
+1059,"Alexandrite Ring",8,3287
+1060,"Obsidian Bracelet",7,3264
+1061,"Sapphire Bracelet",7,3266
+1062,"Alexandrite Bracelet",7,3267
+1063,"Obsidian Necklace",6,3244
+1064,"Sapphire Necklace",6,3246
+1065,"Alexandrite Necklace",6,3247
+1066,"Tonic of Collection [T]",1,2759
+1067,"Dusk Bracelet",7,3261
+1068,"Crushing Bracelet",7,3260
+1069,"Odyn Son",2,3422
+1070,"Odyn Mythical",2,3422
+1072,"Odyn Elemental",2,3422
+1073,"Crushing Ring",8,3280
+1074,"Occult Ring",8,3282
+1075,"Radiant Ring",8,3285
+1076,"Occult Bracelet",7,3262
+1077,"Radiant Bracelet",7,3265
+1078,"Dusk Ring",8,3281
+1079,"Odyn Sin",2,3422
+1080,"Radiant Necklace",6,3245
+1081,"Occult Necklace",6,3243
+1082,"Crushing Necklace",6,3240
+1083,"Dusk Necklace",6,3241
+1084,"Seismic Slam",14,304
+1085,"Demonic Recovery",14,304
+1086,"Storm",14,304
+1087,"Art of Shadows",14,304
+1088,"Worm Squashers",9,3309
+1089,"PVP Champion",26,329
+1090,"PVP Apprentice",26,322
+1092,"Stat Extractor",1,3038
+1093,"Stat Extractor",1,3039
+1094,"Elixir Of Regret Lv 11",1,3069
+1095,"Elixir Of Regret Lv 13",1,3069
+1096,"Elixir Of Regret Lv 15",1,3069
+1097,"Gold Chest",0,127
+1098,"Item Polisher",0,0
+1099,"Armour Polisher",0,0
+1101,"Tunic of Vengence (F)",3,3391
+1103,"Tunic of Vengence (M)",3,3381
+1104,"Armour of the Titan Slayer (M)",3,3325
+1105,"Armour of the Titan Slayer (F)",3,3335
+1106,"Rainments of the Blazing Comet (M)",3,3328
+1107,"Rainments of the Blazing Comet (F)",3,3338
+1108,"Robes of the Titan Slayer (M)",3,3351
+1109,"Robes of the Titan Slayer (F)",3,3341
+1110,"Refine Extractor",1,3038
+1111,"Refine Extractor",1,3039
+1112,"Wooden Shield",27,1900
+1113,"Bronze Shield",27,1901
+1114,"Iron Shield",27,1902
+1115,"Ice Spike Shield",27,1903
+1116,"Defenders Embrace",27,1914
+1117,"Reflection Mirror Shield",27,1904
+1118,"Maple Guard Adamantine Shield",27,1924
+1119,"Barrage breaker Phoenix Shield",27,1925
+1120,"Santa Outfit (F)",3,5352
+1121,"Santa Outfit (M)",3,5342
+1122,"Valkyrie Blade of Reckoning",2,3428
+1123,"Lifebinder The Ancient Healer",2,3448
+1124,"Crescent Moon Cry of the Fallen",2,3457
+1125,"StormCaller The Sky Blade",2,3438
+1126,"Companion Experience Tonic [T]",1,0
+1127,"Fame Point",34,4010
+1128,"Contribution Point",34,4012
+1129,"Advanced Potion Mastery",14,304
+1130,"Invincibility",14,304
+1131,"Crushing Wave",14,304
+1132,"Defensive Mastery",14,304
+1133,"Physical Immunity",14,304
+1134,"Magic Immunity",14,304
+1135,"Defensive Blow",14,304
+1136,"Elemental Swords",14,304
+1137,"Tornado",14,304
+1138,"Neutralize",14,304
+1139,"Empowered Neutralize",14,304
+1140,"Dark Soul Prison",14,304
+1141,"Searing Light",14,304
+1142,"Empowered Celestial Light",14,304
+1143,"Corpse Exploder",14,304
+1144,"Summon Dead",14,304
+1145,"Dragon Blood",14,304
+1146,"Fatal Blow",14,304
+1147,"Last Stand",14,304
+1148,"Magic Combustion",14,304
+1149,"Vitality",14,304
+1150,"Chain",14,304
+1151,"Concentration",14,304
+1152,"Dual Weapon Skills",14,304
+1153,"Containment",14,304
+1154,"Dragon Wave",14,304
+1155,"Hemorrhage",14,304
+1156,"Burning Fire",14,304
+1157,"Chain Of Fire",14,304
+1158,"War Thurible",27,2886
+1159,"Penance Thurible",27,2887
+1160,"Censorship Thurible",27,2888
+1161,"Petrichor Thurible",27,2889
+1162,"Chaotic Heaven Blade",2,1076
+1163,"Janitors Scimitar",2,2530
+1164,"Janitors Dual Blade",2,2550
+1165,"Chaotic Heaven Blade 2",2,1076
+1166,"Royal Horse Armour",18,0
+1167,"Blue Dragon Armour",18,1805

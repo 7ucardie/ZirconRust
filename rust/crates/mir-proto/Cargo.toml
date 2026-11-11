@@ -1,0 +1,11 @@
+[package]
+name = "mir-proto"
+description = "Client/server wire protocol for the Rust Zircon game"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+serde.workspace = true
+postcard.workspace = true
+thiserror.workspace = true

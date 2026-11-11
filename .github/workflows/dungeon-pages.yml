@@ -1,0 +1,52 @@
+name: Dungeon Atlas Pages
+
+on:
+  push:
+    branches: [main, rust/prototype]
+    paths:
+      - .github/workflows/dungeon-pages.yml
+      - rust/docs/data/dungeon_dashboard.html
+      - rust/docs/data/dungeon_spaces.csv
+      - rust/docs/data/item_ids.csv
+      - rust/docs/atlas/**
+  workflow_dispatch:
+
+concurrency:
+  group: dungeon-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    if: github.repository == '7ucardie/ZirconRust'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/configure-pages@v5
+      - name: Assemble public atlas
+        run: |
+          mkdir _site
+          cp rust/docs/data/dungeon_dashboard.html _site/index.html
+          cp rust/docs/data/dungeon_spaces.csv _site/
+          cp rust/docs/data/item_ids.csv _site/
+          cp -R rust/docs/atlas _site/
+          touch _site/.nojekyll
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    if: github.repository == '7ucardie/ZirconRust'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
+      actions: read
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

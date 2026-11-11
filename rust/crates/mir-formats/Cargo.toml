@@ -1,0 +1,12 @@
+[package]
+name = "mir-formats"
+description = "Readers for Legend of Mir 3 (Zircon) file formats: .Zl sprite libraries, .map maps, MirDB databases"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+thiserror.workspace = true
+anyhow.workspace = true
+serde.workspace = true
+serde_json = "1"
